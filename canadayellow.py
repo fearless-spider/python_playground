@@ -13,6 +13,7 @@ from BeautifulSoup import BeautifulSoup
 from htmlentitydefs import name2codepoint as n2cp
 import re
 
+
 def substitute_entity(match):
     ent = match.group(2)
     if match.group(1) == "#":
@@ -25,11 +26,13 @@ def substitute_entity(match):
         else:
             return match.group()
 
+
 def decode_htmlentities(string):
     entity_re = re.compile("&(#?)(\d{1,5}|\w{1,8});")
     return entity_re.subn(substitute_entity, string)[0]
 
-listingWriter = csv.writer(open('datak.csv','wb'), delimiter='^', quotechar='~')
+
+listingWriter = csv.writer(open('datak.csv', 'wb'), delimiter='^', quotechar='~')
 url = 'http://www.yell.com'
 channel_id = ['geoListings']
 adverts_class = ['listingDetail']
@@ -39,9 +42,9 @@ address_class = ['address']
 category_class = ['ypgCategoryLink']
 web_class = ['noPrint']
 advertsphone_class = ['listingDetailRHS']
-for pagenr in range(1,51):
+for pagenr in range(1, 51):
     print pagenr
-    page = urllib2.urlopen('http://www.yellowpages.ca/search/si/'+str(pagenr)+'/k/Canada')
+    page = urllib2.urlopen('http://www.yellowpages.ca/search/si/' + str(pagenr) + '/k/Canada')
 
     website_content = page.read()
     start = website_content.find('<div id="geoListings">')
@@ -53,7 +56,7 @@ for pagenr in range(1,51):
         if sstart == -1:
             break
         send = website_content.find('</script>')
-        website_content = website_content[:sstart] + website_content[send+9:]
+        website_content = website_content[:sstart] + website_content[send + 9:]
 
     soup = BeautifulSoup(website_content)
     for channel in soup.findAll('div'):
@@ -74,7 +77,7 @@ for pagenr in range(1,51):
                             for ahref in span.findAll('a'):
                                 category = ahref.string
                     row.append(category.strip().replace('&amp;', '&'))
-                            #print category
+                    # print category
                 if adverts.has_key('class') and adverts['class'] in advertsphone_class:
                     for ahref in adverts.findAll('a'):
                         if ahref.has_key('class') and ahref['class'] in phone_class:
@@ -83,11 +86,11 @@ for pagenr in range(1,51):
                 if adverts.has_key('class') and adverts['class'] in address_class:
                     address = adverts.string
                     row.append(address.decode('utf-8').strip())
-                if adverts.has_key('class') and adverts['class'] in web_class:                    
+                if adverts.has_key('class') and adverts['class'] in web_class:
                     for ahref in adverts.findAll('a'):
                         web = str(ahref.get('title')).strip().decode('utf-8')
                         if web.find('www') != -1:
-                            web = web[web.find('www'):web.rfind('-')-1]
+                            web = web[web.find('www'):web.rfind('-') - 1]
                             row.append(web.strip())
                     listingWriter.writerow(row)
     page.close()

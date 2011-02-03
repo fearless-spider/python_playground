@@ -11,7 +11,7 @@ import re
 
 count = 10000
 emaillist = ''
-while(True):
+while (True):
     print count
     profileUrl = 'http://randki.o2.pl/profile.php?id_r=' + str(count)
     response = urllib2.urlopen(profileUrl)

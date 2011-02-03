@@ -5,11 +5,11 @@ Created on 25-01-2011
 '''
 import csv
 
-listing = csv.reader(open('south-dakotacat.csv','rb'), delimiter='^', quotechar='~')
-catlisting = csv.reader(open('category.csv','rb'), delimiter='^', quotechar='~')
-categoryWriter = csv.writer(open('categorynew.csv','wb'), delimiter='^', quotechar='~')
+listing = csv.reader(open('south-dakotacat.csv', 'rb'), delimiter='^', quotechar='~')
+catlisting = csv.reader(open('category.csv', 'rb'), delimiter='^', quotechar='~')
+categoryWriter = csv.writer(open('categorynew.csv', 'wb'), delimiter='^', quotechar='~')
 
-#categoryWriter.writerow(['category_name'])
+# categoryWriter.writerow(['category_name'])
 newrow = []
 for newrow in listing:
     rows = []

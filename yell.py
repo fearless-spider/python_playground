@@ -11,12 +11,14 @@ advert_classes = ['advert-content']
 address_classes = ['address']
 phone_classes = ['advert-cta', 'fle-cta', 'advert-cta fle-cta']
 category_classes = ['advert-footer', 'clearfix', 'advert-footer clearfix']
-alpha = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','y','z']
+alpha = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v',
+         'w', 'y', 'z']
 global i
 i = 0
-p = open('proxy.csv','r')
+p = open('proxy.csv', 'r')
 proxies = p.readlines()
 p.close()
+
 
 def parseAddress(input):
     if input[:7] != 'http://':
@@ -27,6 +29,7 @@ def parseAddress(input):
             input = 'http://' + input
 
     return input
+
 
 def retrieveWebPage(address):
     try:
@@ -43,11 +46,12 @@ def retrieveWebPage(address):
         sys.exit(1)
     return web_handle
 
+
 def getNewProxy(proxyaddress):
     print proxyaddress
-    proxy = urllib2.ProxyHandler({'http':proxyaddress})
+    proxy = urllib2.ProxyHandler({'http': proxyaddress})
     opener = urllib2.build_opener(proxy)
-    opener.addheaders = [('User-agent','Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)')]
+    opener.addheaders = [('User-agent', 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)')]
     urllib2.install_opener(opener)
 
 
@@ -55,15 +59,15 @@ for alp in alpha:
     page = None
     while page == None:
         try:
-            getNewProxy(proxies[random.randint(0,37)])
-            page = urllib2.urlopen('http://www.yell.com/k/uk-'+alp+'.html')
+            getNewProxy(proxies[random.randint(0, 37)])
+            page = urllib2.urlopen('http://www.yell.com/k/uk-' + alp + '.html')
         except urllib2.HTTPError, e:
-            print 'Cannot retrieve URL: HTTP Error Code', e.code            
+            print 'Cannot retrieve URL: HTTP Error Code', e.code
             page = False
     soup = BeautifulSoup(page)
-    f = open('data'+alp+'.csv','w')
-    #f.write('%s' % f.read())
-    l = open('log.txt','w')
+    f = open('data' + alp + '.csv', 'w')
+    # f.write('%s' % f.read())
+    l = open('log.txt', 'w')
     for channel in soup.findAll('ul'):
         if channel.has_key('class') and channel['class'] in channel_classes:
 
@@ -80,13 +84,15 @@ for alp in alpha:
                         startAt = 0
                         pageNum = 1
                         while True:
-#                        time.sleep(random.randint(10,100))
-                            plink = '/ucs/UcsSearchAction.do?startAt='+str(startAt)+'&keywords='+keywords+'&location=uk&scrambleSeed=1602419087&searchType=advance&showOoa=10&ppcStartAt=0&pageNum='+str(pageNum)
+                            #                        time.sleep(random.randint(10,100))
+                            plink = '/ucs/UcsSearchAction.do?startAt=' + str(
+                                startAt) + '&keywords=' + keywords + '&location=uk&scrambleSeed=1602419087&searchType=advance&showOoa=10&ppcStartAt=0&pageNum=' + str(
+                                pageNum)
                             results += 10
                             startAt += 10
                             pageNum += 1
                             print str(pageNum)
-                            address = parseAddress(url+plink)
+                            address = parseAddress(url + plink)
                             website_handle = False
                             while website_handle == False:
                                 if i == len(proxies):
@@ -94,7 +100,7 @@ for alp in alpha:
                                 getNewProxy(proxies[i])
                                 i = i + 1
                                 website_handle = retrieveWebPage(address)
-                            
+
                             website_text = website_handle.read()
                             website_handle.close()
 
@@ -110,20 +116,20 @@ for alp in alpha:
                                     results -= 10
                                     startAt -= 10
                                     pageNum -= 1
-                            
+
                             website_text = website_text[start:]
                             end = website_text.find('<script type="text/javascript">')
-#                        if i == 0:
-#                            pstart = website_text.find('<div id="bottomPageNumbers">')
-#                            pager_text = website_text[pstart:]
-#                            pend = pager_text.find('</div>')
-#                            pager_text = pager_text[0:pend]
+                            #                        if i == 0:
+                            #                            pstart = website_text.find('<div id="bottomPageNumbers">')
+                            #                            pager_text = website_text[pstart:]
+                            #                            pend = pager_text.find('</div>')
+                            #                            pager_text = pager_text[0:pend]
                             website_text = website_text[0:end]
 
-#                        if i == 0:
-#                            pinner = BeautifulSoup(pager_text)
-#                            for apager in pinner.findAll('a'):
-#                                plink.append(str(apager.get('href')))
+                            #                        if i == 0:
+                            #                            pinner = BeautifulSoup(pager_text)
+                            #                            for apager in pinner.findAll('a'):
+                            #                                plink.append(str(apager.get('href')))
 
                             inner = BeautifulSoup(website_text)
 
@@ -133,7 +139,7 @@ for alp in alpha:
                             title = ''
                             category = ''
                             for diva in inner.findAll('div'):
-#                            time.sleep(random.randint(10,100))
+                                #                            time.sleep(random.randint(10,100))
                                 if diva.has_key('class') and diva['class'] in advert_classes:
                                     for ahref in diva.findAll('a'):
                                         title = ahref.string

@@ -3,14 +3,14 @@
 
 import csv
 
-listing = csv.reader(open('alaska.csv','rb'), delimiter='^', quotechar='~')
-listingWriter = csv.writer(open('alaskaid.csv','wb'), delimiter='^', quotechar='~')
+listing = csv.reader(open('alaska.csv', 'rb'), delimiter='^', quotechar='~')
+listingWriter = csv.writer(open('alaskaid.csv', 'wb'), delimiter='^', quotechar='~')
 rows = []
 cat = 0
 for row in listing:
     newrow = []
     rowcat = None
-    listingcat = csv.reader(open('category.csv','rb'), delimiter='^', quotechar='~')
+    listingcat = csv.reader(open('category.csv', 'rb'), delimiter='^', quotechar='~')
     for rowcat in listingcat:
         if row[4] == rowcat[0]:
             cat = rowcat[1]
