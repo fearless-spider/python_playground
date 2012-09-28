@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <sports-statistics>
+  <sports-scores>
+    <date year="2012" month="9" date="9" day="7"/>
+    <time hour="12" minute="21" second="38" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="1"/>
+    <season season="2012"/>
+    <nfl-scores>
+     <nfl-score>
+       <date year="2012" month="9" date="5" day="3"/>
+       <time hour="20" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="05" day="3"/>
+       <local-time hour="20" minute="30"/>
+       <week week="1"/>
+       <gamecode code="20120905019" global-id="1204512"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="MetLife Stadium" city="East Rutherford" state="New Jersey" country="United States" id="127" global-id="9242"/>
+       <gamestate status="Final" status-id="4" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Cowboys" alias="Dal"/>
+         <team-city city="Dallas"/>
+         <team-code id="6" global-id="331"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+         <linescore score="24" timeouts-left="1">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="10"/>
+            <quarter quarter="4" score="7"/>
+         </linescore>
+       </visiting-team>
+       <home-team>
+         <team-name name="Giants" alias="NYG"/>
+         <team-city city="New York"/>
+         <team-code id="19" global-id="351"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+         <linescore score="17" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="3"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="7"/>
+         </linescore>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="13" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="12" minute="00"/>
+       <week week="1"/>
+       <gamecode code="20120909003" global-id="1204516"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="Soldier Field" city="Chicago" state="Illinois" country="United States" id="3" global-id="507"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Colts" alias="Ind"/>
+         <team-city city="Indianapolis"/>
+         <team-code id="11" global-id="338"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </visiting-team>
+       <home-team>
+         <team-name name="Bears" alias="Chi"/>
+         <team-city city="Chicago"/>
+         <team-code id="3" global-id="326"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="13" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="12" minute="00"/>
+       <week week="1"/>
+       <gamecode code="20120909012" global-id="1204551"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="Arrowhead Stadium" city="Kansas City" state="Missouri" country="United States" id="12" global-id="516"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Falcons" alias="Atl"/>
+         <team-city city="Atlanta"/>
+         <team-code id="1" global-id="323"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </visiting-team>
+       <home-team>
+         <team-name name="Chiefs" alias="KC"/>
+         <team-city city="Kansas City"/>
+         <team-code id="12" global-id="339"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="13" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="13" minute="00"/>
+       <week week="1"/>
+       <gamecode code="20120909005" global-id="1204545"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="Cleveland Browns Stadium" city="Cleveland" state="Ohio" country="United States" id="46" global-id="548"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Eagles" alias="Phi"/>
+         <team-city city="Philadelphia"/>
+         <team-code id="21" global-id="354"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </visiting-team>
+       <home-team>
+         <team-name name="Browns" alias="Cle"/>
+         <team-city city="Cleveland"/>
+         <team-code id="5" global-id="329"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="13" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="12" minute="00"/>
+       <week week="1"/>
+       <gamecode code="20120909018" global-id="1204543"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="Mercedes-Benz Superdome" city="New Orleans" state="Louisiana" country="United States" id="18" global-id="522"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Redskins" alias="Was"/>
+         <team-city city="Washington"/>
+         <team-code id="28" global-id="363"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </visiting-team>
+       <home-team>
+         <team-name name="Saints" alias="NO"/>
+         <team-city city="New Orleans"/>
+         <team-code id="18" global-id="350"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="13" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="13" minute="00"/>
+       <week week="1"/>
+       <gamecode code="20120909008" global-id="1204538"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="Ford Field" city="Detroit" state="Michigan" country="United States" id="55" global-id="3394"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Rams" alias="StL"/>
+         <team-city city="St. Louis"/>
+         <team-code id="14" global-id="343"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </visiting-team>
+       <home-team>
+         <team-name name="Lions" alias="Det"/>
+         <team-city city="Detroit"/>
+         <team-code id="8" global-id="334"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="13" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="12" minute="00"/>
+       <week week="1"/>
+       <gamecode code="20120909010" global-id="1204533"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="LP Field" city="Nashville" state="Tennessee" country="United States" id="45" global-id="547"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Patriots" alias="NE"/>
+         <team-city city="New England"/>
+         <team-code id="17" global-id="348"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </visiting-team>
+       <home-team>
+         <team-name name="Titans" alias="Ten"/>
+         <team-city city="Tennessee"/>
+         <team-code id="10" global-id="336"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="13" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="12" minute="00"/>
+       <week week="1"/>
+       <gamecode code="20120909016" global-id="1204520"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="Mall of America Field at Hubert H. Humphrey Metrodome" city="Minneapolis" state="Minnesota" country="United States" id="16" global-id="520"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Jaguars" alias="Jac"/>
+         <team-city city="Jacksonville"/>
+         <team-code id="30" global-id="365"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </visiting-team>
+       <home-team>
+         <team-name name="Vikings" alias="Min"/>
+         <team-city city="Minnesota"/>
+         <team-code id="16" global-id="347"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="13" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="13" minute="00"/>
+       <week week="1"/>
+       <gamecode code="20120909020" global-id="1204523"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="MetLife Stadium" city="East Rutherford" state="New Jersey" country="United States" id="128" global-id="9286"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Bills" alias="Buf"/>
+         <team-city city="Buffalo"/>
+         <team-code id="2" global-id="324"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </visiting-team>
+       <home-team>
+         <team-name name="Jets" alias="NYJ"/>
+         <team-city city="New York"/>
+         <team-code id="20" global-id="352"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="13" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="12" minute="00"/>
+       <week week="1"/>
+       <gamecode code="20120909034" global-id="1204528"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="Reliant Stadium" city="Houston" state="Texas" country="United States" id="52" global-id="2791"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Dolphins" alias="Mia"/>
+         <team-city city="Miami"/>
+         <team-code id="15" global-id="345"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </visiting-team>
+       <home-team>
+         <team-name name="Texans" alias="Hou"/>
+         <team-city city="Houston"/>
+         <team-code id="34" global-id="325"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+         <linescore score="" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+         </linescore>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="16" minute="25" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="13" minute="25"/>
+       <week week="1"/>
+       <gamecode code="20120909022" global-id="1204567"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="University of Phoenix Stadium" city="Glendale" state="Arizona" country="United States" id="63" global-id="4943"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Seahawks" alias="Sea"/>
+         <team-city city="Seattle"/>
+         <team-code id="26" global-id="361"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Cardinals" alias="Ari"/>
+         <team-city city="Arizona"/>
+         <team-code id="22" global-id="355"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="16" minute="25" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="15" minute="25"/>
+       <week week="1"/>
+       <gamecode code="20120909009" global-id="1204559"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="Lambeau Field" city="Green Bay" state="Wisconsin" country="United States" id="9" global-id="513"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="49ers" alias="SF"/>
+         <team-city city="San Francisco"/>
+         <team-code id="25" global-id="359"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Packers" alias="GB"/>
+         <team-city city="Green Bay"/>
+         <team-code id="9" global-id="335"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="16" minute="25" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="16" minute="25"/>
+       <week week="1"/>
+       <gamecode code="20120909027" global-id="1204574"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="Raymond James Stadium" city="Tampa" state="Florida" country="United States" id="43" global-id="546"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Panthers" alias="Car"/>
+         <team-city city="Carolina"/>
+         <team-code id="29" global-id="364"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Buccaneers" alias="TB"/>
+         <team-city city="Tampa Bay"/>
+         <team-code id="27" global-id="362"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="9" day="7"/>
+       <time hour="20" minute="20" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="09" day="7"/>
+       <local-time hour="18" minute="20"/>
+       <week week="1"/>
+       <gamecode code="20120909007" global-id="1204582"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="Sports Authority Field at Mile High" city="Denver" state="Colorado" country="United States" id="50" global-id="550"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Steelers" alias="Pit"/>
+         <team-city city="Pittsburgh"/>
+         <team-code id="23" global-id="356"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Broncos" alias="Den"/>
+         <team-city city="Denver"/>
+         <team-code id="7" global-id="332"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="10" day="1"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="10" day="1"/>
+       <local-time hour="19" minute="00"/>
+       <week week="1"/>
+       <gamecode code="20120910033" global-id="1204590"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="M&amp;T Bank Stadium" city="Baltimore" state="Maryland" country="United States" id="42" global-id="545"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Bengals" alias="Cin"/>
+         <team-city city="Cincinnati"/>
+         <team-code id="4" global-id="327"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Ravens" alias="Bal"/>
+         <team-city city="Baltimore"/>
+         <team-code id="33" global-id="366"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </home-team>
+     </nfl-score>
+     <nfl-score>
+       <date year="2012" month="9" date="10" day="1"/>
+       <time hour="22" minute="15" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="09" date="10" day="1"/>
+       <local-time hour="19" minute="15"/>
+       <week week="1"/>
+       <gamecode code="20120910013" global-id="1204596"/>
+       <coverage level="1"/>
+       <gametype type="Regular Season"/>
+       <stadium name="O.co Coliseum" city="Oakland" state="California" country="United States" id="34" global-id="537"/>
+       <gamestate status="Pre-Game" status-id="1" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="" active-state="false" under-review="false"/>
+       <visiting-team>
+         <team-name name="Chargers" alias="SD"/>
+         <team-city city="San Diego"/>
+         <team-code id="24" global-id="357"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Raiders" alias="Oak"/>
+         <team-city city="Oakland"/>
+         <team-code id="13" global-id="341"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </home-team>
+     </nfl-score>
+    </nfl-scores>
+  </sports-scores>
+ </sports-statistics>

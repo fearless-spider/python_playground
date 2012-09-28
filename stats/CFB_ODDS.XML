@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-odds>
+    <date year="2012" month="9" date="5" day="3"/>
+    <time hour="11" minute="33" second="23" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="1"/>
+    <season season="2012"/>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="6" day="4"/>
+       <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="6" day="4"/>
+       <local-time hour="20" minute="00"/>
+      <gamecode code="201209060098" global-id="1203732"/>
+      <visiting-team>
+        <team-name name="Panthers" alias="Pitt"/>
+        <team-city city="Pittsburgh"/>
+        <team-code id="12" global-id="3418"/>
+        <rotation number="301"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Bearcats" alias="Cin"/>
+        <team-city city="Cincinnati"/>
+        <team-code id="98" global-id="3503"/>
+        <rotation number="302"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="6" day="4"/>
+          <change-time hour="19" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="98" fav-alias="Cin" fav-pts="-3.5" fav-money="-105" underdog-money="-105" home-money="-180" away-money="+162" total="49" over-money="-105" under-money="-105"/>
+          <current-line fav-id="98" fav-alias="Cin" fav-pts="-4" fav-money="-102" underdog-money="-108" home-money="-180" away-money="+162" total="48.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="7" day="5"/>
+       <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="7" day="5"/>
+       <local-time hour="18" minute="00"/>
+      <gamecode code="201209070046" global-id="1178085"/>
+      <visiting-team>
+        <team-name name="Utes" alias="Utah"/>
+        <team-city city="Utah"/>
+        <team-code id="94" global-id="3499"/>
+        <rotation number="303"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Aggies" alias="UtahSt"/>
+        <team-city city="Utah State"/>
+        <team-code id="46" global-id="3451"/>
+        <rotation number="304"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="7" day="5"/>
+          <change-time hour="19" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="94" fav-alias="Utah" fav-pts="-7" fav-money="-105" underdog-money="-105" home-money="+277" away-money="-315" total="54" over-money="-105" under-money="-105"/>
+          <current-line fav-id="94" fav-alias="Utah" fav-pts="-7.5" fav-money="-103" underdog-money="-107" home-money="+256" away-money="-290" total="52.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="11" minute="00"/>
+      <gamecode code="201209080107" global-id="1180336"/>
+      <visiting-team>
+        <team-name name="Green Wave" alias="Tulane"/>
+        <team-city city="Tulane"/>
+        <team-code id="106" global-id="3511"/>
+        <rotation number="369"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Golden Hurricane" alias="Tulsa"/>
+        <team-city city="Tulsa"/>
+        <team-code id="107" global-id="3512"/>
+        <rotation number="370"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="11" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="107" fav-alias="Tulsa" fav-pts="-25" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="58.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="107" fav-alias="Tulsa" fav-pts="-25.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="57" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="11" minute="00"/>
+      <gamecode code="201209080078" global-id="1178129"/>
+      <visiting-team>
+        <team-name name="Tigers" alias="Auburn"/>
+        <team-city city="Auburn"/>
+        <team-code id="75" global-id="3480"/>
+        <rotation number="351"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Bulldogs" alias="MissSt"/>
+        <team-city city="Mississippi State"/>
+        <team-code id="78" global-id="3483"/>
+        <rotation number="352"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="11" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="78" fav-alias="MissSt" fav-pts="-3" fav-money="-110" underdog-money="+100" home-money="" away-money="" total="47" over-money="-105" under-money="-105"/>
+          <current-line fav-id="78" fav-alias="MissSt" fav-pts="-3" fav-money="-110" underdog-money="+100" home-money="" away-money="" total="46.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="11" minute="00"/>
+      <gamecode code="201209080021" global-id="1179499"/>
+      <visiting-team>
+        <team-name name="Hurricanes" alias="Mia-Fl"/>
+        <team-city city="Miami (FL)"/>
+        <team-code id="11" global-id="3417"/>
+        <rotation number="329"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Wildcats" alias="KanSt"/>
+        <team-city city="Kansas State"/>
+        <team-code id="21" global-id="3427"/>
+        <rotation number="330"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="11" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="21" fav-alias="KanSt" fav-pts="-7" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="52" over-money="-105" under-money="-105"/>
+          <current-line fav-id="21" fav-alias="KanSt" fav-pts="-7" fav-money="+102" underdog-money="-113" home-money="" away-money="" total="53.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="00"/>
+      <gamecode code="201209080008" global-id="1178462"/>
+      <visiting-team>
+        <team-name name="Nittany Lions" alias="PSU"/>
+        <team-city city="Penn State"/>
+        <team-code id="34" global-id="3440"/>
+        <rotation number="305"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Cavaliers" alias="UVa"/>
+        <team-city city="Virginia"/>
+        <team-code id="8" global-id="3414"/>
+        <rotation number="306"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="11" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="8" fav-alias="UVa" fav-pts="-10" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="44" over-money="-105" under-money="-105"/>
+          <current-line fav-id="8" fav-alias="UVa" fav-pts="-10" fav-money="-103" underdog-money="-107" home-money="" away-money="" total="43.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="00"/>
+      <gamecode code="201209080202" global-id="1194121"/>
+      <visiting-team>
+        <team-name name="Wolfpack" alias="NCSU"/>
+        <team-city city="North Carolina State"/>
+        <team-code id="7" global-id="3413"/>
+        <rotation number="367"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Huskies" alias="UConn"/>
+        <team-city city="Connecticut"/>
+        <team-code id="202" global-id="3607"/>
+        <rotation number="368"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="11" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="7" fav-alias="NCSU" fav-pts="-4" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="50" over-money="-105" under-money="-105"/>
+          <current-line fav-id="7" fav-alias="NCSU" fav-pts="-4.5" fav-money="-108" underdog-money="-102" home-money="" away-money="" total="49" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="00"/>
+      <gamecode code="201209080015" global-id="1178854"/>
+      <visiting-team>
+        <team-name name="Terrapins" alias="MD"/>
+        <team-city city="Maryland"/>
+        <team-code id="5" global-id="3411"/>
+        <rotation number="355"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Owls" alias="Temple"/>
+        <team-city city="Temple"/>
+        <team-code id="15" global-id="3421"/>
+        <rotation number="356"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="11" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="15" fav-alias="Temple" fav-pts="-10.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="44.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="15" fav-alias="Temple" fav-pts="-10" fav-money="-103" underdog-money="-107" home-money="" away-money="" total="46" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="00"/>
+      <gamecode code="201209080033" global-id="1178459"/>
+      <visiting-team>
+        <team-name name="Knights" alias="UCF"/>
+        <team-city city="UCF"/>
+        <team-code id="210" global-id="3615"/>
+        <rotation number="315"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Buckeyes" alias="OhioSt"/>
+        <team-city city="Ohio State"/>
+        <team-code id="33" global-id="3439"/>
+        <rotation number="316"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="11" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="33" fav-alias="OhioSt" fav-pts="-17" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="50.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="33" fav-alias="OhioSt" fav-pts="-18" fav-money="-104" underdog-money="-106" home-money="" away-money="" total="50.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="21" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="21"/>
+      <gamecode code="201209080070" global-id="1179684"/>
+      <visiting-team>
+        <team-name name="Pirates" alias="ECU"/>
+        <team-city city="East Carolina"/>
+        <team-code id="99" global-id="3504"/>
+        <rotation number="343"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Gamecocks" alias="SC"/>
+        <team-city city="South Carolina"/>
+        <team-code id="70" global-id="3475"/>
+        <rotation number="344"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="11" minute="20" timezone="Eastern"/>
+          <opening-line fav-id="70" fav-alias="SC" fav-pts="-23" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="" over-money="-110" under-money="-110"/>
+          <current-line fav-id="70" fav-alias="SC" fav-pts="-21.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="" over-money="-110" under-money="-110"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="30"/>
+      <gamecode code="201209080001" global-id="1178845"/>
+      <visiting-team>
+        <team-name name="Cardinals" alias="BallSt"/>
+        <team-city city="Ball State"/>
+        <team-code id="48" global-id="3453"/>
+        <rotation number="319"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Tigers" alias="Clem"/>
+        <team-city city="Clemson"/>
+        <team-code id="1" global-id="3407"/>
+        <rotation number="320"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="11" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="1" fav-alias="Clem" fav-pts="-27" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="66" over-money="-105" under-money="-105"/>
+          <current-line fav-id="1" fav-alias="Clem" fav-pts="-26.5" fav-money="-110" underdog-money="+100" home-money="" away-money="" total="65.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="00"/>
+      <gamecode code="201209080009" global-id="1194115"/>
+      <visiting-team>
+        <team-name name="Tar Heels" alias="UNC"/>
+        <team-city city="North Carolina"/>
+        <team-code id="6" global-id="3412"/>
+        <rotation number="325"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Demon Deacons" alias="Wake"/>
+        <team-city city="Wake Forest"/>
+        <team-code id="9" global-id="3415"/>
+        <rotation number="326"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="14" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="6" fav-alias="UNC" fav-pts="-7.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="54" over-money="-105" under-money="-105"/>
+          <current-line fav-id="6" fav-alias="UNC" fav-pts="-11" fav-money="-102" underdog-money="-108" home-money="" away-money="" total="53.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+      <gamecode code="201209080014" global-id="1178080"/>
+      <visiting-team>
+        <team-name name="Trojans" alias="USC"/>
+        <team-city city="USC"/>
+        <team-code id="62" global-id="3467"/>
+        <rotation number="333"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Orange" alias="Syr"/>
+        <team-city city="Syracuse"/>
+        <team-code id="14" global-id="3420"/>
+        <rotation number="334"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="14" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="14" fav-alias="Syr" fav-pts="-26" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="57.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="62" fav-alias="USC" fav-pts="-26" fav-money="-101" underdog-money="-109" home-money="" away-money="" total="59" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+      <gamecode code="201209080104" global-id="1178153"/>
+      <visiting-team>
+        <team-name name="Boilermakers" alias="Purdue"/>
+        <team-city city="Purdue"/>
+        <team-code id="35" global-id="3441"/>
+        <rotation number="335"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Fighting Irish" alias="ND"/>
+        <team-city city="Notre Dame"/>
+        <team-code id="104" global-id="3509"/>
+        <rotation number="336"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="14" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="104" fav-alias="ND" fav-pts="-14.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="51.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="104" fav-alias="ND" fav-pts="-14" fav-money="-107" underdog-money="-103" home-money="" away-money="" total="52" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+      <gamecode code="201209080050" global-id="1178849"/>
+      <visiting-team>
+        <team-name name="Spartans" alias="MSU"/>
+        <team-city city="Michigan State"/>
+        <team-code id="30" global-id="3436"/>
+        <rotation number="331"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Chippewas" alias="CentMi"/>
+        <team-city city="Central Michigan"/>
+        <team-code id="50" global-id="3455"/>
+        <rotation number="332"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="14" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="30" fav-alias="MSU" fav-pts="-24" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="48" over-money="-105" under-money="-105"/>
+          <current-line fav-id="30" fav-alias="MSU" fav-pts="-21.5" fav-money="+109" underdog-money="-120" home-money="" away-money="" total="48" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+      <gamecode code="201209080029" global-id="1178442"/>
+      <visiting-team>
+        <team-name name="Falcons" alias="AF"/>
+        <team-city city="Air Force"/>
+        <team-code id="87" global-id="3492"/>
+        <rotation number="309"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Wolverines" alias="Mich"/>
+        <team-city city="Michigan"/>
+        <team-code id="29" global-id="3435"/>
+        <rotation number="310"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="14" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="29" fav-alias="Mich" fav-pts="-21.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="61" over-money="-105" under-money="-105"/>
+          <current-line fav-id="29" fav-alias="Mich" fav-pts="-21.5" fav-money="-101" underdog-money="-109" home-money="" away-money="" total="62" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+      <gamecode code="201209080204" global-id="1178430"/>
+      <visiting-team>
+        <team-name name="Hoosiers" alias="Ind"/>
+        <team-city city="Indiana"/>
+        <team-code id="27" global-id="3433"/>
+        <rotation number="307"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Minutemen" alias="UMass"/>
+        <team-city city="Massachusetts"/>
+        <team-code id="204" global-id="3609"/>
+        <rotation number="308"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="14" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="27" fav-alias="Ind" fav-pts="-13" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="51" over-money="-105" under-money="-105"/>
+          <current-line fav-id="27" fav-alias="Ind" fav-pts="-14" fav-money="-109" underdog-money="-101" home-money="" away-money="" total="49.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="14" minute="30"/>
+      <gamecode code="201209080084" global-id="1178145"/>
+      <visiting-team>
+        <team-name name="Gators" alias="Fla"/>
+        <team-city city="Florida"/>
+        <team-code id="67" global-id="3472"/>
+        <rotation number="359"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Aggies" alias="TexA&amp;M"/>
+        <team-city city="Texas A&amp;M"/>
+        <team-code id="84" global-id="3489"/>
+        <rotation number="360"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="14" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="84" fav-alias="TexA&amp;M" fav-pts="-2.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="53" over-money="-105" under-money="-105"/>
+          <current-line fav-id="84" fav-alias="TexA&amp;M" fav-pts="-2" fav-money="+102" underdog-money="-113" home-money="" away-money="" total="51" over-money="-101" under-money="-109"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="14" minute="30"/>
+      <gamecode code="201209080020" global-id="1178421"/>
+      <visiting-team>
+        <team-name name="Owls" alias="Rice"/>
+        <team-city city="Rice"/>
+        <team-code id="81" global-id="3486"/>
+        <rotation number="321"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Jayhawks" alias="Kansas"/>
+        <team-city city="Kansas"/>
+        <team-code id="20" global-id="3426"/>
+        <rotation number="322"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="14" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="20" fav-alias="Kansas" fav-pts="-10" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="61" over-money="-105" under-money="-105"/>
+          <current-line fav-id="20" fav-alias="Kansas" fav-pts="-10" fav-money="-102" underdog-money="-108" home-money="" away-money="" total="62" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="35" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="35"/>
+      <gamecode code="201209080039" global-id="1196717"/>
+      <visiting-team>
+        <team-name name="Bulls" alias="SoFla"/>
+        <team-city city="South Florida"/>
+        <team-code id="1019" global-id="4009"/>
+        <rotation number="337"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Wolf Pack" alias="Nevada"/>
+        <team-city city="Nevada"/>
+        <team-code id="39" global-id="3445"/>
+        <rotation number="338"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="14" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="0" fav-alias="" fav-pts="0" fav-money="-112" underdog-money="+102" home-money="" away-money="" total="54" over-money="-105" under-money="-105"/>
+          <current-line fav-id="39" fav-alias="Nevada" fav-pts="-1.5" fav-money="-109" underdog-money="-101" home-money="" away-money="" total="54" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="39" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="14" minute="39"/>
+      <gamecode code="201209080073" global-id="1193610"/>
+      <visiting-team>
+        <team-name name="Hilltoppers" alias="WestKy"/>
+        <team-city city="Western Kentucky"/>
+        <team-code id="224" global-id="3628"/>
+        <rotation number="389"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Crimson Tide" alias="Ala"/>
+        <team-city city="Alabama"/>
+        <team-code id="73" global-id="3478"/>
+        <rotation number="390"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="14" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="73" fav-alias="Ala" fav-pts="-40" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="53.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="73" fav-alias="Ala" fav-pts="-40" fav-money="-101" underdog-money="-109" home-money="" away-money="" total="54" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="42" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="14" minute="42"/>
+      <gamecode code="201209080028" global-id="1178418"/>
+      <visiting-team>
+        <team-name name="Cyclones" alias="IaSt"/>
+        <team-city city="Iowa State"/>
+        <team-code id="19" global-id="3425"/>
+        <rotation number="345"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Hawkeyes" alias="Iowa"/>
+        <team-city city="Iowa"/>
+        <team-code id="28" global-id="3434"/>
+        <rotation number="346"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="14" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="28" fav-alias="Iowa" fav-pts="-4" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="46" over-money="-105" under-money="-105"/>
+          <current-line fav-id="28" fav-alias="Iowa" fav-pts="-5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="48.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="16" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="14" minute="00"/>
+      <gamecode code="201209080096" global-id="1196729"/>
+      <visiting-team>
+        <team-name name="Rockets" alias="Toledo"/>
+        <team-city city="Toledo"/>
+        <team-code id="55" global-id="3460"/>
+        <rotation number="323"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Cowboys" alias="Wyo"/>
+        <team-city city="Wyoming"/>
+        <team-code id="96" global-id="3501"/>
+        <rotation number="324"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="15" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="96" fav-alias="Wyo" fav-pts="-2.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="55" over-money="-105" under-money="-105"/>
+          <current-line fav-id="96" fav-alias="Wyo" fav-pts="-3.5" fav-money="+102" underdog-money="-113" home-money="" away-money="" total="56.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="16" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="13" minute="00"/>
+      <gamecode code="201209080061" global-id="1178059"/>
+      <visiting-team>
+        <team-name name="Badgers" alias="Wisc"/>
+        <team-city city="Wisconsin"/>
+        <team-code id="36" global-id="3442"/>
+        <rotation number="339"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Beavers" alias="OreSt"/>
+        <team-city city="Oregon State"/>
+        <team-code id="61" global-id="3466"/>
+        <rotation number="340"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="15" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="36" fav-alias="Wisc" fav-pts="-7.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="51" over-money="-105" under-money="-105"/>
+          <current-line fav-id="36" fav-alias="Wisc" fav-pts="-8" fav-money="-104" underdog-money="-106" home-money="" away-money="" total="52.5" over-money="-103" under-money="-107"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="18" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+      <gamecode code="201209082307" global-id="1178842"/>
+      <visiting-team>
+        <team-name name="Zips" alias="Akron"/>
+        <team-city city="Akron"/>
+        <team-code id="47" global-id="3452"/>
+        <rotation number="379"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Golden Panthers" alias="FIU"/>
+        <team-city city="FIU"/>
+        <team-code id="2307" global-id="5090"/>
+        <rotation number="380"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="17" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="2307" fav-alias="FIU" fav-pts="-23.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="54.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="2307" fav-alias="FIU" fav-pts="-24" fav-money="+100" underdog-money="-110" home-money="" away-money="" total="53.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="18" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+      <gamecode code="201209080060" global-id="1178051"/>
+      <visiting-team>
+        <team-name name="Bulldogs" alias="Fres"/>
+        <team-city city="Fresno State"/>
+        <team-code id="90" global-id="3495"/>
+        <rotation number="341"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Ducks" alias="Oregon"/>
+        <team-city city="Oregon"/>
+        <team-code id="60" global-id="3465"/>
+        <rotation number="342"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="17" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="60" fav-alias="Oregon" fav-pts="-33.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="73" over-money="-105" under-money="-105"/>
+          <current-line fav-id="60" fav-alias="Oregon" fav-pts="-34.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="75" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+      <gamecode code="201209080222" global-id="1195726"/>
+      <visiting-team>
+        <team-name name="Ragin' Cajuns" alias="UL-Laf"/>
+        <team-city city="Louisiana-Lafayette"/>
+        <team-code id="45" global-id="3450"/>
+        <rotation number="381"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Trojans" alias="Troy"/>
+        <team-city city="Troy"/>
+        <team-code id="222" global-id="3626"/>
+        <rotation number="382"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="222" fav-alias="Troy" fav-pts="-2.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="64" over-money="-105" under-money="-105"/>
+          <current-line fav-id="222" fav-alias="Troy" fav-pts="-3" fav-money="+100" underdog-money="-110" home-money="" away-money="" total="62" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="00"/>
+      <gamecode code="201209080049" global-id="1197599"/>
+      <visiting-team>
+        <team-name name="Vandals" alias="Idaho"/>
+        <team-city city="Idaho"/>
+        <team-code id="114" global-id="3519"/>
+        <rotation number="317"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Falcons" alias="BGSU"/>
+        <team-city city="Bowling Green"/>
+        <team-code id="49" global-id="3454"/>
+        <rotation number="318"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="49" fav-alias="BGSU" fav-pts="-13.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="50" over-money="-105" under-money="-105"/>
+          <current-line fav-id="49" fav-alias="BGSU" fav-pts="-16.5" fav-money="-108" underdog-money="-102" home-money="" away-money="" total="50" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="00"/>
+      <gamecode code="201209080054" global-id="1178482"/>
+      <visiting-team>
+        <team-name name="Aggies" alias="NMSt"/>
+        <team-city city="New Mexico State"/>
+        <team-code id="41" global-id="3447"/>
+        <rotation number="311"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Bobcats" alias="Ohio"/>
+        <team-city city="Ohio"/>
+        <team-code id="54" global-id="3459"/>
+        <rotation number="312"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="54" fav-alias="Ohio" fav-pts="-21" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="58" over-money="-105" under-money="-105"/>
+          <current-line fav-id="54" fav-alias="Ohio" fav-pts="-21" fav-money="-107" underdog-money="-103" home-money="" away-money="" total="58.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+      <gamecode code="201209080074" global-id="1179664"/>
+      <visiting-team>
+        <team-name name="Warhawks" alias="UL-Mon"/>
+        <team-city city="Louisiana-Monroe"/>
+        <team-code id="103" global-id="3508"/>
+        <rotation number="387"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Razorbacks" alias="Ark"/>
+        <team-city city="Arkansas"/>
+        <team-code id="74" global-id="3479"/>
+        <rotation number="388"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="74" fav-alias="Ark" fav-pts="-30.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="57" over-money="-105" under-money="-105"/>
+          <current-line fav-id="74" fav-alias="Ark" fav-pts="-30.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="60" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+      <gamecode code="201209080037" global-id="1180257"/>
+      <visiting-team>
+        <team-name name="Tigers" alias="Mem"/>
+        <team-city city="Memphis"/>
+        <team-code id="101" global-id="3506"/>
+        <rotation number="385"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Red Wolves" alias="ArkSt"/>
+        <team-city city="Arkansas State"/>
+        <team-code id="37" global-id="3443"/>
+        <rotation number="386"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="37" fav-alias="ArkSt" fav-pts="-21" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="55.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="37" fav-alias="ArkSt" fav-pts="-23" fav-money="-104" underdog-money="-106" home-money="" away-money="" total="55.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+      <gamecode code="201209080152" global-id="1195710"/>
+      <visiting-team>
+        <team-name name="Owls" alias="FlaAtl"/>
+        <team-city city="Florida Atlantic"/>
+        <team-code id="2294" global-id="4947"/>
+        <rotation number="383"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Blue Raiders" alias="MiddTn"/>
+        <team-city city="Middle Tennessee"/>
+        <team-code id="152" global-id="3557"/>
+        <rotation number="384"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="152" fav-alias="MiddTn" fav-pts="-7" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="48" over-money="-105" under-money="-105"/>
+          <current-line fav-id="152" fav-alias="MiddTn" fav-pts="-8.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="48" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+      <gamecode code="201209080185" global-id="1189464"/>
+      <visiting-team>
+        <team-name name="Red Raiders" alias="TxTch"/>
+        <team-city city="Texas Tech"/>
+        <team-code id="86" global-id="3491"/>
+        <rotation number="353"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Bobcats" alias="TxSt"/>
+        <team-city city="Texas State"/>
+        <team-code id="185" global-id="3590"/>
+        <rotation number="354"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="86" fav-alias="TxTch" fav-pts="-16.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="59.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="86" fav-alias="TxTch" fav-pts="-18" fav-money="-107" underdog-money="-103" home-money="" away-money="" total="59.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+      <gamecode code="201209080077" global-id="1179681"/>
+      <visiting-team>
+        <team-name name="Miners" alias="UTEP"/>
+        <team-city city="UTEP"/>
+        <team-code id="95" global-id="3500"/>
+        <rotation number="349"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Rebels" alias="Miss"/>
+        <team-city city="Mississippi"/>
+        <team-code id="77" global-id="3482"/>
+        <rotation number="350"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="77" fav-alias="Miss" fav-pts="-7.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="55" over-money="-105" under-money="-105"/>
+          <current-line fav-id="77" fav-alias="Miss" fav-pts="-7.5" fav-money="-104" underdog-money="-106" home-money="" away-money="" total="55.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+      <gamecode code="201209080076" global-id="1178090"/>
+      <visiting-team>
+        <team-name name="Huskies" alias="Wash"/>
+        <team-city city="Washington"/>
+        <team-code id="65" global-id="3470"/>
+        <rotation number="347"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Tigers" alias="LSU"/>
+        <team-city city="LSU"/>
+        <team-code id="76" global-id="3481"/>
+        <rotation number="348"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="76" fav-alias="LSU" fav-pts="-23.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="53" over-money="-105" under-money="-105"/>
+          <current-line fav-id="76" fav-alias="LSU" fav-pts="-23.5" fav-money="-109" underdog-money="-101" home-money="" away-money="" total="53" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="30"/>
+      <gamecode code="201209080069" global-id="1179674"/>
+      <visiting-team>
+        <team-name name="Golden Flashes" alias="KentSt"/>
+        <team-city city="Kent State"/>
+        <team-code id="52" global-id="3457"/>
+        <rotation number="313"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Wildcats" alias="Kty"/>
+        <team-city city="Kentucky"/>
+        <team-code id="69" global-id="3474"/>
+        <rotation number="314"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="69" fav-alias="Kty" fav-pts="-7" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="41" over-money="-105" under-money="-105"/>
+          <current-line fav-id="69" fav-alias="Kty" fav-pts="-7" fav-money="+100" underdog-money="-110" home-money="" away-money="" total="44.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="16" minute="30"/>
+      <gamecode code="201209080093" global-id="1189604"/>
+      <visiting-team>
+        <team-name name="Black Knights" alias="Army"/>
+        <team-city city="Army"/>
+        <team-code id="97" global-id="3502"/>
+        <rotation number="365"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Aztecs" alias="SDSU"/>
+        <team-city city="San Diego State"/>
+        <team-code id="93" global-id="3498"/>
+        <rotation number="366"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="93" fav-alias="SDSU" fav-pts="-4" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="48" over-money="-105" under-money="-105"/>
+          <current-line fav-id="93" fav-alias="SDSU" fav-pts="-6" fav-money="-106" underdog-money="-104" home-money="" away-money="" total="50" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="16" minute="30"/>
+      <gamecode code="201209080064" global-id="1178074"/>
+      <visiting-team>
+        <team-name name="Cornhuskers" alias="Neb"/>
+        <team-city city="Nebraska"/>
+        <team-code id="23" global-id="3429"/>
+        <rotation number="363"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Bruins" alias="UCLA"/>
+        <team-city city="UCLA"/>
+        <team-code id="64" global-id="3469"/>
+        <rotation number="364"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="23" fav-alias="Neb" fav-pts="-4.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="60.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="23" fav-alias="Neb" fav-pts="-5.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="60" over-money="-109" under-money="-101"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="45" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="45"/>
+      <gamecode code="201209080022" global-id="1178133"/>
+      <visiting-team>
+        <team-name name="Bulldogs" alias="UGa"/>
+        <team-city city="Georgia"/>
+        <team-code id="68" global-id="3473"/>
+        <rotation number="327"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Tigers" alias="Mizzou"/>
+        <team-city city="Missouri"/>
+        <team-code id="22" global-id="3428"/>
+        <rotation number="328"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="18" minute="45" timezone="Eastern"/>
+          <opening-line fav-id="68" fav-alias="UGa" fav-pts="-3.5" fav-money="+100" underdog-money="-110" home-money="" away-money="" total="54.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="68" fav-alias="UGa" fav-pts="-2" fav-money="-108" underdog-money="-102" home-money="" away-money="" total="54" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="00"/>
+      <gamecode code="201209080083" global-id="1178424"/>
+      <visiting-team>
+        <team-name name="Lobos" alias="NM"/>
+        <team-city city="New Mexico"/>
+        <team-code id="92" global-id="3497"/>
+        <rotation number="357"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Longhorns" alias="Tex"/>
+        <team-city city="Texas"/>
+        <team-code id="83" global-id="3488"/>
+        <rotation number="358"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="19" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="83" fav-alias="Tex" fav-pts="-37" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="53.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="83" fav-alias="Tex" fav-pts="-38" fav-money="-110" underdog-money="+100" home-money="" away-money="" total="52.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="00"/>
+      <gamecode code="201209080032" global-id="1179691"/>
+      <visiting-team>
+        <team-name name="Commodores" alias="Vandy"/>
+        <team-city city="Vanderbilt"/>
+        <team-code id="72" global-id="3477"/>
+        <rotation number="371"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Wildcats" alias="NW"/>
+        <team-city city="Northwestern"/>
+        <team-code id="32" global-id="3438"/>
+        <rotation number="372"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="19" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="72" fav-alias="Vandy" fav-pts="-3" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="53.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="72" fav-alias="Vandy" fav-pts="-3.5" fav-money="+100" underdog-money="-110" home-money="" away-money="" total="54" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="00"/>
+      <gamecode code="201209080080" global-id="1197606"/>
+      <visiting-team>
+        <team-name name="Bulldogs" alias="LaTech"/>
+        <team-city city="Louisiana Tech"/>
+        <team-code id="38" global-id="3444"/>
+        <rotation number="361"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Cougars" alias="Hou"/>
+        <team-city city="Houston"/>
+        <team-code id="80" global-id="3485"/>
+        <rotation number="362"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="19" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="38" fav-alias="LaTech" fav-pts="-3.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="60" over-money="-105" under-money="-105"/>
+          <current-line fav-id="38" fav-alias="LaTech" fav-pts="-3.5" fav-money="-106" underdog-money="-104" home-money="" away-money="" total="60" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="22" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="30"/>
+      <gamecode code="201209080058" global-id="1178017"/>
+      <visiting-team>
+        <team-name name="Fighting Illini" alias="Ill"/>
+        <team-city city="Illinois"/>
+        <team-code id="26" global-id="3432"/>
+        <rotation number="377"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Sun Devils" alias="AriSt"/>
+        <team-city city="Arizona State"/>
+        <team-code id="58" global-id="3463"/>
+        <rotation number="378"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="21" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="0" fav-alias="" fav-pts="0" fav-money="-111" underdog-money="+101" home-money="" away-money="" total="48" over-money="-105" under-money="-105"/>
+          <current-line fav-id="58" fav-alias="AriSt" fav-pts="-3" fav-money="-114" underdog-money="+103" home-money="" away-money="" total="49" over-money="-103" under-money="-107"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="22" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="30"/>
+      <gamecode code="201209080063" global-id="1178067"/>
+      <visiting-team>
+        <team-name name="Blue Devils" alias="Duke"/>
+        <team-city city="Duke"/>
+        <team-code id="2" global-id="3408"/>
+        <rotation number="373"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Cardinal" alias="Stan"/>
+        <team-city city="Stanford"/>
+        <team-code id="63" global-id="3468"/>
+        <rotation number="374"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="21" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="63" fav-alias="Stan" fav-pts="-14.5" fav-money="-101" underdog-money="-109" home-money="" away-money="" total="58.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="63" fav-alias="Stan" fav-pts="-15" fav-money="-104" underdog-money="-106" home-money="" away-money="" total="58.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="16" sport="CFB">
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="22" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="30"/>
+      <gamecode code="201209080057" global-id="1178005"/>
+      <visiting-team>
+        <team-name name="Cowboys" alias="OkSt"/>
+        <team-city city="Oklahoma State"/>
+        <team-code id="25" global-id="3431"/>
+        <rotation number="375"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Wildcats" alias="Ari"/>
+        <team-city city="Arizona"/>
+        <team-code id="57" global-id="3462"/>
+        <rotation number="376"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="8" day="6"/>
+          <change-time hour="21" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="25" fav-alias="OkSt" fav-pts="-13.5" fav-money="-105" underdog-money="-105" home-money="" away-money="" total="69.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="25" fav-alias="OkSt" fav-pts="-10.5" fav-money="-102" underdog-money="-108" home-money="" away-money="" total="69.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+  </sports-odds>
+</sports-statistics>

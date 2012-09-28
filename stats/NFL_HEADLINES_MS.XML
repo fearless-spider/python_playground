@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+ <sports-news-stories>
+  <date year="2012" month="9" date="6" day="4"/>
+  <time hour="6" minute="4" second="55" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+  <version number="1"/>
+  <news-stories>
+   <news-story>
+    <story type="headline" id="5" code="NFL" >
+     <headlines id="1">
+      <headline id="20120906012404806183408" name="NFL_RECAP$20120905019.XML" text="Cowboys ruin Giants' opening celebration" version="5" original_id="20120905234030325133408"/>
+      <image id="201209052124770823602" source="APWF" caption="Dallas Cowboys wide receiver Kevin Ogletree celebrates after catching a touchdown pass during the first half of an NFL football game against the New York Giants, Wednesday, Sept. 5, 2012, in East Rutherford, N.J. (AP Photo/Julio Cortez)"/>
+     </headlines>
+     <headlines id="2">
+      <headline id="20120906023533891249504" name="NFL_STORY$20120906023533891249504.XML" text="Report: Modell, 87, in grave condition" version="5" original_id="20120906013659939188608"/>
+     </headlines>
+     <headlines id="3">
+      <headline id="20120905174434613966808" name="NFL_STORY$20120905174434613966808.XML" text="Urlacher goes through full practice" version="0" original_id="20120905174434613966808"/>
+     </headlines>
+     <headlines id="4">
+      <headline id="20120905183350568984208" name="NFL_STORY$20120905183350568984208.XML" text="Browns RB Richardson expected to play" version="1" original_id="20120905135436031892708"/>
+     </headlines>
+     <headlines id="5">
+      <headline id="20120906024656557266208" name="NFL_STORY$20120906024656557266208.XML" text="Replacement refs avoid gaffes in opener" version="7" original_id="20120905173939359964608"/>
+     </headlines>
+     <headlines id="6">
+      <headline id="20120905185211869989408" name="NFL_STORY$20120905185211869989408.XML" text="Seahawks RB Lynch questionable vs. Cards" version="1" original_id="20120905164803685939708"/>
+     </headlines>
+     <headlines id="7">
+      <headline id="20120906012827329184008" name="NFL_RECAP_ALT$20120905019.XML" text="Giants play little like champs in opener" version="0" original_id="20120906012827329184008"/>
+     </headlines>
+     <headlines id="8">
+      <headline id="20120905151103867910308" name="NFL_STORY$20120905151103867910308.XML" text="Judge: Bounty ban settlement unlikely" version="2" original_id="20120905141051354897308"/>
+     </headlines>
+     <headlines id="9">
+      <headline id="20120905163255998935208" name="NFL_STORY$20120905163255998935208.XML" text="Redskins S Meriweather out 2-4 weeks" version="0" original_id="20120905163255998935208"/>
+     </headlines>
+     <headlines id="10">
+      <headline id="20120905135938701893208" name="NFL_STORY$20120905135938701893208.XML" text="Cowboys first US sports team worth $2B" version="1" original_id="20120905132613248887808"/>
+     </headlines>
+    </story>
+   </news-story>
+  </news-stories>
+ </sports-news-stories>
+</sports-statistics>

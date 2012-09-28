@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-standings>
+    <football-nfl-standings>
+      <title label="National Football League"/>
+      <date year="2012" month="9" date="6" day="4"/>
+      <time hour="2" minute="14" second="58" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+      <version number="1"/>
+      <season season="2012"/>
+      <week week="1"/>
+      <football-nfl-conference-standings id="3" name="AFC">
+        <title label="American Football Conference"/>
+        <football-nfl-division-standings id="1" name="AFC East">
+          <title label="East Division"/>
+          <football-nfl-team-standings>
+            <team-name name="Bills" alias="Buf"/>
+            <team-city city="Buffalo"/>
+            <team-code id="2" global-id="324"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="1"/>
+            <conference-seed seed="2"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Dolphins" alias="Mia"/>
+            <team-city city="Miami"/>
+            <team-code id="15" global-id="345"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="2"/>
+            <conference-seed seed="10"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Patriots" alias="NE"/>
+            <team-city city="New England"/>
+            <team-code id="17" global-id="348"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="3"/>
+            <conference-seed seed="11"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Jets" alias="NYJ"/>
+            <team-city city="New York"/>
+            <team-code id="20" global-id="352"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="4"/>
+            <conference-seed seed="12"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+        </football-nfl-division-standings>
+        <football-nfl-division-standings id="3" name="AFC West">
+          <title label="West Division"/>
+          <football-nfl-team-standings>
+            <team-name name="Broncos" alias="Den"/>
+            <team-city city="Denver"/>
+            <team-code id="7" global-id="332"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="1"/>
+            <conference-seed seed="3"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Chiefs" alias="KC"/>
+            <team-city city="Kansas City"/>
+            <team-code id="12" global-id="339"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="2"/>
+            <conference-seed seed="9"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Raiders" alias="Oak"/>
+            <team-city city="Oakland"/>
+            <team-code id="13" global-id="341"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="3"/>
+            <conference-seed seed="13"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Chargers" alias="SD"/>
+            <team-city city="San Diego"/>
+            <team-code id="24" global-id="357"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="4"/>
+            <conference-seed seed="15"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+        </football-nfl-division-standings>
+        <football-nfl-division-standings id="4" name="AFC North">
+          <title label="North Division"/>
+          <football-nfl-team-standings>
+            <team-name name="Ravens" alias="Bal"/>
+            <team-city city="Baltimore"/>
+            <team-code id="33" global-id="366"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="1"/>
+            <conference-seed seed="1"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Bengals" alias="Cin"/>
+            <team-city city="Cincinnati"/>
+            <team-code id="4" global-id="327"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="2"/>
+            <conference-seed seed="5"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Browns" alias="Cle"/>
+            <team-city city="Cleveland"/>
+            <team-code id="5" global-id="329"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="3"/>
+            <conference-seed seed="6"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Steelers" alias="Pit"/>
+            <team-city city="Pittsburgh"/>
+            <team-code id="23" global-id="356"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="4"/>
+            <conference-seed seed="14"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+        </football-nfl-division-standings>
+        <football-nfl-division-standings id="5" name="AFC South">
+          <title label="South Division"/>
+          <football-nfl-team-standings>
+            <team-name name="Texans" alias="Hou"/>
+            <team-city city="Houston"/>
+            <team-code id="34" global-id="325"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="1"/>
+            <conference-seed seed="4"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Colts" alias="Ind"/>
+            <team-city city="Indianapolis"/>
+            <team-code id="11" global-id="338"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="2"/>
+            <conference-seed seed="7"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Jaguars" alias="Jac"/>
+            <team-city city="Jacksonville"/>
+            <team-code id="30" global-id="365"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="3"/>
+            <conference-seed seed="8"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Titans" alias="Ten"/>
+            <team-city city="Tennessee"/>
+            <team-code id="10" global-id="336"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="4"/>
+            <conference-seed seed="16"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+        </football-nfl-division-standings>
+      </football-nfl-conference-standings>
+      <football-nfl-conference-standings id="4" name="NFC">
+        <title label="National Football Conference"/>
+        <football-nfl-division-standings id="1" name="NFC East">
+          <title label="East Division"/>
+          <football-nfl-team-standings>
+            <team-name name="Cowboys" alias="Dal"/>
+            <team-city city="Dallas"/>
+            <team-code id="6" global-id="331"/>
+            <wins number="1"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="24"/>
+            <points-against number="17"/>
+            <place place="1"/>
+            <conference-seed seed="1"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="1.000"/>
+            <strength-of-schedule rank="2"/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="1" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="1" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="1" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="1" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="1" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="1" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="1" losses="0" ties="0"/>
+            <streak kind="winning" games="1"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Eagles" alias="Phi"/>
+            <team-city city="Philadelphia"/>
+            <team-code id="21" global-id="354"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="2"/>
+            <conference-seed seed="10"/>
+            <games-back number="0.5"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Redskins" alias="Was"/>
+            <team-city city="Washington"/>
+            <team-code id="28" global-id="363"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="3"/>
+            <conference-seed seed="15"/>
+            <games-back number="0.5"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Giants" alias="NYG"/>
+            <team-city city="New York"/>
+            <team-code id="19" global-id="351"/>
+            <wins number="0"/>
+            <losses number="1"/>
+            <ties number="0"/>
+            <points-for number="17"/>
+            <points-against number="24"/>
+            <place place="4"/>
+            <conference-seed seed="16"/>
+            <games-back number="1.0"/>
+            <wc-games-back number="0.5"/>
+            <winning-percentage percentage=".000"/>
+            <strength-of-schedule rank="1"/>
+            <win-loss-record type="home" name="home record" wins="0" losses="1" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="1" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="1" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="1" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="1" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="1" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="1" ties="0"/>
+            <streak kind="losing" games="1"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+        </football-nfl-division-standings>
+        <football-nfl-division-standings id="3" name="NFC West">
+          <title label="West Division"/>
+          <football-nfl-team-standings>
+            <team-name name="Cardinals" alias="Ari"/>
+            <team-city city="Arizona"/>
+            <team-code id="22" global-id="355"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="1"/>
+            <conference-seed seed="2"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="49ers" alias="SF"/>
+            <team-city city="San Francisco"/>
+            <team-code id="25" global-id="359"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="2"/>
+            <conference-seed seed="11"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Seahawks" alias="Sea"/>
+            <team-city city="Seattle"/>
+            <team-code id="26" global-id="361"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="3"/>
+            <conference-seed seed="12"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Rams" alias="StL"/>
+            <team-city city="St. Louis"/>
+            <team-code id="14" global-id="343"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="4"/>
+            <conference-seed seed="13"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+        </football-nfl-division-standings>
+        <football-nfl-division-standings id="4" name="NFC North">
+          <title label="North Division"/>
+          <football-nfl-team-standings>
+            <team-name name="Bears" alias="Chi"/>
+            <team-city city="Chicago"/>
+            <team-code id="3" global-id="326"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="1"/>
+            <conference-seed seed="4"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Lions" alias="Det"/>
+            <team-city city="Detroit"/>
+            <team-code id="8" global-id="334"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="2"/>
+            <conference-seed seed="6"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Packers" alias="GB"/>
+            <team-city city="Green Bay"/>
+            <team-code id="9" global-id="335"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="3"/>
+            <conference-seed seed="7"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Vikings" alias="Min"/>
+            <team-city city="Minnesota"/>
+            <team-code id="16" global-id="347"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="4"/>
+            <conference-seed seed="8"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+        </football-nfl-division-standings>
+        <football-nfl-division-standings id="5" name="NFC South">
+          <title label="South Division"/>
+          <football-nfl-team-standings>
+            <team-name name="Falcons" alias="Atl"/>
+            <team-city city="Atlanta"/>
+            <team-code id="1" global-id="323"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="1"/>
+            <conference-seed seed="3"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Panthers" alias="Car"/>
+            <team-city city="Carolina"/>
+            <team-code id="29" global-id="364"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="2"/>
+            <conference-seed seed="5"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Saints" alias="NO"/>
+            <team-city city="New Orleans"/>
+            <team-code id="18" global-id="350"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="3"/>
+            <conference-seed seed="9"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+          <football-nfl-team-standings>
+            <team-name name="Buccaneers" alias="TB"/>
+            <team-city city="Tampa Bay"/>
+            <team-code id="27" global-id="362"/>
+            <wins number="0"/>
+            <losses number="0"/>
+            <ties number="0"/>
+            <points-for number="0"/>
+            <points-against number="0"/>
+            <place place="4"/>
+            <conference-seed seed="14"/>
+            <games-back number="0.0"/>
+            <wc-games-back number="0.0"/>
+            <winning-percentage percentage="-"/>
+            <strength-of-schedule rank=""/>
+            <win-loss-record type="home" name="home record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="away" name="away record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="division" name="division record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="conference" name="conference record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on grass" name="on grass record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="on turf" name="on turf record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="decided by 7 or less" name="decided by 7 or less record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="in OT" name="in OT record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="scoring-first" name="scoring-first record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="leading at half" name="leading at half record" wins="0" losses="0" ties="0"/>
+            <win-loss-record type="last5" name="last 5 games" wins="0" losses="0" ties="0"/>
+            <streak kind=" " games="0"/>
+            <clinched-playoffs clinched="false"/>
+            <clinched-division clinched="false"/>
+            <clinched-home-field clinched="false"/>
+            <eliminated-from-playoffs eliminated="false"/>
+          </football-nfl-team-standings>
+        </football-nfl-division-standings>
+      </football-nfl-conference-standings>
+    </football-nfl-standings>
+  </sports-standings>
+</sports-statistics>

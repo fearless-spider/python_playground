@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nba>
+    <date year="2012" month="9" date="5" day="3"/>
+    <time hour="1" minute="17" second="35" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="1"/>
+    <season season="2012"/>
+    <conference label="Eastern Conference">
+      <division label="Atlantic Division">
+        <team global-id="2" id="2" city="Boston" name="Celtics" alias="Bos"/>
+        <team global-id="17" id="17" city="Brooklyn" name="Nets" alias="Bro"/>
+        <team global-id="18" id="18" city="New York" name="Knicks" alias="NY"/>
+        <team global-id="20" id="20" city="Philadelphia" name="76ers" alias="Phi"/>
+        <team global-id="28" id="28" city="Toronto" name="Raptors" alias="Tor"/>
+      </division>
+      <division label="Central Division">
+        <team global-id="4" id="4" city="Chicago" name="Bulls" alias="Chi"/>
+        <team global-id="5" id="5" city="Cleveland" name="Cavaliers" alias="Cle"/>
+        <team global-id="8" id="8" city="Detroit" name="Pistons" alias="Det"/>
+        <team global-id="11" id="11" city="Indiana" name="Pacers" alias="Ind"/>
+        <team global-id="15" id="15" city="Milwaukee" name="Bucks" alias="Mil"/>
+      </division>
+      <division label="Southeast Division">
+        <team global-id="1" id="1" city="Atlanta" name="Hawks" alias="Atl"/>
+        <team global-id="5312" id="30" city="Charlotte" name="Bobcats" alias="Cha"/>
+        <team global-id="14" id="14" city="Miami" name="Heat" alias="Mia"/>
+        <team global-id="19" id="19" city="Orlando" name="Magic" alias="Orl"/>
+        <team global-id="27" id="27" city="Washington" name="Wizards" alias="Was"/>
+      </division>
+    </conference>
+    <conference label="Western Conference">
+      <division label="Pacific Division">
+        <team global-id="9" id="9" city="Golden State" name="Warriors" alias="GS"/>
+        <team global-id="12" id="12" city="Los Angeles" name="Clippers" alias="LAC"/>
+        <team global-id="13" id="13" city="Los Angeles" name="Lakers" alias="LAL"/>
+        <team global-id="21" id="21" city="Phoenix" name="Suns" alias="Pho"/>
+        <team global-id="23" id="23" city="Sacramento" name="Kings" alias="Sac"/>
+      </division>
+      <division label="Southwest Division">
+        <team global-id="6" id="6" city="Dallas" name="Mavericks" alias="Dal"/>
+        <team global-id="10" id="10" city="Houston" name="Rockets" alias="Hou"/>
+        <team global-id="29" id="29" city="Memphis" name="Grizzlies" alias="Mem"/>
+        <team global-id="3" id="3" city="New Orleans" name="Hornets" alias="NO"/>
+        <team global-id="24" id="24" city="San Antonio" name="Spurs" alias="SA"/>
+      </division>
+      <division label="Northwest Division">
+        <team global-id="7" id="7" city="Denver" name="Nuggets" alias="Den"/>
+        <team global-id="16" id="16" city="Minnesota" name="Timberwolves" alias="Min"/>
+        <team global-id="25" id="25" city="Oklahoma City" name="Thunder" alias="OKC"/>
+        <team global-id="22" id="22" city="Portland" name="Trail Blazers" alias="Por"/>
+        <team global-id="26" id="26" city="Utah" name="Jazz" alias="Uta"/>
+     </division>
+    </conference>
+    <all-star-teams>
+      <team global-id="53" id="31" city="Eastern Conference" name="East All Stars" alias="ECS"/>
+      <team global-id="54" id="32" city="Western Conference" name="West All Stars" alias="WCS"/>
+    </all-star-teams>
+</nba>

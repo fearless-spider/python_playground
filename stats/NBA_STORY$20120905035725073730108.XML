@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+ <sports-news-stories>
+  <date year="2012" month="9" date="5" day="3"/>
+  <time hour="3" minute="58" second="4" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+  <version number="2"/>
+  <news-stories>
+   <news-story>
+    <story type="story" id="20120905035725073730108" code="NBA" slug="AP-BKN--Heat-Wade, 1st Ld-Writethru" version="1" original_id="20120905035534776729608" language-id="1" language-code="EN">
+     <header headline="Wade entering busiest time of his summer" byline="By TIM REYNOLDS" bytitle="AP Sports Writer"/>
+     <team>
+      <team-name name="Heat" alias="Mia"/>
+      <team-city city="Miami"/>
+      <team-code id="14" global-id="14" />
+     </team>
+  <players>
+   <player>
+  <name first-name="Dwyane" last-name="Wade"/>
+   <player-code id="3708" global-id="61849"/>
+   <height inches="76"/>
+   <weight pounds="220"/>
+   <position id="3" description="Guard" abbreviation="G"/>
+   </player>
+  </players>
+     <content>
+<p text="Dwyane Wade's offseason is now pretty much over."/>
+<p text="The Miami Heat still have more than three weeks before assembling for training camp and starting the defense of their NBA title, but for Wade, summer vacation is essentially complete. He's been cleared to return to the court and rehab from offseason knee surgery, a process he's already started. And he'll spend the next couple weeks bouncing from coast to coast on a tour for his book on fatherhood that was released Tuesday."/>
+<p text="It means long, not-exactly-relaxing days will be the norm for Wade until training camp. Case in point: He was out of his hotel room in New York before 8 a.m. Tuesday, and didn't return until after midnight, at least a half-dozen events jamming his calendar."/>
+<p text="He calls the people around him Team No Sleep, and for the next couple weeks, that'll be accurate."/>
+<p text="``I think when it's hard to find the energy, I think about all the things I want to do,'' Wade said. ``Whenever I feel like I don't have the energy, I have to go back and think about where I've come. This is what I wanted so let's keep going, let's keep pushing, let's keep doing.''"/>
+<p text="That's his business mantra. It also applies to basketball."/>
+<p text="Miami's first game against the Boston Celtics isn't until Oct. 30, so there's plenty of time to get sharp. But Wade's process of getting ready for his 10th NBA season, physically and mentally, is under way. He had a couple slices of pizza for lunch Tuesday, meaning that when he got to the taping of CBS' ``Late Show with David Letterman,'' Wade had to pass on cookies left in his dressing room."/>
+<p text="Such is life for those who want more NBA titles."/>
+<p text="``It's about now I start thinking about certain things,'' Wade said. ``The season, it's still back here, in the back of my mind. It's not right here yet, not all the way in the front of my mind yet. But we're getting closer.''"/>
+<p text="Wade said his rehab is ahead of schedule. He was on the court for workouts last week."/>
+<p text="Clearly, though, he's not going to maniacally test his knee for a while. With his itinerary of promoting ``A Father First: How My Life Became Bigger Than Basketball'' in New York jampacked through the rest of this week, before the tour moves on to other cities, Wade is taking a few days off from court work."/>
+<p text="And when eyebrows rise when he says that, Wade quickly points out that going a bit easy at first not only was the plan, but is the smart plan as well."/>
+<p text="``Coming off knee surgery, I couldn't possibly work out every day anyway,'' Wade said. ``I have to work my way into things. I just left Los Angeles. I worked out for the whole week I was there. And now I needed a few days off. So when I leave here, I go to Miami and I'll work out again there. It's the way we mapped it out. It's no good for my knee right now to put that much pressure on it.''"/>
+<p text="His shoulder, that's getting a workout now."/>
+<p text="Wade signed 575 copies of his book at two events on Tuesday, both of which had people lining up hours before the doors opened. One man told him he flew in from China just to get an autograph. A woman told him she missed her first day of classes at Penn State to make the trip to New York and stand in line to spend a few seconds with him instead."/>
+<p text="When the Heat visit the Knicks this winter, Wade will be booed. Apparently, New York loves him the rest of the time, as evidenced by people standing outside his hotel for 12 hours to catch a glimpse, or others somehow who figured out his traffic pattern and ran up to his vehicle at red lights, unsuccessfully begging for autographs."/>
+<p text="``Everybody wants to be associated with winners,'' Wade said. ``Phones get picked up a lot easier when you're a champion. I understand some people might want to see my book, some people might want to see me, some people might want to be there because you're a champion. I see all sides of it. I appreciate it. When someone says `Hey, Champ,' it never gets old.''"/>
+<p text="---"/>
+<p text="Follow Tim Reynolds on Twitter at http://www.twitter.com/ByTimReynolds"/>
+     </content>
+    </story>
+   </news-story>
+  </news-stories>
+ </sports-news-stories>
+</sports-statistics>

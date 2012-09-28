@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-scores>
+    <date year="2012" month="9" date="2" day="7"/>
+    <time hour="4" minute="56" second="40" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="4"/>
+    <league global-id="39" name="English Premier League" alias="EPL" display-name=""/>
+    <season year="2012" id="1" description="2012 EPL Season"/>
+    <soccer-ifb-scores>
+      <ifb-score>
+         <date year="2012" month="9" date="2" day="7"/>
+         <time hour="8" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+         <local-game-date year="2012" month="9" date="2" day="7"/>
+         <local-time hour="13" minute="30"/>
+         <gamecode global-code="1211639" code="2012090210032"/>
+         <coverage level="6"/>
+         <aggregate-partner-game global-code=""/>
+         <game-type id="1" description="Regular Season" replay="false"/>
+         <week week="3"/>
+         <gamestate status-id="1" status="Pre-Game" period="" minutes="" seconds="" additional-minutes=""/>
+         <stadium global-id="5204" id="31" name="Anfield"/>
+         <match-number number=""/>
+         <visiting-team>
+            <team-info global-id="6145" id="21" location="Arsenal" name="" alias="ARS" display-name="Arsenal"/>
+            <team primary-color="" shorts-color=""/>
+           <record wins="0" ties="2" losses="0"/>
+         </visiting-team>
+         <home-team>
+            <team-info global-id="6140" id="32" location="Liverpool" name="" alias="LIV" display-name="Liverpool"/>
+            <team primary-color="" shorts-color=""/>
+           <record wins="0" ties="1" losses="1"/>
+         </home-team>
+      </ifb-score>
+      <ifb-score>
+         <date year="2012" month="9" date="2" day="7"/>
+         <time hour="11" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+         <local-game-date year="2012" month="9" date="2" day="7"/>
+         <local-time hour="16" minute="00"/>
+         <gamecode global-code="1211641" code="2012090210036"/>
+         <coverage level="6"/>
+         <aggregate-partner-game global-code=""/>
+         <game-type id="1" description="Regular Season" replay="false"/>
+         <week week="3"/>
+         <gamestate status-id="1" status="Pre-Game" period="" minutes="" seconds="" additional-minutes=""/>
+         <stadium global-id="5208" id="35" name="Sports Direct Arena"/>
+         <match-number number=""/>
+         <visiting-team>
+            <team-info global-id="6144" id="22" location="Aston Villa" name="" alias="AST" display-name="Aston Villa"/>
+            <team primary-color="" shorts-color=""/>
+           <record wins="0" ties="0" losses="2"/>
+         </visiting-team>
+         <home-team>
+            <team-info global-id="6151" id="36" location="Newcastle United" name="" alias="NCU" display-name="Newcastle United"/>
+            <team primary-color="" shorts-color=""/>
+           <record wins="1" ties="0" losses="1"/>
+         </home-team>
+      </ifb-score>
+      <ifb-score>
+         <date year="2012" month="9" date="2" day="7"/>
+         <time hour="11" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+         <local-game-date year="2012" month="9" date="2" day="7"/>
+         <local-time hour="16" minute="00"/>
+         <gamecode global-code="1211642" code="2012090210037"/>
+         <coverage level="6"/>
+         <aggregate-partner-game global-code=""/>
+         <game-type id="1" description="Regular Season" replay="false"/>
+         <week week="3"/>
+         <gamestate status-id="1" status="Pre-Game" period="" minutes="" seconds="" additional-minutes=""/>
+         <stadium global-id="5246" id="81" name="St. Mary's Stadium"/>
+         <match-number number=""/>
+         <visiting-team>
+            <team-info global-id="6157" id="34" location="Manchester United" name="" alias="MAN" display-name="Manchester United"/>
+            <team primary-color="" shorts-color=""/>
+           <record wins="1" ties="0" losses="1"/>
+         </visiting-team>
+         <home-team>
+            <team-info global-id="7128" id="37" location="Southampton" name="" alias="SHN" display-name="Southampton"/>
+            <team primary-color="" shorts-color=""/>
+           <record wins="0" ties="0" losses="2"/>
+         </home-team>
+      </ifb-score>
+    </soccer-ifb-scores>
+  </sports-scores>
+</sports-statistics>

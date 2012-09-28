@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+ <sports-news-stories>
+  <date year="2012" month="9" date="5" day="3"/>
+  <time hour="11" minute="33" second="58" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+  <version number="1"/>
+  <news-stories>
+   <news-story>
+    <story type="headline" id="6" code="CFB" >
+     <headlines id="1">
+      <headline id="20120904114253365346608" name="CFB_STORY$20120904114253365346608.XML" text="Alabama new No. 1 after routing Michigan" version="0" original_id="20120904114253365346608"/>
+      <image id="201209012112763461041" source="AP" caption="Alabama wide receiver DeAndrew White (2) pulls in a touchdown pass during the first half of an NCAA college football game against Michigan at Cowboys Stadium in Arlington, Texas, Saturday, Sept. 1, 2012. (AP Photo/LM Otero)"/>
+     </headlines>
+     <headlines id="2">
+      <headline id="20120904194209046475708" name="CFB_STORY$20120904194209046475708.XML" text="Mathieu enrolls at LSU, still can't play" version="2" original_id="20120904143201655379608"/>
+     </headlines>
+     <headlines id="3">
+      <headline id="20120904152144851390908" name="CFB_STORY$20120904152144851390908.XML" text="Irish commentator suspended 2 more games" version="0" original_id="20120904152144851390908"/>
+     </headlines>
+     <headlines id="4">
+      <headline id="20120904151003580389708" name="CFB_STORY$20120904151003580389708.XML" text="Gamecocks QB Shaw still not practicing" version="1" original_id="20120904143934415382408"/>
+     </headlines>
+     <headlines id="5">
+      <headline id="20120904185047262451708" name="CFB_STORY$20120904185047262451708.XML" text="TCU WR Dawson suspended for opener" version="2" original_id="20120904171637203423908"/>
+     </headlines>
+     <headlines id="6">
+      <headline id="20120904185150114452008" name="CFB_STORY$20120904185150114452008.XML" text="Penn State: Sandusky costs up to $16.8M" version="0" original_id="20120904185150114452008"/>
+     </headlines>
+     <headlines id="7">
+      <headline id="20120904131434847361908" name="CFB_STORY$20120904131434847361908.XML" text="Purdue QB TerBush to start vs. Irish" version="0" original_id="20120904131434847361908"/>
+     </headlines>
+     <headlines id="8">
+      <headline id="20120904194339732476408" name="CFB_STORY$20120904194339732476408.XML" text="Star LB Skov set to return for Stanford" version="1" original_id="20120904175307606434408"/>
+     </headlines>
+     <headlines id="9">
+      <headline id="20120904203312973490908" name="CFB_STORY$20120904203312973490908.XML" text="Richt won't name Georgia's starting RB" version="0" original_id="20120904203312973490908"/>
+     </headlines>
+     <headlines id="10">
+      <headline id="20120904211327504496808" name="CFB_STORY$20120904211327504496808.XML" text="Injured Tulsa WR Burnham out for season" version="0" original_id="20120904211327504496808"/>
+     </headlines>
+    </story>
+   </news-story>
+  </news-stories>
+ </sports-news-stories>
+</sports-statistics>

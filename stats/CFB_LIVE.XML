@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-scores>
+    <date year="2012" month="9" date="5" day="3"/>
+    <time hour="11" minute="08" second="54" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="4"/>
+    <season season="2012"/>
+    <cfb-scores>
+     <cfb-score>
+       <date year="2012" month="9" date="6" day="4"/>
+       <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="6" day="4"/>
+       <local-time hour="20" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209060098" global-id="1203732"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Nippert Stadium" city="Cincinnati" state="Ohio" state-id="35" country-name="United States" country-id="1" id="98" global-id="2896"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Panthers" alias="Pitt"/>
+         <team-city city="Pittsburgh"/>
+         <team-code id="12" global-id="3418" division="1"/>
+         <team-conference conference="Big East" id="2"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Bearcats" alias="Cin"/>
+         <team-city city="Cincinnati"/>
+         <team-code id="98" global-id="3503" division="1"/>
+         <team-conference conference="Big East" id="2"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="7" day="5"/>
+       <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="7" day="5"/>
+       <local-time hour="18" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209070046" global-id="1178085"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="E.L. Romney Stadium" city="Logan" state="Utah" state-id="44" country-name="United States" country-id="1" id="46" global-id="2844"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Utes" alias="Utah"/>
+         <team-city city="Utah"/>
+         <team-code id="94" global-id="3499" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Aggies" alias="UtahSt"/>
+         <team-city city="Utah State"/>
+         <team-code id="46" global-id="3451" division="1"/>
+         <team-conference conference="Western Athletic" id="10"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="11" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080078" global-id="1178129"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Davis Wade Stadium at Scott Field" city="Starkville" state="Mississippi" state-id="24" country-name="United States" country-id="1" id="78" global-id="2876"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Tigers" alias="Auburn"/>
+         <team-city city="Auburn"/>
+         <team-code id="75" global-id="3480" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Bulldogs" alias="MissSt"/>
+         <team-city city="Mississippi State"/>
+         <team-code id="78" global-id="3483" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="11" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080031" global-id="1178445"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="TCF Bank Stadium" city="Minneapolis" state="Minnesota" state-id="23" country-name="United States" country-id="1" id="668" global-id="8001"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Wildcats" alias="UNH"/>
+         <team-city city="New Hampshire"/>
+         <team-code id="205" global-id="3610" division="2"/>
+         <team-conference conference="Colonial Athletic Association" id="98"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Golden Gophers" alias="Minn"/>
+         <team-city city="Minnesota"/>
+         <team-code id="31" global-id="3437" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080033" global-id="1178459"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Ohio Stadium" city="Columbus" state="Ohio" state-id="35" country-name="United States" country-id="1" id="33" global-id="2832"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Knights" alias="UCF"/>
+         <team-city city="UCF"/>
+         <team-code id="210" global-id="3615" division="1"/>
+         <team-conference conference="Conference USA" id="72"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Buckeyes" alias="OhioSt"/>
+         <team-city city="Ohio State"/>
+         <team-code id="33" global-id="3439" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="14"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080008" global-id="1178462"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="David A. Harrison III Field at Scott Stadium" city="Charlottesville" state="Virginia" state-id="46" country-name="United States" country-id="1" id="8" global-id="3193"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Nittany Lions" alias="PSU"/>
+         <team-city city="Penn State"/>
+         <team-code id="34" global-id="3440" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Cavaliers" alias="UVa"/>
+         <team-city city="Virginia"/>
+         <team-code id="8" global-id="3414" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080015" global-id="1178854"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Lincoln Financial Field" city="Philadelphia" state="Pennsylvania" state-id="38" country-name="United States" country-id="1" id="241" global-id="3501"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Terrapins" alias="MD"/>
+         <team-city city="Maryland"/>
+         <team-code id="5" global-id="3411" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Owls" alias="Temple"/>
+         <team-city city="Temple"/>
+         <team-code id="15" global-id="3421" division="1"/>
+         <team-conference conference="Big East" id="2"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="11" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080021" global-id="1179499"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Bill Snyder Family Stadium" city="Manhattan" state="Kansas" state-id="16" country-name="United States" country-id="1" id="21" global-id="2820"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Hurricanes" alias="Mia-Fl"/>
+         <team-city city="Miami (FL)"/>
+         <team-code id="11" global-id="3417" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Wildcats" alias="KanSt"/>
+         <team-city city="Kansas State"/>
+         <team-code id="21" global-id="3427" division="1"/>
+         <team-conference conference="Big 12" id="71"/>
+         <team-rank rank="21"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="11" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080107" global-id="1180336"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Skelly Field at H.A. Chapman Stadium" city="Tulsa" state="Oklahoma" state-id="36" country-name="United States" country-id="1" id="107" global-id="2905"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Green Wave" alias="Tulane"/>
+         <team-city city="Tulane"/>
+         <team-code id="106" global-id="3511" division="1"/>
+         <team-conference conference="Conference USA" id="72"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Golden Hurricane" alias="Tulsa"/>
+         <team-city city="Tulsa"/>
+         <team-code id="107" global-id="3512" division="1"/>
+         <team-conference conference="Conference USA" id="72"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080202" global-id="1194121"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Rentschler Field" city="East Hartford" state="Connecticut" state-id="7" country-name="United States" country-id="1" id="228" global-id="3484"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Wolfpack" alias="NCSU"/>
+         <team-city city="North Carolina State"/>
+         <team-code id="7" global-id="3413" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Huskies" alias="UConn"/>
+         <team-city city="Connecticut"/>
+         <team-code id="202" global-id="3607" division="1"/>
+         <team-conference conference="Big East" id="2"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="21" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="21"/>
+       <week week="2"/>
+       <gamecode code="201209080070" global-id="1179684"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Williams-Brice Stadium" city="Columbia" state="South Carolina" state-id="40" country-name="United States" country-id="1" id="70" global-id="3152"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Pirates" alias="ECU"/>
+         <team-city city="East Carolina"/>
+         <team-code id="99" global-id="3504" division="1"/>
+         <team-conference conference="Conference USA" id="72"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Gamecocks" alias="SC"/>
+         <team-city city="South Carolina"/>
+         <team-code id="70" global-id="3475" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="9"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="12" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080001" global-id="1178845"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Memorial Stadium" city="Clemson" state="South Carolina" state-id="40" country-name="United States" country-id="1" id="1" global-id="2800"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Cardinals" alias="BallSt"/>
+         <team-city city="Ball State"/>
+         <team-code id="48" global-id="3453" division="1"/>
+         <team-conference conference="Mid-American" id="6"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Tigers" alias="Clem"/>
+         <team-city city="Clemson"/>
+         <team-code id="1" global-id="3407" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="12"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="13" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="13" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080010" global-id="1181463"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Alumni Stadium" city="Chestnut Hill" state="Massachusetts" state-id="21" country-name="United States" country-id="1" id="10" global-id="2809"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Black Bears" alias="Maine"/>
+         <team-city city="Maine"/>
+         <team-code id="203" global-id="3608" division="2"/>
+         <team-conference conference="Colonial Athletic Association" id="98"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Eagles" alias="BC"/>
+         <team-city city="Boston College"/>
+         <team-code id="10" global-id="3416" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="13" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="13" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080016" global-id="1180138"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Lane Stadium/Worsham Field" city="Blacksburg" state="Virginia" state-id="46" country-name="United States" country-id="1" id="16" global-id="2815"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Governors" alias="APSU"/>
+         <team-city city="Austin Peay"/>
+         <team-code id="150" global-id="3555" division="2"/>
+         <team-conference conference="Ohio Valley" id="18"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Hokies" alias="VaTech"/>
+         <team-city city="Virginia Tech"/>
+         <team-code id="16" global-id="3422" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="15"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080059" global-id="1178028"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Memorial Stadium" city="Berkeley" state="California" state-id="5" country-name="United States" country-id="1" id="59" global-id="2857"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Thunderbirds" alias="SoUt"/>
+         <team-city city="Southern Utah"/>
+         <team-code id="111" global-id="3516" division="2"/>
+         <team-conference conference="Big Sky" id="13"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Golden Bears" alias="Cal"/>
+         <team-city city="California"/>
+         <team-code id="59" global-id="3464" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="13" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080018" global-id="1178040"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Folsom Field" city="Boulder" state="Colorado" state-id="6" country-name="United States" country-id="1" id="18" global-id="2817"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Hornets" alias="Sac"/>
+         <team-city city="Sacramento State"/>
+         <team-code id="110" global-id="3515" division="2"/>
+         <team-conference conference="Big Sky" id="13"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Buffaloes" alias="Colo"/>
+         <team-city city="Colorado"/>
+         <team-code id="18" global-id="3424" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080066" global-id="1178094"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Clarence D. Martin Stadium" city="Pullman" state="Washington" state-id="47" country-name="United States" country-id="1" id="66" global-id="2864"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Eagles" alias="EastWa"/>
+         <team-city city="Eastern Washington"/>
+         <team-code id="113" global-id="3518" division="2"/>
+         <team-conference conference="Big Sky" id="13"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Cougars" alias="WashSt"/>
+         <team-city city="Washington State"/>
+         <team-code id="66" global-id="3471" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080009" global-id="1194115"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="BB&amp;T Field" city="Winston-Salem" state="North Carolina" state-id="33" country-name="United States" country-id="1" id="9" global-id="2808"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Tar Heels" alias="UNC"/>
+         <team-city city="North Carolina"/>
+         <team-code id="6" global-id="3412" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Demon Deacons" alias="Wake"/>
+         <team-city city="Wake Forest"/>
+         <team-code id="9" global-id="3415" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080014" global-id="1178080"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="MetLife Stadium" city="East Rutherford" state="New Jersey" state-id="30" country-name="United States" country-id="1" id="955" global-id="9242"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Trojans" alias="USC"/>
+         <team-city city="USC"/>
+         <team-code id="62" global-id="3467" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="2"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Orange" alias="Syr"/>
+         <team-city city="Syracuse"/>
+         <team-code id="14" global-id="3420" division="1"/>
+         <team-conference conference="Big East" id="2"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="14" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080084" global-id="1178145"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Kyle Field" city="College Station" state="Texas" state-id="43" country-name="United States" country-id="1" id="84" global-id="2882"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Gators" alias="Fla"/>
+         <team-city city="Florida"/>
+         <team-code id="67" global-id="3472" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="24"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Aggies" alias="TexA&amp;M"/>
+         <team-city city="Texas A&amp;M"/>
+         <team-code id="84" global-id="3489" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080104" global-id="1178153"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Notre Dame Stadium" city="South Bend" state="Indiana" state-id="14" country-name="United States" country-id="1" id="104" global-id="2902"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Boilermakers" alias="Purdue"/>
+         <team-city city="Purdue"/>
+         <team-code id="35" global-id="3441" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Fighting Irish" alias="ND"/>
+         <team-city city="Notre Dame"/>
+         <team-code id="104" global-id="3509" division="1"/>
+         <team-conference conference="Independents (FBS)" id="11"/>
+         <team-rank rank="22"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="14" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080020" global-id="1178421"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Memorial Stadium" city="Lawrence" state="Kansas" state-id="16" country-name="United States" country-id="1" id="20" global-id="2819"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Owls" alias="Rice"/>
+         <team-city city="Rice"/>
+         <team-code id="81" global-id="3486" division="1"/>
+         <team-conference conference="Conference USA" id="72"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Jayhawks" alias="Kansas"/>
+         <team-city city="Kansas"/>
+         <team-code id="20" global-id="3426" division="1"/>
+         <team-conference conference="Big 12" id="71"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080204" global-id="1178430"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Gillette Stadium" city="Foxborough" state="Massachusetts" state-id="21" country-name="United States" country-id="1" id="977" global-id="3392"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Hoosiers" alias="Ind"/>
+         <team-city city="Indiana"/>
+         <team-code id="27" global-id="3433" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Minutemen" alias="UMass"/>
+         <team-city city="Massachusetts"/>
+         <team-code id="204" global-id="3609" division="1"/>
+         <team-conference conference="Mid-American" id="6"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080029" global-id="1178442"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Michigan Stadium" city="Ann Arbor" state="Michigan" state-id="22" country-name="United States" country-id="1" id="29" global-id="2828"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Falcons" alias="AF"/>
+         <team-city city="Air Force"/>
+         <team-code id="87" global-id="3492" division="1"/>
+         <team-conference conference="Mountain West" id="87"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Wolverines" alias="Mich"/>
+         <team-city city="Michigan"/>
+         <team-code id="29" global-id="3435" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="19"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080050" global-id="1178849"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Kelly/Shorts Stadium" city="Mount Pleasant" state="Michigan" state-id="22" country-name="United States" country-id="1" id="50" global-id="2848"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Spartans" alias="MSU"/>
+         <team-city city="Michigan State"/>
+         <team-code id="30" global-id="3436" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="11"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Chippewas" alias="CentMi"/>
+         <team-city city="Central Michigan"/>
+         <team-code id="50" global-id="3455" division="1"/>
+         <team-conference conference="Mid-American" id="6"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080100" global-id="1189989"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Papa John's Cardinal Stadium" city="Louisville" state="Kentucky" state-id="17" country-name="United States" country-id="1" id="100" global-id="3155"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Bears" alias="MoStU"/>
+         <team-city city="Missouri State"/>
+         <team-code id="125" global-id="3530" division="2"/>
+         <team-conference conference="Missouri Valley" id="14"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Cardinals" alias="Lou"/>
+         <team-city city="Louisville"/>
+         <team-code id="100" global-id="3505" division="1"/>
+         <team-conference conference="Big East" id="2"/>
+         <team-rank rank="23"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080013" global-id="1198647"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="High Point Solutions Stadium" city="Piscataway" state="New Jersey" state-id="30" country-name="United States" country-id="1" id="13" global-id="2812"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Bison" alias="Howard"/>
+         <team-city city="Howard"/>
+         <team-code id="146" global-id="3551" division="2"/>
+         <team-conference conference="Mid-Eastern Athletic" id="17"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Scarlet Knights" alias="Rut"/>
+         <team-city city="Rutgers"/>
+         <team-code id="13" global-id="3419" division="1"/>
+         <team-conference conference="Big East" id="2"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="35" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="12" minute="35"/>
+       <week week="2"/>
+       <gamecode code="201209080039" global-id="1196717"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Clarence Mackay Stadium" city="Reno" state="Nevada" state-id="28" country-name="United States" country-id="1" id="39" global-id="2838"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Bulls" alias="SoFla"/>
+         <team-city city="South Florida"/>
+         <team-code id="1019" global-id="4009" division="1"/>
+         <team-conference conference="Big East" id="2"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Wolf Pack" alias="Nevada"/>
+         <team-city city="Nevada"/>
+         <team-code id="39" global-id="3445" division="1"/>
+         <team-conference conference="Mountain West" id="87"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="39" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="14" minute="39"/>
+       <week week="2"/>
+       <gamecode code="201209080073" global-id="1193610"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Bryant-Denny Stadium" city="Tuscaloosa" state="Alabama" state-id="1" country-name="United States" country-id="1" id="73" global-id="2871"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Hilltoppers" alias="WestKy"/>
+         <team-city city="Western Kentucky"/>
+         <team-code id="224" global-id="3628" division="1"/>
+         <team-conference conference="Sun Belt" id="90"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Crimson Tide" alias="Ala"/>
+         <team-city city="Alabama"/>
+         <team-code id="73" global-id="3478" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="1"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="15" minute="42" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="14" minute="42"/>
+       <week week="2"/>
+       <gamecode code="201209080028" global-id="1178418"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Kinnick Stadium" city="Iowa City" state="Iowa" state-id="15" country-name="United States" country-id="1" id="28" global-id="2827"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Cyclones" alias="IaSt"/>
+         <team-city city="Iowa State"/>
+         <team-code id="19" global-id="3425" division="1"/>
+         <team-conference conference="Big 12" id="71"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Hawkeyes" alias="Iowa"/>
+         <team-city city="Iowa"/>
+         <team-code id="28" global-id="3434" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="16" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="13" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080061" global-id="1178059"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Reser Stadium" city="Corvallis" state="Oregon" state-id="37" country-name="United States" country-id="1" id="61" global-id="2859"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Badgers" alias="Wisc"/>
+         <team-city city="Wisconsin"/>
+         <team-code id="36" global-id="3442" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="13"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Beavers" alias="OreSt"/>
+         <team-city city="Oregon State"/>
+         <team-code id="61" global-id="3466" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="16" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="16" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080071" global-id="1179688"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Neyland Stadium" city="Knoxville" state="Tennessee" state-id="42" country-name="United States" country-id="1" id="71" global-id="2869"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Panthers" alias="GaSt"/>
+         <team-city city="Georgia State"/>
+         <team-code id="2558" global-id="23171" division="2"/>
+         <team-conference conference="Colonial Athletic Association" id="98"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Volunteers" alias="Tenn"/>
+         <team-city city="Tennessee"/>
+         <team-code id="71" global-id="3476" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="18" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080003" global-id="1194089"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Bobby Bowden Field at Doak Campbell Stadium" city="Tallahassee" state="Florida" state-id="9" country-name="United States" country-id="1" id="3" global-id="3146"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Tigers" alias="Savan"/>
+         <team-city city="Savannah State"/>
+         <team-code id="363" global-id="3763" division="2"/>
+         <team-conference conference="Mid-Eastern Athletic" id="17"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Seminoles" alias="FlaSt"/>
+         <team-city city="Florida State"/>
+         <team-code id="3" global-id="3409" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="6"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="18" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="15" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080060" global-id="1178051"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Autzen Stadium" city="Eugene" state="Oregon" state-id="37" country-name="United States" country-id="1" id="60" global-id="2858"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Bulldogs" alias="Fres"/>
+         <team-city city="Fresno State"/>
+         <team-code id="90" global-id="3495" division="1"/>
+         <team-conference conference="Mountain West" id="87"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Ducks" alias="Oregon"/>
+         <team-city city="Oregon"/>
+         <team-code id="60" global-id="3465" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="4"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080076" global-id="1178090"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Tiger Stadium" city="Baton Rouge" state="Louisiana" state-id="18" country-name="United States" country-id="1" id="76" global-id="2874"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Huskies" alias="Wash"/>
+         <team-city city="Washington"/>
+         <team-code id="65" global-id="3470" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Tigers" alias="LSU"/>
+         <team-city city="LSU"/>
+         <team-code id="76" global-id="3481" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="3"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080074" global-id="1179664"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="War Memorial Stadium" city="Little Rock" state="Arkansas" state-id="4" country-name="United States" country-id="1" id="1008" global-id="3089"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Warhawks" alias="UL-Mon"/>
+         <team-city city="Louisiana-Monroe"/>
+         <team-code id="103" global-id="3508" division="1"/>
+         <team-conference conference="Sun Belt" id="90"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Razorbacks" alias="Ark"/>
+         <team-city city="Arkansas"/>
+         <team-code id="74" global-id="3479" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="8"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080077" global-id="1179681"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Vaught-Hemingway Stadium at Hollingsworth Field" city="Oxford" state="Mississippi" state-id="24" country-name="United States" country-id="1" id="77" global-id="3153"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Miners" alias="UTEP"/>
+         <team-city city="UTEP"/>
+         <team-code id="95" global-id="3500" division="1"/>
+         <team-conference conference="Conference USA" id="72"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Rebels" alias="Miss"/>
+         <team-city city="Mississippi"/>
+         <team-code id="77" global-id="3482" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080176" global-id="1180242"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Joan C. Edwards Stadium" city="Huntington" state="West Virginia" state-id="48" country-name="United States" country-id="1" id="176" global-id="3164"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Catamounts" alias="WCU"/>
+         <team-city city="Western Carolina"/>
+         <team-code id="179" global-id="3584" division="2"/>
+         <team-conference conference="Southern" id="21"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Thundering Herd" alias="Marsh"/>
+         <team-city city="Marshall"/>
+         <team-code id="176" global-id="3581" division="1"/>
+         <team-conference conference="Conference USA" id="72"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080037" global-id="1180257"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="ASU Stadium" city="Jonesboro" state="Arkansas" state-id="4" country-name="United States" country-id="1" id="37" global-id="2836"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Tigers" alias="Mem"/>
+         <team-city city="Memphis"/>
+         <team-code id="101" global-id="3506" division="1"/>
+         <team-conference conference="Conference USA" id="72"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Red Wolves" alias="ArkSt"/>
+         <team-city city="Arkansas State"/>
+         <team-code id="37" global-id="3443" division="1"/>
+         <team-conference conference="Sun Belt" id="90"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080085" global-id="1189453"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Amon G. Carter Stadium" city="Fort Worth" state="Texas" state-id="43" country-name="United States" country-id="1" id="85" global-id="2883"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Tigers" alias="Gram"/>
+         <team-city city="Grambling State"/>
+         <team-code id="189" global-id="3594" division="2"/>
+         <team-conference conference="Southwestern Athletic" id="23"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Horned Frogs" alias="TCU"/>
+         <team-city city="TCU"/>
+         <team-code id="85" global-id="3490" division="1"/>
+         <team-conference conference="Big 12" id="71"/>
+         <team-rank rank="20"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080185" global-id="1189464"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Jim Wacker Field at Bobcat Stadium" city="San Marcos" state="Texas" state-id="43" country-name="United States" country-id="1" id="185" global-id="2983"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Red Raiders" alias="TxTch"/>
+         <team-city city="Texas Tech"/>
+         <team-code id="86" global-id="3491" division="1"/>
+         <team-conference conference="Big 12" id="71"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Bobcats" alias="TxSt"/>
+         <team-city city="Texas State"/>
+         <team-code id="185" global-id="3590" division="1"/>
+         <team-conference conference="Western Athletic" id="10"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080024" global-id="1190026"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Gaylord Family-Oklahoma Memorial Stadium" city="Norman" state="Oklahoma" state-id="36" country-name="United States" country-id="1" id="24" global-id="3149"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Rattlers" alias="FlaA&amp;M"/>
+         <team-city city="Florida A&amp;M"/>
+         <team-code id="145" global-id="3550" division="2"/>
+         <team-conference conference="Mid-Eastern Athletic" id="17"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Sooners" alias="Okla"/>
+         <team-city city="Oklahoma"/>
+         <team-code id="24" global-id="3430" division="1"/>
+         <team-conference conference="Big 12" id="71"/>
+         <team-rank rank="5"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080004" global-id="1194096"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Bobby Dodd Stadium" city="Atlanta" state="Georgia" state-id="10" country-name="United States" country-id="1" id="4" global-id="2803"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Blue Hose" alias="PRESBY"/>
+         <team-city city="Presbyterian"/>
+         <team-code id="354" global-id="3754" division="2"/>
+         <team-conference conference="Big South" id="92"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Yellow Jackets" alias="GaTech"/>
+         <team-city city="Georgia Tech"/>
+         <team-code id="4" global-id="3410" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="16" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080064" global-id="1178074"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Rose Bowl" city="Pasadena" state="California" state-id="5" country-name="United States" country-id="1" id="64" global-id="2862"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Cornhuskers" alias="Neb"/>
+         <team-city city="Nebraska"/>
+         <team-code id="23" global-id="3429" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="16"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Bruins" alias="UCLA"/>
+         <team-city city="UCLA"/>
+         <team-code id="64" global-id="3469" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080069" global-id="1179674"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Commonwealth Stadium" city="Lexington" state="Kentucky" state-id="17" country-name="United States" country-id="1" id="69" global-id="2867"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Golden Flashes" alias="KentSt"/>
+         <team-city city="Kent State"/>
+         <team-code id="52" global-id="3457" division="1"/>
+         <team-conference conference="Mid-American" id="6"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Wildcats" alias="Kty"/>
+         <team-city city="Kentucky"/>
+         <team-code id="69" global-id="3474" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="19" minute="45" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="18" minute="45"/>
+       <week week="2"/>
+       <gamecode code="201209080022" global-id="1178133"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Memorial Stadium at Faurot Field" city="Columbia" state="Missouri" state-id="25" country-name="United States" country-id="1" id="22" global-id="2821"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Bulldogs" alias="UGa"/>
+         <team-city city="Georgia"/>
+         <team-code id="68" global-id="3473" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="7"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Tigers" alias="Mizzou"/>
+         <team-city city="Missouri"/>
+         <team-code id="22" global-id="3428" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080083" global-id="1178424"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Darrell K. Royal-Texas Memorial Stadium" city="Austin" state="Texas" state-id="43" country-name="United States" country-id="1" id="83" global-id="2881"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Lobos" alias="NM"/>
+         <team-city city="New Mexico"/>
+         <team-code id="92" global-id="3497" division="1"/>
+         <team-conference conference="Mountain West" id="87"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Longhorns" alias="Tex"/>
+         <team-city city="Texas"/>
+         <team-code id="83" global-id="3488" division="1"/>
+         <team-conference conference="Big 12" id="71"/>
+         <team-rank rank="17"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080032" global-id="1179691"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Ryan Field" city="Evanston" state="Illinois" state-id="13" country-name="United States" country-id="1" id="32" global-id="2831"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Commodores" alias="Vandy"/>
+         <team-city city="Vanderbilt"/>
+         <team-code id="72" global-id="3477" division="1"/>
+         <team-conference conference="Southeastern" id="8"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Wildcats" alias="NW"/>
+         <team-city city="Northwestern"/>
+         <team-code id="32" global-id="3438" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080082" global-id="1180225"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Gerald J. Ford Stadium" city="Dallas" state="Texas" state-id="43" country-name="United States" country-id="1" id="2019" global-id="3181"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Lumberjacks" alias="SFA"/>
+         <team-city city="Stephen F. Austin"/>
+         <team-code id="186" global-id="3591" division="2"/>
+         <team-conference conference="Southland" id="22"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Mustangs" alias="SMU"/>
+         <team-city city="Southern Methodist"/>
+         <team-code id="82" global-id="3487" division="1"/>
+         <team-conference conference="Conference USA" id="72"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="00"/>
+       <week week="2"/>
+       <gamecode code="201209080080" global-id="1197606"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="O'Quinn Field at Robertson Stadium" city="Houston" state="Texas" state-id="43" country-name="United States" country-id="1" id="80" global-id="2878"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Bulldogs" alias="LaTech"/>
+         <team-city city="Louisiana Tech"/>
+         <team-code id="38" global-id="3444" division="1"/>
+         <team-conference conference="Western Athletic" id="10"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="0" ties="0" pct="-"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Cougars" alias="Hou"/>
+         <team-city city="Houston"/>
+         <team-code id="80" global-id="3485" division="1"/>
+         <team-conference conference="Conference USA" id="72"/>
+         <team-rank rank="0"/>
+         <record wins="0" losses="1" ties="0" pct=".000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="22" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080057" global-id="1178005"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Arizona Stadium" city="Tucson" state="Arizona" state-id="3" country-name="United States" country-id="1" id="57" global-id="2855"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Cowboys" alias="OkSt"/>
+         <team-city city="Oklahoma State"/>
+         <team-code id="25" global-id="3431" division="1"/>
+         <team-conference conference="Big 12" id="71"/>
+         <team-rank rank="18"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Wildcats" alias="Ari"/>
+         <team-city city="Arizona"/>
+         <team-code id="57" global-id="3462" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="22" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080058" global-id="1178017"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Sun Devil Stadium" city="Tempe" state="Arizona" state-id="3" country-name="United States" country-id="1" id="58" global-id="2856"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Fighting Illini" alias="Ill"/>
+         <team-city city="Illinois"/>
+         <team-code id="26" global-id="3432" division="1"/>
+         <team-conference conference="Big Ten" id="4"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Sun Devils" alias="AriSt"/>
+         <team-city city="Arizona State"/>
+         <team-code id="58" global-id="3463" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+     <cfb-score>
+       <date year="2012" month="9" date="8" day="6"/>
+       <time hour="22" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2012" month="9" date="8" day="6"/>
+       <local-time hour="19" minute="30"/>
+       <week week="2"/>
+       <gamecode code="201209080063" global-id="1178067"/>
+       <gametype id="1" type="Regular Season" detail=""/>
+       <stadium name="Stanford Stadium" city="Stanford" state="California" state-id="5" country-name="United States" country-id="1" id="63" global-id="2861"/>
+       <bowl id="0" name="" full-name=""/>
+       <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+       <visiting-team>
+         <team-name name="Blue Devils" alias="Duke"/>
+         <team-city city="Duke"/>
+         <team-code id="2" global-id="3408" division="1"/>
+         <team-conference conference="Atlantic Coast" id="1"/>
+         <team-rank rank="0"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </visiting-team>
+       <home-team>
+         <team-name name="Cardinal" alias="Stan"/>
+         <team-city city="Stanford"/>
+         <team-code id="63" global-id="3468" division="1"/>
+         <team-conference conference="Pacific-12" id="7"/>
+         <team-rank rank="25"/>
+         <record wins="1" losses="0" ties="0" pct="1.000"/>
+       </home-team>
+     </cfb-score>
+    </cfb-scores>
+  </sports-scores>
+ </sports-statistics>

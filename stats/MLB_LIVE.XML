@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+   <sports-scores>
+      <date year="2012" month="9" date="2" day="7"/>
+      <time hour="5" minute="17" second="17" timezone="Eastern" utc-hour="-4" utc-minute="0"/>
+      <version number="2"/>
+      <season season="2012"/>
+      <baseball-mlb-scores>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="13"  minute="05" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="05"/>
+            <gamecode code="320902105" global-id="1168257"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="1" league="AL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Progressive Field" city="Cleveland" state="Ohio" id="5" global-id="396"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Rangers" alias="Tex"/>
+               <team-city city="Texas"/>
+               <team-code id="13" global-id="237"/>
+               <record wins="78" losses="54" ties="0" pct=".591"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Indians" alias="Cle"/>
+               <team-city city="Cleveland"/>
+               <team-code id="5" global-id="229"/>
+               <record wins="56" losses="77" ties="0" pct=".421"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="13"  minute="05" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="05"/>
+            <gamecode code="320902110" global-id="1168190"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="1" league="AL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Yankee Stadium" city="Bronx" state="New York" id="92" global-id="7920"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Orioles" alias="Bal"/>
+               <team-city city="Baltimore"/>
+               <team-code id="1" global-id="225"/>
+               <record wins="73" losses="59" ties="0" pct=".553"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Yankees" alias="NYY"/>
+               <team-city city="New York"/>
+               <team-code id="10" global-id="234"/>
+               <record wins="76" losses="56" ties="0" pct=".576"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="13"  minute="07" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="07"/>
+            <gamecode code="320902114" global-id="1168865"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="1" league="AL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Rogers Centre" city="Toronto" state="Ontario" id="14" global-id="405"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Rays" alias="TB"/>
+               <team-city city="Tampa Bay"/>
+               <team-code id="30" global-id="254"/>
+               <record wins="72" losses="61" ties="0" pct=".541"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Blue Jays" alias="Tor"/>
+               <team-city city="Toronto"/>
+               <team-code id="14" global-id="238"/>
+               <record wins="60" losses="72" ties="0" pct=".455"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="13"  minute="10" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="10"/>
+            <gamecode code="320902128" global-id="1167468"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="2" league="NL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Marlins Park" city="Miami" state="Florida" id="98" global-id="10257"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Mets" alias="NYM"/>
+               <team-city city="New York"/>
+               <team-code id="21" global-id="245"/>
+               <record wins="63" losses="70" ties="0" pct=".474"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Marlins" alias="Mia"/>
+               <team-city city="Miami"/>
+               <team-code id="28" global-id="252"/>
+               <record wins="59" losses="74" ties="0" pct=".444"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="13"  minute="35" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="35"/>
+            <gamecode code="320902120" global-id="1169734"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="2" league="NL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Nationals Park" city="Washington" state="District of Columbia" id="89" global-id="6423"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Cardinals" alias="StL"/>
+               <team-city city="St. Louis"/>
+               <team-code id="24" global-id="248"/>
+               <record wins="72" losses="61" ties="0" pct=".541"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Nationals" alias="Was"/>
+               <team-city city="Washington"/>
+               <team-code id="20" global-id="244"/>
+               <record wins="80" losses="52" ties="0" pct=".606"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="14"  minute="05" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="05"/>
+            <gamecode code="320902118" global-id="1168278"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="2" league="NL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Minute Maid Park" city="Houston" state="Texas" id="44" global-id="435"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Reds" alias="Cin"/>
+               <team-city city="Cincinnati"/>
+               <team-code id="17" global-id="241"/>
+               <record wins="81" losses="53" ties="0" pct=".604"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Astros" alias="Hou"/>
+               <team-city city="Houston"/>
+               <team-code id="18" global-id="242"/>
+               <record wins="41" losses="92" ties="0" pct=".308"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="14"  minute="10" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="10"/>
+            <gamecode code="320902107" global-id="1168755"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="1" league="AL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Ewing M. Kauffman Stadium" city="Kansas City" state="Missouri" id="7" global-id="398"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Twins" alias="Min"/>
+               <team-city city="Minnesota"/>
+               <team-code id="9" global-id="233"/>
+               <record wins="55" losses="78" ties="0" pct=".414"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Royals" alias="KC"/>
+               <team-city city="Kansas City"/>
+               <team-code id="7" global-id="231"/>
+               <record wins="59" losses="73" ties="0" pct=".447"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="14"  minute="10" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="10"/>
+            <gamecode code="320902108" global-id="1168406"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="2" league="NL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Miller Park" city="Milwaukee" state="Wisconsin" id="46" global-id="437"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Pirates" alias="Pit"/>
+               <team-city city="Pittsburgh"/>
+               <team-code id="23" global-id="247"/>
+               <record wins="70" losses="62" ties="0" pct=".530"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Brewers" alias="Mil"/>
+               <team-city city="Milwaukee"/>
+               <team-code id="8" global-id="232"/>
+               <record wins="64" losses="68" ties="0" pct=".485"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="14"  minute="20" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="20"/>
+            <gamecode code="320902116" global-id="1167599"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="2" league="NL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Wrigley Field" city="Chicago" state="Illinois" id="16" global-id="407"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Giants" alias="SF"/>
+               <team-city city="San Francisco"/>
+               <team-code id="26" global-id="250"/>
+               <record wins="75" losses="58" ties="0" pct=".564"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Cubs" alias="ChC"/>
+               <team-city city="Chicago"/>
+               <team-code id="16" global-id="240"/>
+               <record wins="51" losses="81" ties="0" pct=".386"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="15"  minute="10" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="10"/>
+            <gamecode code="320902127" global-id="1169624"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="2" league="NL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Coors Field" city="Denver" state="Colorado" id="27" global-id="418"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Padres" alias="SD"/>
+               <team-city city="San Diego"/>
+               <team-code id="25" global-id="249"/>
+               <record wins="62" losses="72" ties="0" pct=".463"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Rockies" alias="Col"/>
+               <team-city city="Colorado"/>
+               <team-code id="27" global-id="251"/>
+               <record wins="54" losses="77" ties="0" pct=".412"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="16"  minute="05" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="05"/>
+            <gamecode code="320902111" global-id="1169491"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="1" league="AL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="O.co Coliseum" city="Oakland" state="California" id="11" global-id="402"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Red Sox" alias="Bos"/>
+               <team-city city="Boston"/>
+               <team-code id="2" global-id="226"/>
+               <record wins="62" losses="72" ties="0" pct=".463"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Athletics" alias="Oak"/>
+               <team-city city="Oakland"/>
+               <team-code id="11" global-id="235"/>
+               <record wins="75" losses="57" ties="0" pct=".568"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="16"  minute="10" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="10"/>
+            <gamecode code="320902112" global-id="1169327"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="1" league="AL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Safeco Field" city="Seattle" state="Washington" id="41" global-id="432"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Angels" alias="LAA"/>
+               <team-city city="Los Angeles"/>
+               <team-code id="3" global-id="227"/>
+               <record wins="71" losses="62" ties="0" pct=".534"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Mariners" alias="Sea"/>
+               <team-city city="Seattle"/>
+               <team-code id="12" global-id="236"/>
+               <record wins="64" losses="70" ties="0" pct=".478"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="16"  minute="10" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="13"  minute="10"/>
+            <gamecode code="320902119" global-id="1169668"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="2" league="NL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Dodger Stadium" city="Los Angeles" state="California" id="19" global-id="410"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Diamondbacks" alias="Ari"/>
+               <team-city city="Arizona"/>
+               <team-code id="29" global-id="253"/>
+               <record wins="66" losses="68" ties="0" pct=".493"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Dodgers" alias="LAD"/>
+               <team-city city="Los Angeles"/>
+               <team-code id="19" global-id="243"/>
+               <record wins="71" losses="63" ties="0" pct=".530"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="17"  minute="05" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="17"  minute="05"/>
+            <gamecode code="320902115" global-id="1169433"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="2" league="NL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Turner Field" city="Atlanta" state="Georgia" id="29" global-id="420"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="Phillies" alias="Phi"/>
+               <team-city city="Philadelphia"/>
+               <team-code id="22" global-id="246"/>
+               <record wins="64" losses="69" ties="0" pct=".481"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Braves" alias="Atl"/>
+               <team-city city="Atlanta"/>
+               <team-code id="15" global-id="239"/>
+               <record wins="74" losses="59" ties="0" pct=".556"/>
+            </home-team>
+         </baseball-mlb-score>
+         <baseball-mlb-score>
+            <date year="2012"  month="9" date="2" day="7"/>
+            <time hour="20"  minute="05" timezone="Eastern"  utc-hour="-4"  utc-minute="0"/>
+            <local-game-date year="2012"  month="9" date="2" day="7"/>
+            <local-time hour="20"  minute="05"/>
+            <gamecode code="320902106" global-id="1168499"/>
+            <gametype id="1" type="Regular Season"/>
+            <league id="1" league="AL"/>
+            <double-header double-header="false" double-header-id="0"/>
+            <double-header-game-number number="0"/>
+            <stadium name="Comerica Park" city="Detroit" state="Michigan" id="45" global-id="436"/>
+            <gamestate status="Pre-Game" status-id="1" reason="" inning="" balls="" strikes="" outs="" segment-number="0" segment-division="Bottom" active-state="false" active-state-id="0"/>
+            <visiting-team>
+               <team-name name="White Sox" alias="CWS"/>
+               <team-city city="Chicago"/>
+               <team-code id="4" global-id="228"/>
+               <record wins="72" losses="60" ties="0" pct=".545"/>
+            </visiting-team>
+            <home-team>
+               <team-name name="Tigers" alias="Det"/>
+               <team-city city="Detroit"/>
+               <team-code id="6" global-id="230"/>
+               <record wins="71" losses="61" ties="0" pct=".538"/>
+            </home-team>
+         </baseball-mlb-score>
+      </baseball-mlb-scores>
+   </sports-scores>
+</sports-statistics>

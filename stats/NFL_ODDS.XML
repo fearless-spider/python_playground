@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-odds>
+    <date year="2012" month="9" date="6" day="4"/>
+    <time hour="6" minute="04" second="48" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="1"/>
+    <season season="2012"/>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="5" day="3"/>
+      <time hour="20" minute="30" timezone="Eastern"/>
+      <gamecode code="20120905019" global-id="1204512"/>
+      <visiting-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6"/>
+        <rotation number="451"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19"/>
+        <rotation number="452"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="5" day="3"/>
+          <change-time hour="19" minute="40" timezone="Eastern"/>
+          <opening-line fav-id="19" fav-alias="NYG" fav-pts="-3" fav-money="-120" underdog-money="+111" home-money="-181" away-money="+166" total="46.5" over-money="-111" under-money="+101"/>
+          <current-line fav-id="19" fav-alias="NYG" fav-pts="-3.5" fav-money="+100" underdog-money="-108" home-money="-182" away-money="+164" total="45.5" over-money="-106" under-money="-104"/>
+        </line>
+        <line>
+          <casino id="" name=""/>
+          <scope id="4" name="1st Half"/>
+          <change-date year="2012" month="9" date="5" day="3"/>
+          <change-time hour="19" minute="40" timezone="Eastern"/>
+          <opening-line fav-id="19" fav-alias="NYG" fav-pts="-3" fav-money="+103" underdog-money="-114" home-money="-169" away-money="+152" total="22.5" over-money="-110" under-money="+100"/>
+          <current-line fav-id="19" fav-alias="NYG" fav-pts="-3" fav-money="+118" underdog-money="-130" home-money="-155" away-money="+140" total="22.5" over-money="-123" under-money="+111"/>
+        </line>
+        <line>
+          <casino id="" name=""/>
+          <scope id="5" name="2nd Half"/>
+          <change-date year="2012" month="9" date="5" day="3"/>
+          <change-time hour="19" minute="40" timezone="Eastern"/>
+          <opening-line fav-id="19" fav-alias="NYG" fav-pts="-1" fav-money="-124" underdog-money="+112" home-money="" away-money="" total="21" over-money="-122" under-money="+111"/>
+          <current-line fav-id="0" fav-alias="" fav-pts="" fav-money="" underdog-money="" home-money="" away-money="" total="" over-money="-110" under-money="-110"/>
+        </line>
+        <line>
+          <casino id="" name=""/>
+          <scope id="7" name="1st Qtr"/>
+          <change-date year="2012" month="9" date="5" day="3"/>
+          <change-time hour="19" minute="30" timezone="Eastern"/>
+          <opening-line fav-id="19" fav-alias="NYG" fav-pts="-.5" fav-money="+107" underdog-money="-120" home-money="-165" away-money="+146" total="9.5" over-money="+101" under-money="-113"/>
+          <current-line fav-id="19" fav-alias="NYG" fav-pts="-.5" fav-money="+115" underdog-money="-127" home-money="-149" away-money="+135" total="9.5" over-money="+109" under-money="-120"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="13" minute="00" timezone="Eastern"/>
+      <gamecode code="20120909018" global-id="1204543"/>
+      <visiting-team>
+        <team-name name="Redskins" alias="Was"/>
+        <team-city city="Washington"/>
+        <team-code id="28"/>
+        <rotation number="459"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Saints" alias="NO"/>
+        <team-city city="New Orleans"/>
+        <team-code id="18"/>
+        <rotation number="460"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="12" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="18" fav-alias="NO" fav-pts="-8.5" fav-money="-104" underdog-money="-104" home-money="-455" away-money="+401" total="50.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="18" fav-alias="NO" fav-pts="-7" fav-money="-108" underdog-money="+100" home-money="-345" away-money="+301" total="50.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="13" minute="00" timezone="Eastern"/>
+      <gamecode code="20120909020" global-id="1204523"/>
+      <visiting-team>
+        <team-name name="Bills" alias="Buf"/>
+        <team-city city="Buffalo"/>
+        <team-code id="2"/>
+        <rotation number="457"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Jets" alias="NYJ"/>
+        <team-city city="New York"/>
+        <team-code id="20"/>
+        <rotation number="458"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="12" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="20" fav-alias="NYJ" fav-pts="-6" fav-money="-104" underdog-money="-104" home-money="-196" away-money="+180" total="42.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="20" fav-alias="NYJ" fav-pts="-2.5" fav-money="-114" underdog-money="+105" home-money="-138" away-money="+125" total="38.5" over-money="-114" under-money="+103"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="13" minute="00" timezone="Eastern"/>
+      <gamecode code="20120909005" global-id="1204545"/>
+      <visiting-team>
+        <team-name name="Eagles" alias="Phi"/>
+        <team-city city="Philadelphia"/>
+        <team-code id="21"/>
+        <rotation number="455"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Browns" alias="Cle"/>
+        <team-city city="Cleveland"/>
+        <team-code id="5"/>
+        <rotation number="456"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="12" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="21" fav-alias="Phi" fav-pts="-6.5" fav-money="-104" underdog-money="-104" home-money="+376" away-money="-425" total="41.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="21" fav-alias="Phi" fav-pts="-9" fav-money="+103" underdog-money="-111" home-money="+381" away-money="-445" total="43.5" over-money="+105" under-money="-116"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="13" minute="00" timezone="Eastern"/>
+      <gamecode code="20120909008" global-id="1204538"/>
+      <visiting-team>
+        <team-name name="Rams" alias="StL"/>
+        <team-city city="St. Louis"/>
+        <team-code id="14"/>
+        <rotation number="467"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Lions" alias="Det"/>
+        <team-city city="Detroit"/>
+        <team-code id="8"/>
+        <rotation number="468"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="12" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="8" fav-alias="Det" fav-pts="-9" fav-money="-104" underdog-money="-104" home-money="-407" away-money="+361" total="46.5" over-money="-111" under-money="+101"/>
+          <current-line fav-id="8" fav-alias="Det" fav-pts="-7.5" fav-money="+104" underdog-money="-112" home-money="-371" away-money="+322" total="45.5" over-money="-102" under-money="-108"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="13" minute="00" timezone="Eastern"/>
+      <gamecode code="20120909003" global-id="1204516"/>
+      <visiting-team>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <team-code id="11"/>
+        <rotation number="453"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Bears" alias="Chi"/>
+        <team-city city="Chicago"/>
+        <team-code id="3"/>
+        <rotation number="454"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="12" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="3" fav-alias="Chi" fav-pts="-9" fav-money="-104" underdog-money="-104" home-money="-483" away-money="+423" total="40.5" over-money="-107" under-money="-103"/>
+          <current-line fav-id="3" fav-alias="Chi" fav-pts="-9.5" fav-money="-106" underdog-money="-102" home-money="-500" away-money="+423" total="43" over-money="-109" under-money="-101"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="13" minute="00" timezone="Eastern"/>
+      <gamecode code="20120909012" global-id="1204551"/>
+      <visiting-team>
+        <team-name name="Falcons" alias="Atl"/>
+        <team-city city="Atlanta"/>
+        <team-code id="1"/>
+        <rotation number="469"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Chiefs" alias="KC"/>
+        <team-city city="Kansas City"/>
+        <team-code id="12"/>
+        <rotation number="470"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="12" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="1" fav-alias="Atl" fav-pts="-1" fav-money="-104" underdog-money="-104" home-money="+104" away-money="-113" total="41.5" over-money="-108" under-money="-102"/>
+          <current-line fav-id="1" fav-alias="Atl" fav-pts="-3" fav-money="+110" underdog-money="-119" home-money="+131" away-money="-145" total="43.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="13" minute="00" timezone="Eastern"/>
+      <gamecode code="20120909010" global-id="1204533"/>
+      <visiting-team>
+        <team-name name="Patriots" alias="NE"/>
+        <team-city city="New England"/>
+        <team-code id="17"/>
+        <rotation number="461"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Titans" alias="Ten"/>
+        <team-city city="Tennessee"/>
+        <team-code id="10"/>
+        <rotation number="462"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="12" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="17" fav-alias="NE" fav-pts="-7" fav-money="-104" underdog-money="-104" home-money="+247" away-money="-272" total="47.5" over-money="-110" under-money="+100"/>
+          <current-line fav-id="17" fav-alias="NE" fav-pts="-5.5" fav-money="+100" underdog-money="-108" home-money="+202" away-money="-226" total="47" over-money="-103" under-money="-107"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="13" minute="00" timezone="Eastern"/>
+      <gamecode code="20120909016" global-id="1204520"/>
+      <visiting-team>
+        <team-name name="Jaguars" alias="Jac"/>
+        <team-city city="Jacksonville"/>
+        <team-code id="30"/>
+        <rotation number="463"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Vikings" alias="Min"/>
+        <team-city city="Minnesota"/>
+        <team-code id="16"/>
+        <rotation number="464"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="12" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="16" fav-alias="Min" fav-pts="-4.5" fav-money="-104" underdog-money="-104" home-money="-225" away-money="+206" total="38" over-money="-105" under-money="-105"/>
+          <current-line fav-id="16" fav-alias="Min" fav-pts="-4" fav-money="+102" underdog-money="-110" home-money="-185" away-money="+166" total="39.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="13" minute="00" timezone="Eastern"/>
+      <gamecode code="20120909034" global-id="1204528"/>
+      <visiting-team>
+        <team-name name="Dolphins" alias="Mia"/>
+        <team-city city="Miami"/>
+        <team-code id="15"/>
+        <rotation number="465"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Texans" alias="Hou"/>
+        <team-city city="Houston"/>
+        <team-code id="34"/>
+        <rotation number="466"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="12" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="34" fav-alias="Hou" fav-pts="-6.5" fav-money="-104" underdog-money="-104" home-money="-350" away-money="+314" total="43.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="34" fav-alias="Hou" fav-pts="-11.5" fav-money="-110" underdog-money="+102" home-money="-700" away-money="+569" total="42.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="16" minute="25" timezone="Eastern"/>
+      <gamecode code="20120909009" global-id="1204559"/>
+      <visiting-team>
+        <team-name name="49ers" alias="SF"/>
+        <team-city city="San Francisco"/>
+        <team-code id="25"/>
+        <rotation number="471"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Packers" alias="GB"/>
+        <team-city city="Green Bay"/>
+        <team-code id="9"/>
+        <rotation number="472"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="15" minute="25" timezone="Eastern"/>
+          <opening-line fav-id="9" fav-alias="GB" fav-pts="-7" fav-money="-104" underdog-money="-104" home-money="-262" away-money="+238" total="45" over-money="-105" under-money="-105"/>
+          <current-line fav-id="9" fav-alias="GB" fav-pts="-5" fav-money="+101" underdog-money="-109" home-money="-216" away-money="+193" total="46.5" over-money="-110" under-money="+100"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="16" minute="25" timezone="Eastern"/>
+      <gamecode code="20120909022" global-id="1204567"/>
+      <visiting-team>
+        <team-name name="Seahawks" alias="Sea"/>
+        <team-city city="Seattle"/>
+        <team-code id="26"/>
+        <rotation number="475"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Cardinals" alias="Ari"/>
+        <team-city city="Arizona"/>
+        <team-code id="22"/>
+        <rotation number="476"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="15" minute="25" timezone="Eastern"/>
+          <opening-line fav-id="22" fav-alias="Ari" fav-pts="-1" fav-money="-104" underdog-money="-104" home-money="-123" away-money="+114" total="41.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="26" fav-alias="Sea" fav-pts="-2.5" fav-money="-110" underdog-money="+102" home-money="+126" away-money="-139" total="41" over-money="+100" under-money="-110"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="16" minute="25" timezone="Eastern"/>
+      <gamecode code="20120909027" global-id="1204574"/>
+      <visiting-team>
+        <team-name name="Panthers" alias="Car"/>
+        <team-city city="Carolina"/>
+        <team-code id="29"/>
+        <rotation number="473"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Buccaneers" alias="TB"/>
+        <team-city city="Tampa Bay"/>
+        <team-code id="27"/>
+        <rotation number="474"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="15" minute="25" timezone="Eastern"/>
+          <opening-line fav-id="29" fav-alias="Car" fav-pts="-3" fav-money="+100" underdog-money="-108" home-money="+135" away-money="-146" total="46.5" over-money="-105" under-money="-105"/>
+          <current-line fav-id="29" fav-alias="Car" fav-pts="-1" fav-money="-119" underdog-money="+110" home-money="+114" away-money="-126" total="46.5" over-money="-114" under-money="+103"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="9" day="7"/>
+      <time hour="20" minute="20" timezone="Eastern"/>
+      <gamecode code="20120909007" global-id="1204582"/>
+      <visiting-team>
+        <team-name name="Steelers" alias="Pit"/>
+        <team-city city="Pittsburgh"/>
+        <team-code id="23"/>
+        <rotation number="477"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Broncos" alias="Den"/>
+        <team-city city="Denver"/>
+        <team-code id="7"/>
+        <rotation number="478"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="9" day="7"/>
+          <change-time hour="19" minute="25" timezone="Eastern"/>
+          <opening-line fav-id="7" fav-alias="Den" fav-pts="-3.5" fav-money="+110" underdog-money="-119" home-money="-113" away-money="+104" total="45" over-money="-105" under-money="-105"/>
+          <current-line fav-id="7" fav-alias="Den" fav-pts="-1" fav-money="-119" underdog-money="+110" home-money="-127" away-money="+115" total="44.5" over-money="-107" under-money="-103"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="10" day="1"/>
+      <time hour="19" minute="00" timezone="Eastern"/>
+      <gamecode code="20120910033" global-id="1204590"/>
+      <visiting-team>
+        <team-name name="Bengals" alias="Cin"/>
+        <team-city city="Cincinnati"/>
+        <team-code id="4"/>
+        <rotation number="479"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <team-code id="33"/>
+        <rotation number="480"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="10" day="1"/>
+          <change-time hour="18" minute="0" timezone="Eastern"/>
+          <opening-line fav-id="33" fav-alias="Bal" fav-pts="-7" fav-money="+104" underdog-money="-113" home-money="-255" away-money="+232" total="41" over-money="-105" under-money="-105"/>
+          <current-line fav-id="33" fav-alias="Bal" fav-pts="-6" fav-money="-110" underdog-money="+102" home-money="-280" away-money="+248" total="41" over-money="-106" under-money="-104"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+    <game sport-id="8" sport="NFL">
+      <date year="2012" month="9" date="10" day="1"/>
+      <time hour="22" minute="15" timezone="Eastern"/>
+      <gamecode code="20120910013" global-id="1204596"/>
+      <visiting-team>
+        <team-name name="Chargers" alias="SD"/>
+        <team-city city="San Diego"/>
+        <team-code id="24"/>
+        <rotation number="481"/>
+      </visiting-team>
+      <home-team>
+        <team-name name="Raiders" alias="Oak"/>
+        <team-city city="Oakland"/>
+        <team-code id="13"/>
+        <rotation number="482"/>
+      </home-team>
+      <lines>
+        <line>
+          <casino id="" name=""/>
+          <scope id="1" name="Game"/>
+          <change-date year="2012" month="9" date="10" day="1"/>
+          <change-time hour="21" minute="15" timezone="Eastern"/>
+          <opening-line fav-id="13" fav-alias="Oak" fav-pts="-1" fav-money="-104" underdog-money="-104" home-money="+109" away-money="-118" total="47.5" over-money="-107" under-money="-103"/>
+          <current-line fav-id="13" fav-alias="Oak" fav-pts="-1" fav-money="-110" underdog-money="+102" home-money="-117" away-money="+106" total="46.5" over-money="-105" under-money="-105"/>
+        </line>
+      </lines>
+      <notes>
+      </notes>
+    </game>
+  </sports-odds>
+</sports-statistics>

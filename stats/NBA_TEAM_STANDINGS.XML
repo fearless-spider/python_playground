@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-standings>
+ <nba-standings>
+    <date year="2012" month="9" date="5" day="3"/>
+    <time hour="1" minute="18" second="02" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="1"/>
+    <season season="2011"/>
+  <nba-conference-standings id="1" conference="Eastern">
+   <nba-division-standings id="1" division="Atlantic">
+     <nba-team-standings>
+      <team-name name="Celtics" alias = "Bos"/>
+      <team-city city="Boston"/>
+      <team-code global-id="2" id="2"/>
+      <wins number="39"/>
+      <losses number="27"/>
+      <winning-percentage percentage=".591"/>
+      <place place="1"/>
+      <games-back number="0.0"/>
+      <points-for-per-game points="91.8"/>
+      <points-against-per-game points="89.3"/>
+      <win-loss-record type="Home" wins="24" losses="9"/>
+      <win-loss-record type="Away" wins="15" losses="18"/>
+      <win-loss-record type = "Division" wins="8" losses="6"/>
+      <win-loss-record type="Conference" wins="32" losses="16"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "18" losses="10"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="3" losses="4"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="14" losses="4"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="25" losses= "23"/>
+      <win-loss-record type="Overtime Games" wins="3" losses= "1"/>
+      <win-loss-record type="Last 10" wins="7" losses="3"/>
+      <streak kind="Winning" games="2"/>
+      <conference-seed seed="4"/>
+      <conference-games-back games="11.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <basketball-nba-playoffs-indicator type="division-first"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Knicks" alias = "NY"/>
+      <team-city city="New York"/>
+      <team-code global-id="18" id="18"/>
+      <wins number="36"/>
+      <losses number="30"/>
+      <winning-percentage percentage=".545"/>
+      <place place="2"/>
+      <games-back number="3.0"/>
+      <points-for-per-game points="97.8"/>
+      <points-against-per-game points="94.7"/>
+      <win-loss-record type="Home" wins="22" losses="11"/>
+      <win-loss-record type="Away" wins="14" losses="19"/>
+      <win-loss-record type = "Division" wins="8" losses="6"/>
+      <win-loss-record type="Conference" wins="28" losses="20"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "19" losses="11"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="4" losses="1"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="23" losses="7"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="13" losses= "23"/>
+      <win-loss-record type="Overtime Games" wins="1" losses= "2"/>
+      <win-loss-record type="Last 10" wins="7" losses="3"/>
+      <streak kind="Winning" games="3"/>
+      <conference-seed seed="7"/>
+      <conference-games-back games="14.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="76ers" alias = "Phi"/>
+      <team-city city="Philadelphia"/>
+      <team-code global-id="20" id="20"/>
+      <wins number="35"/>
+      <losses number="31"/>
+      <winning-percentage percentage=".530"/>
+      <place place="3"/>
+      <games-back number="4.0"/>
+      <points-for-per-game points="93.6"/>
+      <points-against-per-game points="89.4"/>
+      <win-loss-record type="Home" wins="19" losses="14"/>
+      <win-loss-record type="Away" wins="16" losses="17"/>
+      <win-loss-record type = "Division" wins="7" losses="6"/>
+      <win-loss-record type="Conference" wins="28" losses="20"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "27" losses="11"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="0" losses="2"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="17" losses="3"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="18" losses= "28"/>
+      <win-loss-record type="Overtime Games" wins="1" losses= "2"/>
+      <win-loss-record type="Last 10" wins="6" losses="4"/>
+      <streak kind="Losing" games="1"/>
+      <conference-seed seed="8"/>
+      <conference-games-back games="15.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Raptors" alias = "Tor"/>
+      <team-city city="Toronto"/>
+      <team-code global-id="28" id="28"/>
+      <wins number="23"/>
+      <losses number="43"/>
+      <winning-percentage percentage=".348"/>
+      <place place="4"/>
+      <games-back number="16.0"/>
+      <points-for-per-game points="90.7"/>
+      <points-against-per-game points="94.0"/>
+      <win-loss-record type="Home" wins="13" losses="20"/>
+      <win-loss-record type="Away" wins="10" losses="23"/>
+      <win-loss-record type = "Division" wins="7" losses="8"/>
+      <win-loss-record type="Conference" wins="15" losses="33"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "10" losses="20"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="0" losses="2"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="8" losses="6"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="15" losses= "37"/>
+      <win-loss-record type="Overtime Games" wins="2" losses= "2"/>
+      <win-loss-record type="Last 10" wins="3" losses="7"/>
+      <streak kind="Winning" games="1"/>
+      <conference-seed seed="11"/>
+      <conference-games-back games="27.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Nets" alias = "NJ"/>
+      <team-city city="New Jersey"/>
+      <team-code global-id="17" id="17"/>
+      <wins number="22"/>
+      <losses number="44"/>
+      <winning-percentage percentage=".333"/>
+      <place place="5"/>
+      <games-back number="17.0"/>
+      <points-for-per-game points="93.1"/>
+      <points-against-per-game points="99.1"/>
+      <win-loss-record type="Home" wins="9" losses="24"/>
+      <win-loss-record type="Away" wins="13" losses="20"/>
+      <win-loss-record type = "Division" wins="5" losses="9"/>
+      <win-loss-record type="Conference" wins="16" losses="32"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "7" losses="24"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="3" losses="0"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="11" losses="6"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="11" losses= "38"/>
+      <win-loss-record type="Overtime Games" wins="2" losses= "0"/>
+      <win-loss-record type="Last 10" wins="3" losses="7"/>
+      <streak kind="Losing" games="6"/>
+      <conference-seed seed="12"/>
+      <conference-games-back games="28.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+   </nba-division-standings>
+   <nba-division-standings id="2" division="Central">
+     <nba-team-standings>
+      <team-name name="Bulls" alias = "Chi"/>
+      <team-city city="Chicago"/>
+      <team-code global-id="4" id="4"/>
+      <wins number="50"/>
+      <losses number="16"/>
+      <winning-percentage percentage=".758"/>
+      <place place="1"/>
+      <games-back number="0.0"/>
+      <points-for-per-game points="96.3"/>
+      <points-against-per-game points="88.2"/>
+      <win-loss-record type="Home" wins="26" losses="7"/>
+      <win-loss-record type="Away" wins="24" losses="9"/>
+      <win-loss-record type = "Division" wins="13" losses="1"/>
+      <win-loss-record type="Conference" wins="38" losses="10"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "27" losses="8"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="4" losses="1"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="22" losses="0"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="28" losses= "16"/>
+      <win-loss-record type="Overtime Games" wins="3" losses= "1"/>
+      <win-loss-record type="Last 10" wins="7" losses="3"/>
+      <streak kind="Winning" games="3"/>
+      <conference-seed seed="1"/>
+      <conference-games-back games="0.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <basketball-nba-playoffs-indicator type="division-first"/>
+      <basketball-nba-playoffs-indicator type="conference-first"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Pacers" alias = "Ind"/>
+      <team-city city="Indiana"/>
+      <team-code global-id="11" id="11"/>
+      <wins number="42"/>
+      <losses number="24"/>
+      <winning-percentage percentage=".636"/>
+      <place place="2"/>
+      <games-back number="8.0"/>
+      <points-for-per-game points="97.7"/>
+      <points-against-per-game points="94.4"/>
+      <win-loss-record type="Home" wins="23" losses="10"/>
+      <win-loss-record type="Away" wins="19" losses="14"/>
+      <win-loss-record type = "Division" wins="9" losses="4"/>
+      <win-loss-record type="Conference" wins="29" losses="19"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "20" losses="10"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="3" losses="2"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="26" losses="5"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="16" losses= "19"/>
+      <win-loss-record type="Overtime Games" wins="4" losses= "2"/>
+      <win-loss-record type="Last 10" wins="8" losses="2"/>
+      <streak kind="Losing" games="1"/>
+      <conference-seed seed="3"/>
+      <conference-games-back games="8.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Bucks" alias = "Mil"/>
+      <team-city city="Milwaukee"/>
+      <team-code global-id="15" id="15"/>
+      <wins number="31"/>
+      <losses number="35"/>
+      <winning-percentage percentage=".470"/>
+      <place place="3"/>
+      <games-back number="19.0"/>
+      <points-for-per-game points="99.0"/>
+      <points-against-per-game points="98.7"/>
+      <win-loss-record type="Home" wins="17" losses="16"/>
+      <win-loss-record type="Away" wins="14" losses="19"/>
+      <win-loss-record type = "Division" wins="7" losses="8"/>
+      <win-loss-record type="Conference" wins="24" losses="24"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "12" losses="11"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="2" losses="3"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="25" losses="8"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="6" losses= "27"/>
+      <win-loss-record type="Overtime Games" wins="1" losses= "0"/>
+      <win-loss-record type="Last 10" wins="3" losses="7"/>
+      <streak kind="Losing" games="2"/>
+      <conference-seed seed="9"/>
+      <conference-games-back games="19.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Pistons" alias = "Det"/>
+      <team-city city="Detroit"/>
+      <team-code global-id="8" id="8"/>
+      <wins number="25"/>
+      <losses number="41"/>
+      <winning-percentage percentage=".379"/>
+      <place place="4"/>
+      <games-back number="25.0"/>
+      <points-for-per-game points="90.9"/>
+      <points-against-per-game points="95.7"/>
+      <win-loss-record type="Home" wins="18" losses="15"/>
+      <win-loss-record type="Away" wins="7" losses="26"/>
+      <win-loss-record type = "Division" wins="4" losses="11"/>
+      <win-loss-record type="Conference" wins="20" losses="28"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "11" losses="26"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="3" losses="2"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="10" losses="4"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="15" losses= "37"/>
+      <win-loss-record type="Overtime Games" wins="2" losses= "3"/>
+      <win-loss-record type="Last 10" wins="4" losses="6"/>
+      <streak kind="Winning" games="1"/>
+      <conference-seed seed="10"/>
+      <conference-games-back games="25.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Cavaliers" alias = "Cle"/>
+      <team-city city="Cleveland"/>
+      <team-code global-id="5" id="5"/>
+      <wins number="21"/>
+      <losses number="45"/>
+      <winning-percentage percentage=".318"/>
+      <place place="5"/>
+      <games-back number="29.0"/>
+      <points-for-per-game points="93.0"/>
+      <points-against-per-game points="100.2"/>
+      <win-loss-record type="Home" wins="11" losses="22"/>
+      <win-loss-record type="Away" wins="10" losses="23"/>
+      <win-loss-record type = "Division" wins="3" losses="12"/>
+      <win-loss-record type="Conference" wins="13" losses="35"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "8" losses="24"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="4" losses="2"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="9" losses="8"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="12" losses= "37"/>
+      <win-loss-record type="Overtime Games" wins="0" losses= "5"/>
+      <win-loss-record type="Last 10" wins="2" losses="8"/>
+      <streak kind="Losing" games="4"/>
+      <conference-seed seed="13"/>
+      <conference-games-back games="29.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+   </nba-division-standings>
+   <nba-division-standings id="5" division="Southeast">
+     <nba-team-standings>
+      <team-name name="Heat" alias = "Mia"/>
+      <team-city city="Miami"/>
+      <team-code global-id="14" id="14"/>
+      <wins number="46"/>
+      <losses number="20"/>
+      <winning-percentage percentage=".697"/>
+      <place place="1"/>
+      <games-back number="0.0"/>
+      <points-for-per-game points="98.5"/>
+      <points-against-per-game points="92.5"/>
+      <win-loss-record type="Home" wins="28" losses="5"/>
+      <win-loss-record type="Away" wins="18" losses="15"/>
+      <win-loss-record type = "Division" wins="9" losses="5"/>
+      <win-loss-record type="Conference" wins="35" losses="13"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "27" losses="8"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="3" losses="2"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="25" losses="4"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="21" losses= "16"/>
+      <win-loss-record type="Overtime Games" wins="2" losses= "4"/>
+      <win-loss-record type="Last 10" wins="6" losses="4"/>
+      <streak kind="Losing" games="2"/>
+      <conference-seed seed="2"/>
+      <conference-games-back games="4.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <basketball-nba-playoffs-indicator type="division-first"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Hawks" alias = "Atl"/>
+      <team-city city="Atlanta"/>
+      <team-code global-id="1" id="1"/>
+      <wins number="40"/>
+      <losses number="26"/>
+      <winning-percentage percentage=".606"/>
+      <place place="2"/>
+      <games-back number="6.0"/>
+      <points-for-per-game points="96.6"/>
+      <points-against-per-game points="93.2"/>
+      <win-loss-record type="Home" wins="23" losses="10"/>
+      <win-loss-record type="Away" wins="17" losses="16"/>
+      <win-loss-record type = "Division" wins="11" losses="3"/>
+      <win-loss-record type="Conference" wins="31" losses="17"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "15" losses="13"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="4" losses="5"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="27" losses="4"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="13" losses= "22"/>
+      <win-loss-record type="Overtime Games" wins="5" losses= "3"/>
+      <win-loss-record type="Last 10" wins="7" losses="3"/>
+      <streak kind="Winning" games="2"/>
+      <conference-seed seed="5"/>
+      <conference-games-back games="10.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Magic" alias = "Orl"/>
+      <team-city city="Orlando"/>
+      <team-code global-id="19" id="19"/>
+      <wins number="37"/>
+      <losses number="29"/>
+      <winning-percentage percentage=".561"/>
+      <place place="3"/>
+      <games-back number="9.0"/>
+      <points-for-per-game points="94.2"/>
+      <points-against-per-game points="93.4"/>
+      <win-loss-record type="Home" wins="21" losses="12"/>
+      <win-loss-record type="Away" wins="16" losses="17"/>
+      <win-loss-record type = "Division" wins="8" losses="7"/>
+      <win-loss-record type="Conference" wins="30" losses="18"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "17" losses="14"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="0" losses="3"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="25" losses="5"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="12" losses= "24"/>
+      <win-loss-record type="Overtime Games" wins="1" losses= "4"/>
+      <win-loss-record type="Last 10" wins="4" losses="6"/>
+      <streak kind="Losing" games="1"/>
+      <conference-seed seed="6"/>
+      <conference-games-back games="13.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Wizards" alias = "Was"/>
+      <team-city city="Washington"/>
+      <team-code global-id="27" id="27"/>
+      <wins number="20"/>
+      <losses number="46"/>
+      <winning-percentage percentage=".303"/>
+      <place place="4"/>
+      <games-back number="26.0"/>
+      <points-for-per-game points="93.6"/>
+      <points-against-per-game points="98.4"/>
+      <win-loss-record type="Home" wins="11" losses="22"/>
+      <win-loss-record type="Away" wins="9" losses="24"/>
+      <win-loss-record type = "Division" wins="7" losses="7"/>
+      <win-loss-record type="Conference" wins="16" losses="32"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "10" losses="25"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="1" losses="3"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="11" losses="7"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="9" losses= "39"/>
+      <win-loss-record type="Overtime Games" wins="1" losses= "0"/>
+      <win-loss-record type="Last 10" wins="8" losses="2"/>
+      <streak kind="Winning" games="6"/>
+      <conference-seed seed="14"/>
+      <conference-games-back games="30.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Bobcats" alias = "Cha"/>
+      <team-city city="Charlotte"/>
+      <team-code global-id="5312" id="30"/>
+      <wins number="7"/>
+      <losses number="59"/>
+      <winning-percentage percentage=".106"/>
+      <place place="5"/>
+      <games-back number="39.0"/>
+      <points-for-per-game points="87.0"/>
+      <points-against-per-game points="100.9"/>
+      <win-loss-record type="Home" wins="4" losses="29"/>
+      <win-loss-record type="Away" wins="3" losses="30"/>
+      <win-loss-record type = "Division" wins="1" losses="14"/>
+      <win-loss-record type="Conference" wins="5" losses="43"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "2" losses="36"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="2" losses="1"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="4" losses="3"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="3" losses= "56"/>
+      <win-loss-record type="Overtime Games" wins="0" losses= "2"/>
+      <win-loss-record type="Last 10" wins="0" losses="10"/>
+      <streak kind="Losing" games="23"/>
+      <conference-seed seed="15"/>
+      <conference-games-back games="43.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+   </nba-division-standings>
+  </nba-conference-standings>
+  <nba-conference-standings id="2" conference="Western">
+   <nba-division-standings id="4" division="Pacific">
+     <nba-team-standings>
+      <team-name name="Lakers" alias = "LAL"/>
+      <team-city city="Los Angeles"/>
+      <team-code global-id="13" id="13"/>
+      <wins number="41"/>
+      <losses number="25"/>
+      <winning-percentage percentage=".621"/>
+      <place place="1"/>
+      <games-back number="0.0"/>
+      <points-for-per-game points="97.3"/>
+      <points-against-per-game points="95.9"/>
+      <win-loss-record type="Home" wins="26" losses="7"/>
+      <win-loss-record type="Away" wins="15" losses="18"/>
+      <win-loss-record type = "Division" wins="9" losses="5"/>
+      <win-loss-record type="Conference" wins="32" losses="16"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "10" losses="10"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="3" losses="2"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="18" losses="4"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="23" losses= "21"/>
+      <win-loss-record type="Overtime Games" wins="6" losses= "1"/>
+      <win-loss-record type="Last 10" wins="6" losses="4"/>
+      <streak kind="Losing" games="1"/>
+      <conference-seed seed="3"/>
+      <conference-games-back games="9.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <basketball-nba-playoffs-indicator type="division-first"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Clippers" alias = "LAC"/>
+      <team-city city="Los Angeles"/>
+      <team-code global-id="12" id="12"/>
+      <wins number="40"/>
+      <losses number="26"/>
+      <winning-percentage percentage=".606"/>
+      <place place="2"/>
+      <games-back number="1.0"/>
+      <points-for-per-game points="97.5"/>
+      <points-against-per-game points="95.0"/>
+      <win-loss-record type="Home" wins="24" losses="9"/>
+      <win-loss-record type="Away" wins="16" losses="17"/>
+      <win-loss-record type = "Division" wins="7" losses="7"/>
+      <win-loss-record type="Conference" wins="29" losses="19"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "16" losses="7"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="6" losses="2"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="24" losses="5"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="16" losses= "21"/>
+      <win-loss-record type="Overtime Games" wins="4" losses= "1"/>
+      <win-loss-record type="Last 10" wins="6" losses="4"/>
+      <streak kind="Losing" games="2"/>
+      <conference-seed seed="5"/>
+      <conference-games-back games="10.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Suns" alias = "Pho"/>
+      <team-city city="Phoenix"/>
+      <team-code global-id="21" id="21"/>
+      <wins number="33"/>
+      <losses number="33"/>
+      <winning-percentage percentage=".500"/>
+      <place place="3"/>
+      <games-back number="8.0"/>
+      <points-for-per-game points="98.4"/>
+      <points-against-per-game points="98.6"/>
+      <win-loss-record type="Home" wins="19" losses="14"/>
+      <win-loss-record type="Away" wins="14" losses="19"/>
+      <win-loss-record type = "Division" wins="9" losses="5"/>
+      <win-loss-record type="Conference" wins="23" losses="25"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "14" losses="17"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="5" losses="3"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="18" losses="7"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="15" losses= "26"/>
+      <win-loss-record type="Last 10" wins="4" losses="6"/>
+      <streak kind="Losing" games="3"/>
+      <conference-seed seed="10"/>
+      <conference-games-back games="17.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Warriors" alias = "GS"/>
+      <team-city city="Golden State"/>
+      <team-code global-id="9" id="9"/>
+      <wins number="23"/>
+      <losses number="43"/>
+      <winning-percentage percentage=".348"/>
+      <place place="4"/>
+      <games-back number="18.0"/>
+      <points-for-per-game points="97.8"/>
+      <points-against-per-game points="101.2"/>
+      <win-loss-record type="Home" wins="12" losses="21"/>
+      <win-loss-record type="Away" wins="11" losses="22"/>
+      <win-loss-record type = "Division" wins="7" losses="8"/>
+      <win-loss-record type="Conference" wins="16" losses="32"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "6" losses="15"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="1" losses="7"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="15" losses="15"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="8" losses= "28"/>
+      <win-loss-record type="Overtime Games" wins="1" losses= "2"/>
+      <win-loss-record type="Last 10" wins="1" losses="9"/>
+      <streak kind="Losing" games="2"/>
+      <conference-seed seed="13"/>
+      <conference-games-back games="27.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Kings" alias = "Sac"/>
+      <team-city city="Sacramento"/>
+      <team-code global-id="23" id="23"/>
+      <wins number="22"/>
+      <losses number="44"/>
+      <winning-percentage percentage=".333"/>
+      <place place="5"/>
+      <games-back number="19.0"/>
+      <points-for-per-game points="98.8"/>
+      <points-against-per-game points="104.4"/>
+      <win-loss-record type="Home" wins="16" losses="17"/>
+      <win-loss-record type="Away" wins="6" losses="27"/>
+      <win-loss-record type = "Division" wins="3" losses="10"/>
+      <win-loss-record type="Conference" wins="16" losses="32"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "6" losses="22"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="4" losses="3"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="16" losses="15"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="6" losses= "29"/>
+      <win-loss-record type="Overtime Games" wins="1" losses= "2"/>
+      <win-loss-record type="Last 10" wins="3" losses="7"/>
+      <streak kind="Winning" games="1"/>
+      <conference-seed seed="14"/>
+      <conference-games-back games="28.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+   </nba-division-standings>
+   <nba-division-standings id="6" division="Southwest">
+     <nba-team-standings>
+      <team-name name="Spurs" alias = "SA"/>
+      <team-city city="San Antonio"/>
+      <team-code global-id="24" id="24"/>
+      <wins number="50"/>
+      <losses number="16"/>
+      <winning-percentage percentage=".758"/>
+      <place place="1"/>
+      <games-back number="0.0"/>
+      <points-for-per-game points="103.7"/>
+      <points-against-per-game points="96.5"/>
+      <win-loss-record type="Home" wins="28" losses="5"/>
+      <win-loss-record type="Away" wins="22" losses="11"/>
+      <win-loss-record type = "Division" wins="12" losses="4"/>
+      <win-loss-record type="Conference" wins="35" losses="13"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "27" losses="6"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="3" losses="2"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="38" losses="4"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="12" losses= "12"/>
+      <win-loss-record type="Overtime Games" wins="3" losses= "1"/>
+      <win-loss-record type="Last 10" wins="10" losses="0"/>
+      <streak kind="Winning" games="10"/>
+      <conference-seed seed="1"/>
+      <conference-games-back games="0.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <basketball-nba-playoffs-indicator type="division-first"/>
+      <basketball-nba-playoffs-indicator type="conference-first"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Grizzlies" alias = "Mem"/>
+      <team-city city="Memphis"/>
+      <team-code global-id="29" id="29"/>
+      <wins number="41"/>
+      <losses number="25"/>
+      <winning-percentage percentage=".621"/>
+      <place place="2"/>
+      <games-back number="9.0"/>
+      <points-for-per-game points="95.0"/>
+      <points-against-per-game points="93.0"/>
+      <win-loss-record type="Home" wins="26" losses="7"/>
+      <win-loss-record type="Away" wins="15" losses="18"/>
+      <win-loss-record type = "Division" wins="7" losses="8"/>
+      <win-loss-record type="Conference" wins="26" losses="22"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "15" losses="6"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="3" losses="1"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="17" losses="3"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="24" losses= "22"/>
+      <win-loss-record type="Overtime Games" wins="1" losses= "2"/>
+      <win-loss-record type="Last 10" wins="8" losses="2"/>
+      <streak kind="Winning" games="6"/>
+      <conference-seed seed="4"/>
+      <conference-games-back games="9.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Mavericks" alias = "Dal"/>
+      <team-city city="Dallas"/>
+      <team-code global-id="6" id="6"/>
+      <wins number="36"/>
+      <losses number="30"/>
+      <winning-percentage percentage=".545"/>
+      <place place="3"/>
+      <games-back number="14.0"/>
+      <points-for-per-game points="95.8"/>
+      <points-against-per-game points="94.8"/>
+      <win-loss-record type="Home" wins="23" losses="10"/>
+      <win-loss-record type="Away" wins="13" losses="20"/>
+      <win-loss-record type = "Division" wins="8" losses="5"/>
+      <win-loss-record type="Conference" wins="26" losses="22"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "11" losses="14"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="4" losses="6"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="20" losses="3"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="16" losses= "27"/>
+      <win-loss-record type="Overtime Games" wins="3" losses= "3"/>
+      <win-loss-record type="Last 10" wins="5" losses="5"/>
+      <streak kind="Losing" games="2"/>
+      <conference-seed seed="7"/>
+      <conference-games-back games="14.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Rockets" alias = "Hou"/>
+      <team-city city="Houston"/>
+      <team-code global-id="10" id="10"/>
+      <wins number="34"/>
+      <losses number="32"/>
+      <winning-percentage percentage=".515"/>
+      <place place="4"/>
+      <games-back number="16.0"/>
+      <points-for-per-game points="98.1"/>
+      <points-against-per-game points="97.9"/>
+      <win-loss-record type="Home" wins="22" losses="11"/>
+      <win-loss-record type="Away" wins="12" losses="21"/>
+      <win-loss-record type = "Division" wins="6" losses="8"/>
+      <win-loss-record type="Conference" wins="23" losses="25"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "13" losses="12"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="4" losses="3"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="17" losses="8"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="17" losses= "24"/>
+      <win-loss-record type="Overtime Games" wins="3" losses= "6"/>
+      <win-loss-record type="Last 10" wins="3" losses="7"/>
+      <streak kind="Winning" games="1"/>
+      <conference-seed seed="9"/>
+      <conference-games-back games="16.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Hornets" alias = "NO"/>
+      <team-city city="New Orleans"/>
+      <team-code global-id="3" id="3"/>
+      <wins number="21"/>
+      <losses number="45"/>
+      <winning-percentage percentage=".318"/>
+      <place place="5"/>
+      <games-back number="29.0"/>
+      <points-for-per-game points="89.6"/>
+      <points-against-per-game points="93.4"/>
+      <win-loss-record type="Home" wins="11" losses="22"/>
+      <win-loss-record type="Away" wins="10" losses="23"/>
+      <win-loss-record type = "Division" wins="3" losses="11"/>
+      <win-loss-record type="Conference" wins="14" losses="34"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "6" losses="16"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="3" losses="7"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="4" losses="5"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="17" losses= "40"/>
+      <win-loss-record type="Overtime Games" wins="1" losses= "3"/>
+      <win-loss-record type="Last 10" wins="6" losses="4"/>
+      <streak kind="Losing" games="1"/>
+      <conference-seed seed="15"/>
+      <conference-games-back games="29.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+   </nba-division-standings>
+   <nba-division-standings id="7" division="Northwest">
+     <nba-team-standings>
+      <team-name name="Thunder" alias = "OKC"/>
+      <team-city city="Oklahoma City"/>
+      <team-code global-id="25" id="25"/>
+      <wins number="47"/>
+      <losses number="19"/>
+      <winning-percentage percentage=".712"/>
+      <place place="1"/>
+      <games-back number="0.0"/>
+      <points-for-per-game points="103.1"/>
+      <points-against-per-game points="96.9"/>
+      <win-loss-record type="Home" wins="26" losses="7"/>
+      <win-loss-record type="Away" wins="21" losses="12"/>
+      <win-loss-record type = "Division" wins="10" losses="3"/>
+      <win-loss-record type="Conference" wins="34" losses="14"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "23" losses="4"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="1" losses="3"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="35" losses="7"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="12" losses= "12"/>
+      <win-loss-record type="Overtime Games" wins="3" losses= "1"/>
+      <win-loss-record type="Last 10" wins="6" losses="4"/>
+      <streak kind="Losing" games="1"/>
+      <conference-seed seed="2"/>
+      <conference-games-back games="3.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <basketball-nba-playoffs-indicator type="division-first"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Nuggets" alias = "Den"/>
+      <team-city city="Denver"/>
+      <team-code global-id="7" id="7"/>
+      <wins number="38"/>
+      <losses number="28"/>
+      <winning-percentage percentage=".576"/>
+      <place place="2"/>
+      <games-back number="9.0"/>
+      <points-for-per-game points="104.1"/>
+      <points-against-per-game points="101.2"/>
+      <win-loss-record type="Home" wins="20" losses="13"/>
+      <win-loss-record type="Away" wins="18" losses="15"/>
+      <win-loss-record type = "Division" wins="6" losses="7"/>
+      <win-loss-record type="Conference" wins="22" losses="26"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "17" losses="9"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="3" losses="3"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="31" losses="8"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="7" losses= "20"/>
+      <win-loss-record type="Overtime Games" wins="5" losses= "2"/>
+      <win-loss-record type="Last 10" wins="8" losses="2"/>
+      <streak kind="Winning" games="4"/>
+      <conference-seed seed="6"/>
+      <conference-games-back games="12.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Jazz" alias = "Uta"/>
+      <team-city city="Utah"/>
+      <team-code global-id="26" id="26"/>
+      <wins number="36"/>
+      <losses number="30"/>
+      <winning-percentage percentage=".545"/>
+      <place place="3"/>
+      <games-back number="11.0"/>
+      <points-for-per-game points="99.7"/>
+      <points-against-per-game points="99.0"/>
+      <win-loss-record type="Home" wins="25" losses="8"/>
+      <win-loss-record type="Away" wins="11" losses="22"/>
+      <win-loss-record type = "Division" wins="9" losses="4"/>
+      <win-loss-record type="Conference" wins="25" losses="23"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "11" losses="13"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="5" losses="4"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="22" losses="11"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="14" losses= "19"/>
+      <win-loss-record type="Overtime Games" wins="4" losses= "3"/>
+      <win-loss-record type="Last 10" wins="7" losses="3"/>
+      <streak kind="Winning" games="5"/>
+      <conference-seed seed="8"/>
+      <conference-games-back games="14.0"/>
+      <basketball-nba-playoffs-indicator type="clinched-playoffs"/>
+      <eliminated-from-playoffs eliminated="false"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Trail Blazers" alias = "Por"/>
+      <team-city city="Portland"/>
+      <team-code global-id="22" id="22"/>
+      <wins number="28"/>
+      <losses number="38"/>
+      <winning-percentage percentage=".424"/>
+      <place place="4"/>
+      <games-back number="19.0"/>
+      <points-for-per-game points="97.2"/>
+      <points-against-per-game points="97.8"/>
+      <win-loss-record type="Home" wins="20" losses="13"/>
+      <win-loss-record type="Away" wins="8" losses="25"/>
+      <win-loss-record type = "Division" wins="4" losses="10"/>
+      <win-loss-record type="Conference" wins="20" losses="28"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "15" losses="17"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="2" losses="4"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="16" losses="7"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="12" losses= "31"/>
+      <win-loss-record type="Overtime Games" wins="1" losses= "3"/>
+      <win-loss-record type="Last 10" wins="1" losses="9"/>
+      <streak kind="Losing" games="7"/>
+      <conference-seed seed="11"/>
+      <conference-games-back games="22.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+     <nba-team-standings>
+      <team-name name="Timberwolves" alias = "Min"/>
+      <team-city city="Minnesota"/>
+      <team-code global-id="16" id="16"/>
+      <wins number="26"/>
+      <losses number="40"/>
+      <winning-percentage percentage=".394"/>
+      <place place="5"/>
+      <games-back number="21.0"/>
+      <points-for-per-game points="97.9"/>
+      <points-against-per-game points="100.1"/>
+      <win-loss-record type="Home" wins="13" losses="20"/>
+      <win-loss-record type="Away" wins="13" losses="20"/>
+      <win-loss-record type = "Division" wins="4" losses="9"/>
+      <win-loss-record type="Conference" wins="19" losses="29"/>
+      <win-loss-record type= "Games Decided by &gt;10" wins= "12" losses="13"/>
+      <win-loss-record type="Games Decided by &lt;3" wins="4" losses="4"/>
+      <win-loss-record type = "Games Scoring 100 or More" wins="14" losses="14"/>
+      <win-loss-record type="Games Scoring &lt;100" wins="12" losses= "26"/>
+      <win-loss-record type="Overtime Games" wins="0" losses= "3"/>
+      <win-loss-record type="Last 10" wins="1" losses="9"/>
+      <streak kind="Losing" games="2"/>
+      <conference-seed seed="12"/>
+      <conference-games-back games="24.0"/>
+      <eliminated-from-playoffs eliminated="true"/>
+     </nba-team-standings>
+   </nba-division-standings>
+  </nba-conference-standings>
+ </nba-standings>
+  </sports-standings>
+</sports-statistics>

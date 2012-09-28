@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+ <sports-boxscores>
+  <date year="2012" month="8" date="30" day="4"/>
+  <time hour="22" minute="42" second="12" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+  <version number="3"/>
+  <week week="1" />
+  <season season="2012"/>
+  <cfb-boxscores>
+   <cfb-boxscore>
+    <date year="2012" month="8" date="30" day="4"/>
+    <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <local-game-date year="2012" month="8" date="30" day="4"/>
+    <local-time hour="18" minute="00"/>
+    <finalbox finalbox="true" />
+    <gamecode code="201208300072" global-id="1178148"/>
+    <gametype id="1" type="Regular Season" detail="" />
+    <stadium name="Vanderbilt Stadium" city="Nashville" state="Tennessee" state-id="42" country-name="United States" country-id="1" id="72" global-id="2870"/>
+    <bowl id="0" name="" full-name="" />
+    <gamestate status-id="4" status="Final" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false" />
+    <visiting-team>
+     <team-name name="Gamecocks" alias="SC"/>
+     <team-city city="South Carolina"/>
+     <team-code id="70" global-id="3475" division="1"/>
+     <team-conference conference="Southeastern" id="8" />
+     <team-rank rank="9"/>
+     <record wins="1" losses="0" ties="0" pct="1.000" />
+     <linescore score="17">
+      <quarter quarter="1" score="7"/>
+      <quarter quarter="2" score="3"/>
+      <quarter quarter="3" score="0"/>
+      <quarter quarter="4" score="7"/>
+     </linescore>
+    </visiting-team>
+    <home-team>
+     <team-name name="Commodores" alias="Vandy"/>
+     <team-city city="Vanderbilt"/>
+     <team-code id="72" global-id="3477" division="1"/>
+     <team-conference conference="Southeastern" id="8" />
+     <team-rank rank="0"/>
+     <record wins="0" losses="1" ties="0" pct=".000" />
+     <linescore score="13">
+      <quarter quarter="1" score="0"/>
+      <quarter quarter="2" score="10"/>
+      <quarter quarter="3" score="3"/>
+      <quarter quarter="4" score="0"/>
+     </linescore>
+    </home-team>
+    <scoring-summaries>
+     <scoring-summary quarter="1">
+      <score-summary minutes="4" seconds="55">
+       <team-name name="Gamecocks" alias="SC"/>
+       <team-city city="South Carolina"/>
+       <team-code id="70" global-id="3475" division="1"/>
+       <team-conference conference="Southeastern" id="8" />
+       <team-rank rank="9"/>
+       <score-type type="1" />
+       <scorer id="192108" global-id="552807" />
+       <PAT>
+        <type type="14" points="1" good="true" />
+        <player id="175889" global-id="475392" />
+        </PAT>
+       <distance distance="29" />
+       <summary-text text="Marcus Lattimore 29 yd run (Adam Yates kick)"/>
+       <drive plays="2" yards="49"/>
+       <current-score>
+        <leader-name name="Gamecocks" alias="SC"/>
+        <leader-city city="South Carolina"/>
+        <leader-code id="70" global-id="3475"/>
+        <leader-conference conference="Southeastern" id="8" />
+        <leader-rank rank="9"/>
+        <leader score="7"/>
+        <trailer score="0"/>
+       </current-score>
+      </score-summary>
+     </scoring-summary>
+     <scoring-summary quarter="2">
+      <score-summary minutes="11" seconds="44">
+       <team-name name="Gamecocks" alias="SC"/>
+       <team-city city="South Carolina"/>
+       <team-code id="70" global-id="3475" division="1"/>
+       <team-conference conference="Southeastern" id="8" />
+       <team-rank rank="9"/>
+       <score-type type="3" />
+       <scorer id="175889" global-id="475392" />
+       <distance distance="20" />
+       <summary-text text="Adam Yates 20 yd FG"/>
+       <drive plays="14" yards="66"/>
+       <current-score>
+        <leader-name name="Gamecocks" alias="SC"/>
+        <leader-city city="South Carolina"/>
+        <leader-code id="70" global-id="3475"/>
+        <leader-conference conference="Southeastern" id="8" />
+        <leader-rank rank="9"/>
+        <leader score="10"/>
+        <trailer score="0"/>
+       </current-score>
+      </score-summary>
+      <score-summary minutes="10" seconds="37">
+       <team-name name="Commodores" alias="Vandy"/>
+       <team-city city="Vanderbilt"/>
+       <team-code id="72" global-id="3477" division="1"/>
+       <team-conference conference="Southeastern" id="8" />
+       <team-rank rank="0"/>
+       <score-type type="2" />
+       <scorer id="193462" global-id="555648" />
+       <passer id="190466" global-id="543669" />
+       <PAT>
+        <type type="14" points="1" good="true" />
+        <player id="193468" global-id="555654" />
+        </PAT>
+       <distance distance="78" />
+       <summary-text text="Jordan Matthews 78 yd pass from Jordan Rodgers (Carey Spear kick)"/>
+       <drive plays="2" yards="76"/>
+       <current-score>
+        <leader-name name="Gamecocks" alias="SC"/>
+        <leader-city city="South Carolina"/>
+        <leader-code id="70" global-id="3475"/>
+        <leader-conference conference="Southeastern" id="8" />
+        <leader-rank rank="9"/>
+        <leader score="10"/>
+        <trailer score="7"/>
+       </current-score>
+      </score-summary>
+      <score-summary minutes="6" seconds="51">
+       <team-name name="Commodores" alias="Vandy"/>
+       <team-city city="Vanderbilt"/>
+       <team-code id="72" global-id="3477" division="1"/>
+       <team-conference conference="Southeastern" id="8" />
+       <team-rank rank="0"/>
+       <score-type type="3" />
+       <scorer id="193468" global-id="555654" />
+       <distance distance="25" />
+       <summary-text text="Carey Spear 25 yd FG"/>
+       <drive plays="5" yards="38"/>
+       <current-score>
+        <leader-name name="Tied" alias=""/>
+        <leader-city city=""/>
+        <leader-code id="" global-id=""/>
+        <leader score="10"/>
+        <trailer score="10"/>
+       </current-score>
+      </score-summary>
+     </scoring-summary>
+     <scoring-summary quarter="3">
+      <score-summary minutes="6" seconds="2">
+       <team-name name="Commodores" alias="Vandy"/>
+       <team-city city="Vanderbilt"/>
+       <team-code id="72" global-id="3477" division="1"/>
+       <team-conference conference="Southeastern" id="8" />
+       <team-rank rank="0"/>
+       <score-type type="3" />
+       <scorer id="193468" global-id="555654" />
+       <distance distance="44" />
+       <summary-text text="Carey Spear 44 yd FG"/>
+       <drive plays="10" yards="27"/>
+       <current-score>
+        <leader-name name="Commodores" alias="Vandy"/>
+        <leader-city city="Vanderbilt"/>
+        <leader-code id="72" global-id="3477"/>
+        <leader-conference conference="Southeastern" id="8" />
+        <leader-rank rank="0"/>
+        <leader score="13"/>
+        <trailer score="10"/>
+       </current-score>
+      </score-summary>
+     </scoring-summary>
+     <scoring-summary quarter="4">
+      <score-summary minutes="11" seconds="25">
+       <team-name name="Gamecocks" alias="SC"/>
+       <team-city city="South Carolina"/>
+       <team-code id="70" global-id="3475" division="1"/>
+       <team-conference conference="Southeastern" id="8" />
+       <team-rank rank="9"/>
+       <score-type type="1" />
+       <scorer id="192108" global-id="552807" />
+       <PAT>
+        <type type="14" points="1" good="true" />
+        <player id="175889" global-id="475392" />
+        </PAT>
+       <distance distance="1" />
+       <summary-text text="Marcus Lattimore 1 yd run (Adam Yates kick)"/>
+       <drive plays="9" yards="66"/>
+       <current-score>
+        <leader-name name="Gamecocks" alias="SC"/>
+        <leader-city city="South Carolina"/>
+        <leader-code id="70" global-id="3475"/>
+        <leader-conference conference="Southeastern" id="8" />
+        <leader-rank rank="9"/>
+        <leader score="17"/>
+        <trailer score="13"/>
+       </current-score>
+      </score-summary>
+     </scoring-summary>
+    </scoring-summaries>
+    <team-stats>
+     <visiting-team-stats>
+      <first-downs number="17" rushing="12" passing="4" penalty="1"/>
+      <third-down-efficiency made="3" attempts="12" percent="25"/>
+      <fourth-down-efficiency made="1" attempts="1" percent="100"/>
+      <game-totals plays="62" net-yards="272" average="4.4"/>
+      <rushing attempts="47" yards="205" average="4.4"/>
+      <passing completions="7" attempts="15" interceptions="1" net-yards="67" average="4.5" sacked="3" yards-lost="-24"/>
+      <punting punts="6" yards="234" average="39.0"/>
+      <return-totals yards="52"/>
+      <punt-returns attempts="3" yards="15"/>
+      <kick-returns attempts="0" yards="0"/>
+      <interception-returns attempts="1" yards="37"/>
+      <penalties number="6" yards="30"/>
+      <fumbles number="2" lost="1"/>
+      <time-of-possession minutes="31" seconds="36"/>
+     </visiting-team-stats>
+     <home-team-stats>
+      <first-downs number="11" rushing="6" passing="5" penalty="0"/>
+      <third-down-efficiency made="3" attempts="15" percent="20"/>
+      <fourth-down-efficiency made="1" attempts="4" percent="25"/>
+      <game-totals plays="59" net-yards="276" average="4.7"/>
+      <rushing attempts="36" yards="62" average="1.7"/>
+      <passing completions="13" attempts="23" interceptions="1" net-yards="214" average="9.3" sacked="5" yards-lost="-31"/>
+      <punting punts="4" yards="174" average="43.5"/>
+      <return-totals yards="116"/>
+      <punt-returns attempts="1" yards="15"/>
+      <kick-returns attempts="3" yards="84"/>
+      <interception-returns attempts="1" yards="17"/>
+      <penalties number="5" yards="35"/>
+      <fumbles number="3" lost="0"/>
+      <time-of-possession minutes="28" seconds="24"/>
+     </home-team-stats>
+    </team-stats>
+    <player-stats>
+     <visiting-player-stats>
+      <missed-field-goals>
+      </missed-field-goals>
+      <rushing attempts="23" yards="110" long="29" long-TD="true" tds="2" >
+        <name first-name="Marcus" last-name="Lattimore"/>
+        <player-code id="192108" global-id="552807"/>
+      </rushing>
+      <rushing attempts="14" yards="92" long="20" long-TD="false" tds="0" >
+        <name first-name="Connor" last-name="Shaw"/>
+        <player-code id="190284" global-id="542914"/>
+      </rushing>
+      <rushing attempts="1" yards="4" long="4" long-TD="false" tds="0" >
+        <name first-name="Mike" last-name="Davis"/>
+        <player-code id="217313" global-id="694015"/>
+      </rushing>
+      <rushing attempts="1" yards="3" long="3" long-TD="false" tds="0" >
+        <name first-name="Kenny" last-name="Miles"/>
+        <player-code id="169462" global-id="465825"/>
+      </rushing>
+      <rushing attempts="3" yards="0" long="0" long-TD="false" tds="0" >
+        <name first-name="" last-name="Team"/>
+        <player-code id="0" global-id="0"/>
+      </rushing>
+      <rushing attempts="5" yards="-4" long="9" long-TD="false" tds="0" >
+        <name first-name="Dylan" last-name="Thompson"/>
+        <player-code id="192226" global-id="553030"/>
+      </rushing>
+      <passing completions="7" attempts="11" interceptions="1" yards="67" long="20" long-TD="false" tds="0" rating="96.6" >
+        <name first-name="Connor" last-name="Shaw"/>
+        <player-code id="190284" global-id="542914"/>
+      </passing>
+      <passing completions="0" attempts="3" interceptions="0" yards="0" long="0" long-TD="false" tds="0" rating=".0" >
+        <name first-name="Dylan" last-name="Thompson"/>
+        <player-code id="192226" global-id="553030"/>
+      </passing>
+      <passing completions="0" attempts="1" interceptions="0" yards="0" long="0" long-TD="false" tds="0" rating=".0" >
+        <name first-name="Seth" last-name="Strickland"/>
+        <player-code id="177872" global-id="494382"/>
+      </passing>
+      <receiving receptions="3" yards="21" long="9" long-TD="false" tds="0" >
+        <name first-name="Marcus" last-name="Lattimore"/>
+        <player-code id="192108" global-id="552807"/>
+      </receiving>
+      <receiving receptions="2" yards="13" long="7" long-TD="false" tds="0" >
+        <name first-name="Ace" last-name="Sanders"/>
+        <player-code id="192222" global-id="553026"/>
+      </receiving>
+      <receiving receptions="1" yards="20" long="20" long-TD="false" tds="0" >
+        <name first-name="Justice" last-name="Cunningham"/>
+        <player-code id="180560" global-id="504318"/>
+      </receiving>
+      <receiving receptions="1" yards="13" long="13" long-TD="false" tds="0" >
+        <name first-name="Damiere" last-name="Byrd"/>
+        <player-code id="204782" global-id="604908"/>
+      </receiving>
+      <punting punts="6" yards="234" long="46" average="39.0">
+        <name first-name="Tyler" last-name="Hull"/>
+        <player-code id="217322" global-id="694025"/>
+      </punting>
+      <punt-returning returns="3" yards="15" long="16" long-TD="false" tds="0" >
+        <name first-name="Ace" last-name="Sanders"/>
+        <player-code id="192222" global-id="553026"/>
+      </punt-returning>
+      <interceptions number="1" yards="37" long="37" long-TD="false" tds="0" >
+        <name first-name="Shaq" last-name="Wilson"/>
+        <player-code id="164622" global-id="449437"/>
+      </interceptions>
+      <fumbles number="1" lost="1">
+        <name first-name="Marcus" last-name="Lattimore"/>
+        <player-code id="192108" global-id="552807"/>
+      </fumbles>
+      <fumbles number="1" lost="0">
+        <name first-name="" last-name="Team"/>
+        <player-code id="0" global-id="0"/>
+      </fumbles>
+      <fumbles-lost number="1">
+        <name first-name="Marcus" last-name="Lattimore"/>
+        <player-code id="192108" global-id="552807"/>
+      </fumbles-lost>
+      <field-goals made="1" attempted="1" long="20" blocked="0">
+        <name first-name="Adam" last-name="Yates"/>
+        <player-code id="175889" global-id="475392"/>
+        <made distance="20"/>
+      </field-goals>
+      <PAT made="2" attempted="2" blocked="0">
+        <name first-name="Adam" last-name="Yates"/>
+        <player-code id="175889" global-id="475392"/>
+      </PAT>
+     </visiting-player-stats>
+     <home-player-stats>
+      <missed-field-goals>
+       <missed-field-goal yards="51">
+        <name first-name="Carey" last-name="Spear"/>
+        <player-code id="193468" global-id="555654"/>
+       </missed-field-goal>
+      </missed-field-goals>
+      <rushing attempts="13" yards="48" long="17" long-TD="false" tds="0" >
+        <name first-name="Zac" last-name="Stacy"/>
+        <player-code id="180593" global-id="504352"/>
+      </rushing>
+      <rushing attempts="7" yards="17" long="8" long-TD="false" tds="0" >
+        <name first-name="Wesley" last-name="Tate"/>
+        <player-code id="180594" global-id="504353"/>
+      </rushing>
+      <rushing attempts="2" yards="5" long="3" long-TD="false" tds="0" >
+        <name first-name="Brian" last-name="Kimbrow"/>
+        <player-code id="215646" global-id="690817"/>
+      </rushing>
+      <rushing attempts="1" yards="0" long="0" long-TD="false" tds="0" >
+        <name first-name="Josh" last-name="Grady"/>
+        <player-code id="205955" global-id="607414"/>
+      </rushing>
+      <rushing attempts="13" yards="-8" long="15" long-TD="false" tds="0" >
+        <name first-name="Jordan" last-name="Rodgers"/>
+        <player-code id="190466" global-id="543669"/>
+      </rushing>
+      <passing completions="13" attempts="23" interceptions="1" yards="214" long="78" long-TD="true" tds="1" rating="140.3" >
+        <name first-name="Jordan" last-name="Rodgers"/>
+        <player-code id="190466" global-id="543669"/>
+      </passing>
+      <receiving receptions="8" yards="147" long="78" long-TD="true" tds="1" >
+        <name first-name="Jordan" last-name="Matthews"/>
+        <player-code id="193462" global-id="555648"/>
+      </receiving>
+      <receiving receptions="2" yards="9" long="9" long-TD="false" tds="0" >
+        <name first-name="Jonathan" last-name="Krause"/>
+        <player-code id="193460" global-id="555646"/>
+      </receiving>
+      <receiving receptions="1" yards="32" long="32" long-TD="false" tds="0" >
+        <name first-name="Josh" last-name="Grady"/>
+        <player-code id="205955" global-id="607414"/>
+      </receiving>
+      <receiving receptions="1" yards="17" long="17" long-TD="false" tds="0" >
+        <name first-name="Wesley" last-name="Tate"/>
+        <player-code id="180594" global-id="504353"/>
+      </receiving>
+      <receiving receptions="1" yards="9" long="9" long-TD="false" tds="0" >
+        <name first-name="Chris" last-name="Boyd"/>
+        <player-code id="193451" global-id="555636"/>
+      </receiving>
+      <punting punts="4" yards="174" long="54" average="43.5">
+        <name first-name="Richard" last-name="Kent"/>
+        <player-code id="169556" global-id="465928"/>
+      </punting>
+      <kick-returning returns="2" yards="61" long="52" long-TD="false" tds="0" >
+        <name first-name="Andre" last-name="Hal"/>
+        <player-code id="193458" global-id="555644"/>
+      </kick-returning>
+      <kick-returning returns="1" yards="23" long="23" long-TD="false" tds="0" >
+        <name first-name="Steven" last-name="Clarke"/>
+        <player-code id="193454" global-id="555640"/>
+      </kick-returning>
+      <punt-returning returns="1" yards="15" long="15" long-TD="false" tds="0" >
+        <name first-name="Zac" last-name="Stacy"/>
+        <player-code id="180593" global-id="504352"/>
+      </punt-returning>
+      <interceptions number="1" yards="17" long="17" long-TD="false" tds="0" >
+        <name first-name="Kenny" last-name="Ladler"/>
+        <player-code id="190367" global-id="543366"/>
+      </interceptions>
+      <fumbles number="2" lost="0">
+        <name first-name="Jordan" last-name="Rodgers"/>
+        <player-code id="190466" global-id="543669"/>
+      </fumbles>
+      <fumbles number="1" lost="0">
+        <name first-name="Andre" last-name="Hal"/>
+        <player-code id="193458" global-id="555644"/>
+      </fumbles>
+      <field-goals made="2" attempted="3" long="44" blocked="0">
+        <name first-name="Carey" last-name="Spear"/>
+        <player-code id="193468" global-id="555654"/>
+        <made distance="25"/>
+        <made distance="44"/>
+        <missed distance="51" blocked="false"/>
+      </field-goals>
+      <PAT made="1" attempted="1" blocked="0">
+        <name first-name="Carey" last-name="Spear"/>
+        <player-code id="193468" global-id="555654"/>
+      </PAT>
+     </home-player-stats>
+    </player-stats>
+    <attendance attendance="38,393"/>
+   </cfb-boxscore>
+  </cfb-boxscores>
+ </sports-boxscores>
+</sports-statistics>

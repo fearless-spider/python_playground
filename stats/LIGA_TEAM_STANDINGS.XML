@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+    <sports-standings>
+    <date year="2013" month="1" date="16" day="3"/>
+    <time hour="19" minute="07" second="50" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+    <version number="4"/>
+    <league global-id="54" name="Liga Espana" alias="Liga" display-name=""/>
+    <season year="2012" id="1" description="La Liga"/>
+     <soccer-ifb-standings>
+     <game-type id="1" description="Regular Season" year="2013" month="01" date="14" day="1">
+     <ifb-division-standings>
+      <ifb-team-standings>
+<team-info global-id="6162" id="157" location="Barcelona" name="" alias="BAR" display-name="Barcelona"/>
+       <games-played games="19"/>
+       <wins number="18"/>
+       <losses number="0"/>
+       <ties number="1"/>
+       <winning-percentage percentage=".974"/>
+       <points points="55" points-per-game="2.89" penalty-points="0"/>
+       <goals-for goals="64"/>
+       <goals-against goals="20"/>
+       <place place="1" previous="1"/>
+       <streak kind="overall winning" games="12"/>
+       <streak kind="overall lossless" games="19"/>
+       <streak kind="away winning" games="10"/>
+       <streak kind="away lossless" games="10"/>
+       <streak kind="home winning" games="5"/>
+       <streak kind="home lossless" games="9"/>
+       <win-loss-record type="away" name="Away Games" wins="10" losses="0" ties="0" goals="35" goals-against="13"/>
+       <win-loss-record type="home" name="Home Games" wins="8" losses="0" ties="1" goals="29" goals-against="7"/>
+       <last-results r1="Win" r2="Win" r3="Win" r4="Win" r5="Win"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6172" id="326" location="Atlético Madrid" name="" alias="ATL" display-name="Atlético Madrid"/>
+       <games-played games="19"/>
+       <wins number="14"/>
+       <losses number="3"/>
+       <ties number="2"/>
+       <winning-percentage percentage=".789"/>
+       <points points="44" points-per-game="2.32" penalty-points="0"/>
+       <goals-for goals="40"/>
+       <goals-against goals="18"/>
+       <place place="2" previous="2"/>
+       <streak kind="overall winning" games="1"/>
+       <streak kind="overall lossless" games="3"/>
+       <streak kind="away tied" games="1"/>
+       <streak kind="away winless" games="3"/>
+       <streak kind="away lossless" games="1"/>
+       <streak kind="home winning" games="10"/>
+       <streak kind="home lossless" games="10"/>
+       <win-loss-record type="away" name="Away Games" wins="4" losses="3" ties="2" goals="10" goals-against="12"/>
+       <win-loss-record type="home" name="Home Games" wins="10" losses="0" ties="0" goals="30" goals-against="6"/>
+       <last-results r1="Win" r2="Draw" r3="Win" r4="Loss" r5="Win"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6171" id="169" location="Real Madrid" name="" alias="RMD" display-name="Real Madrid"/>
+       <games-played games="19"/>
+       <wins number="11"/>
+       <losses number="4"/>
+       <ties number="4"/>
+       <winning-percentage percentage=".684"/>
+       <points points="37" points-per-game="1.95" penalty-points="0"/>
+       <goals-for goals="45"/>
+       <goals-against goals="20"/>
+       <place place="3" previous="3"/>
+       <streak kind="overall tied" games="1"/>
+       <streak kind="overall winless" games="1"/>
+       <streak kind="overall lossless" games="2"/>
+       <streak kind="away tied" games="1"/>
+       <streak kind="away winless" games="2"/>
+       <streak kind="away lossless" games="1"/>
+       <streak kind="home winning" games="1"/>
+       <streak kind="home lossless" games="9"/>
+       <win-loss-record type="away" name="Away Games" wins="4" losses="4" ties="2" goals="17" goals-against="12"/>
+       <win-loss-record type="home" name="Home Games" wins="7" losses="0" ties="2" goals="28" goals-against="8"/>
+       <last-results r1="Draw" r2="Win" r3="Loss" r4="Draw" r5="Win"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6168" id="270" location="Betis" name="" alias="BET" display-name="Betis"/>
+       <games-played games="19"/>
+       <wins number="11"/>
+       <losses number="7"/>
+       <ties number="1"/>
+       <winning-percentage percentage=".605"/>
+       <points points="34" points-per-game="1.79" penalty-points="0"/>
+       <goals-for goals="30"/>
+       <goals-against goals="29"/>
+       <place place="4" previous="4"/>
+       <streak kind="overall winning" games="2"/>
+       <streak kind="overall lossless" games="2"/>
+       <streak kind="away winning" games="3"/>
+       <streak kind="away lossless" games="3"/>
+       <streak kind="home winning" games="1"/>
+       <streak kind="home lossless" games="1"/>
+       <win-loss-record type="away" name="Away Games" wins="6" losses="2" ties="1" goals="17" goals-against="17"/>
+       <win-loss-record type="home" name="Home Games" wins="5" losses="5" ties="0" goals="13" goals-against="12"/>
+       <last-results r1="Win" r2="Win" r3="Loss" r4="Win" r5="Loss"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="7185" id="162" location="Málaga" name="" alias="MAG" display-name="Málaga"/>
+       <games-played games="19"/>
+       <wins number="9"/>
+       <losses number="6"/>
+       <ties number="4"/>
+       <winning-percentage percentage=".579"/>
+       <points points="31" points-per-game="1.63" penalty-points="0"/>
+       <goals-for goals="29"/>
+       <goals-against goals="16"/>
+       <place place="5" previous="5"/>
+       <streak kind="overall losing" games="2"/>
+       <streak kind="overall winless" games="2"/>
+       <streak kind="away losing" games="1"/>
+       <streak kind="away winless" games="1"/>
+       <streak kind="home losing" games="1"/>
+       <streak kind="home winless" games="1"/>
+       <win-loss-record type="away" name="Away Games" wins="3" losses="3" ties="3" goals="5" goals-against="4"/>
+       <win-loss-record type="home" name="Home Games" wins="6" losses="3" ties="1" goals="24" goals-against="12"/>
+       <last-results r1="Loss" r2="Loss" r3="Win" r4="Win" r5="Win"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="7188" id="168" location="Rayo Vallecano" name="" alias="RAY" display-name="Rayo Vallecano"/>
+       <games-played games="19"/>
+       <wins number="10"/>
+       <losses number="8"/>
+       <ties number="1"/>
+       <winning-percentage percentage=".553"/>
+       <points points="31" points-per-game="1.63" penalty-points="0"/>
+       <goals-for goals="27"/>
+       <goals-against goals="34"/>
+       <place place="6" previous="6"/>
+       <streak kind="overall winning" games="4"/>
+       <streak kind="overall lossless" games="4"/>
+       <streak kind="away winning" games="2"/>
+       <streak kind="away lossless" games="2"/>
+       <streak kind="home winning" games="2"/>
+       <streak kind="home lossless" games="2"/>
+       <win-loss-record type="away" name="Away Games" wins="4" losses="5" ties="0" goals="13" goals-against="21"/>
+       <win-loss-record type="home" name="Home Games" wins="6" losses="3" ties="1" goals="14" goals-against="13"/>
+       <last-results r1="Win" r2="Win" r3="Win" r4="Win" r5="Loss"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6169" id="171" location="Valencia" name="" alias="VAL" display-name="Valencia"/>
+       <games-played games="19"/>
+       <wins number="9"/>
+       <losses number="7"/>
+       <ties number="3"/>
+       <winning-percentage percentage=".553"/>
+       <points points="30" points-per-game="1.58" penalty-points="0"/>
+       <goals-for goals="27"/>
+       <goals-against goals="27"/>
+       <place place="7" previous="7"/>
+       <streak kind="overall winning" games="3"/>
+       <streak kind="overall lossless" games="3"/>
+       <streak kind="away winning" games="2"/>
+       <streak kind="away lossless" games="2"/>
+       <streak kind="home winning" games="2"/>
+       <streak kind="home lossless" games="2"/>
+       <win-loss-record type="away" name="Away Games" wins="2" losses="5" ties="2" goals="5" goals-against="12"/>
+       <win-loss-record type="home" name="Home Games" wins="7" losses="2" ties="1" goals="22" goals-against="15"/>
+       <last-results r1="Win" r2="Win" r3="Win" r4="Loss" r5="Win"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6166" id="757" location="Levante" name="" alias="LEV" display-name="Levante"/>
+       <games-played games="19"/>
+       <wins number="9"/>
+       <losses number="7"/>
+       <ties number="3"/>
+       <winning-percentage percentage=".553"/>
+       <points points="30" points-per-game="1.58" penalty-points="0"/>
+       <goals-for goals="24"/>
+       <goals-against goals="27"/>
+       <place place="8" previous="8"/>
+       <streak kind="overall losing" games="1"/>
+       <streak kind="overall winless" games="1"/>
+       <streak kind="away losing" games="2"/>
+       <streak kind="away winless" games="2"/>
+       <streak kind="home winning" games="2"/>
+       <streak kind="home lossless" games="2"/>
+       <win-loss-record type="away" name="Away Games" wins="3" losses="5" ties="2" goals="6" goals-against="15"/>
+       <win-loss-record type="home" name="Home Games" wins="6" losses="2" ties="1" goals="18" goals-against="12"/>
+       <last-results r1="Loss" r2="Win" r3="Loss" r4="Win" r5="Win"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6160" id="170" location="Real Sociedad" name="" alias="RSO" display-name="Real Sociedad"/>
+       <games-played games="19"/>
+       <wins number="7"/>
+       <losses number="7"/>
+       <ties number="5"/>
+       <winning-percentage percentage=".500"/>
+       <points points="26" points-per-game="1.37" penalty-points="0"/>
+       <goals-for goals="28"/>
+       <goals-against goals="25"/>
+       <place place="9" previous="9"/>
+       <streak kind="overall tied" games="1"/>
+       <streak kind="overall winless" games="2"/>
+       <streak kind="overall lossless" games="1"/>
+       <streak kind="away losing" games="1"/>
+       <streak kind="away winless" games="2"/>
+       <streak kind="home tied" games="1"/>
+       <streak kind="home winless" games="1"/>
+       <streak kind="home lossless" games="5"/>
+       <win-loss-record type="away" name="Away Games" wins="2" losses="5" ties="2" goals="14" goals-against="19"/>
+       <win-loss-record type="home" name="Home Games" wins="5" losses="2" ties="3" goals="14" goals-against="6"/>
+       <last-results r1="Draw" r2="Loss" r3="Win" r4="Draw" r5="Draw"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="7189" id="172" location="Valladolid" name="" alias="VID" display-name="Valladolid"/>
+       <games-played games="19"/>
+       <wins number="7"/>
+       <losses number="8"/>
+       <ties number="4"/>
+       <winning-percentage percentage=".474"/>
+       <points points="25" points-per-game="1.32" penalty-points="0"/>
+       <goals-for goals="27"/>
+       <goals-against goals="25"/>
+       <place place="10" previous="10"/>
+       <streak kind="overall winning" games="1"/>
+       <streak kind="overall lossless" games="1"/>
+       <streak kind="away losing" games="1"/>
+       <streak kind="away winless" games="2"/>
+       <streak kind="home winning" games="1"/>
+       <streak kind="home lossless" games="1"/>
+       <win-loss-record type="away" name="Away Games" wins="3" losses="5" ties="1" goals="8" goals-against="12"/>
+       <win-loss-record type="home" name="Home Games" wins="4" losses="3" ties="3" goals="19" goals-against="13"/>
+       <last-results r1="Win" r2="Loss" r3="Loss" r4="Draw" r5="Loss"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6174" id="756" location="Getafe" name="" alias="GET" display-name="Getafe"/>
+       <games-played games="19"/>
+       <wins number="7"/>
+       <losses number="8"/>
+       <ties number="4"/>
+       <winning-percentage percentage=".474"/>
+       <points points="25" points-per-game="1.32" penalty-points="0"/>
+       <goals-for goals="24"/>
+       <goals-against goals="30"/>
+       <place place="11" previous="11"/>
+       <streak kind="overall tied" games="1"/>
+       <streak kind="overall winless" games="5"/>
+       <streak kind="overall lossless" games="1"/>
+       <streak kind="away losing" games="2"/>
+       <streak kind="away winless" games="3"/>
+       <streak kind="home tied" games="2"/>
+       <streak kind="home winless" games="2"/>
+       <streak kind="home lossless" games="4"/>
+       <win-loss-record type="away" name="Away Games" wins="3" losses="5" ties="2" goals="12" goals-against="16"/>
+       <win-loss-record type="home" name="Home Games" wins="4" losses="3" ties="2" goals="12" goals-against="14"/>
+       <last-results r1="Draw" r2="Loss" r3="Loss" r4="Draw" r5="Draw"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6167" id="271" location="Sevilla" name="" alias="SEV" display-name="Sevilla"/>
+       <games-played games="19"/>
+       <wins number="6"/>
+       <losses number="9"/>
+       <ties number="4"/>
+       <winning-percentage percentage=".421"/>
+       <points points="22" points-per-game="1.16" penalty-points="0"/>
+       <goals-for goals="23"/>
+       <goals-against goals="28"/>
+       <place place="12" previous="12"/>
+       <streak kind="overall losing" games="1"/>
+       <streak kind="overall winless" games="1"/>
+       <streak kind="away losing" games="2"/>
+       <streak kind="away winless" games="7"/>
+       <streak kind="home winning" games="1"/>
+       <streak kind="home lossless" games="1"/>
+       <win-loss-record type="away" name="Away Games" wins="1" losses="6" ties="3" goals="8" goals-against="17"/>
+       <win-loss-record type="home" name="Home Games" wins="5" losses="3" ties="1" goals="15" goals-against="11"/>
+       <last-results r1="Loss" r2="Win" r3="Loss" r4="Loss" r5="Draw"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6164" id="174" location="Zaragoza" name="" alias="ZAR" display-name="Zaragoza"/>
+       <games-played games="19"/>
+       <wins number="7"/>
+       <losses number="11"/>
+       <ties number="1"/>
+       <winning-percentage percentage=".395"/>
+       <points points="22" points-per-game="1.16" penalty-points="0"/>
+       <goals-for goals="21"/>
+       <goals-against goals="28"/>
+       <place place="13" previous="13"/>
+       <streak kind="overall losing" games="2"/>
+       <streak kind="overall winless" games="2"/>
+       <streak kind="away losing" games="1"/>
+       <streak kind="away winless" games="1"/>
+       <streak kind="home losing" games="3"/>
+       <streak kind="home winless" games="3"/>
+       <win-loss-record type="away" name="Away Games" wins="4" losses="5" ties="1" goals="10" goals-against="16"/>
+       <win-loss-record type="home" name="Home Games" wins="3" losses="6" ties="0" goals="11" goals-against="12"/>
+       <last-results r1="Loss" r2="Loss" r3="Win" r4="Loss" r5="Win"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6161" id="156" location="Athletic" name="" alias="ATH" display-name="Athletic"/>
+       <games-played games="19"/>
+       <wins number="6"/>
+       <losses number="10"/>
+       <ties number="3"/>
+       <winning-percentage percentage=".395"/>
+       <points points="21" points-per-game="1.11" penalty-points="0"/>
+       <goals-for goals="23"/>
+       <goals-against goals="39"/>
+       <place place="14" previous="14"/>
+       <streak kind="overall losing" games="3"/>
+       <streak kind="overall winless" games="3"/>
+       <streak kind="away losing" games="1"/>
+       <streak kind="away winless" games="1"/>
+       <streak kind="home losing" games="2"/>
+       <streak kind="home winless" games="2"/>
+       <win-loss-record type="away" name="Away Games" wins="2" losses="6" ties="1" goals="11" goals-against="26"/>
+       <win-loss-record type="home" name="Home Games" wins="4" losses="4" ties="2" goals="12" goals-against="13"/>
+       <last-results r1="Loss" r2="Loss" r3="Loss" r4="Win" r5="Win"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6163" id="158" location="Celta Vigo" name="" alias="CEL" display-name="Celta Vigo"/>
+       <games-played games="19"/>
+       <wins number="5"/>
+       <losses number="11"/>
+       <ties number="3"/>
+       <winning-percentage percentage=".342"/>
+       <points points="18" points-per-game="0.95" penalty-points="0"/>
+       <goals-for goals="19"/>
+       <goals-against goals="24"/>
+       <place place="15" previous="15"/>
+       <streak kind="overall losing" games="1"/>
+       <streak kind="overall winless" games="1"/>
+       <streak kind="away losing" games="3"/>
+       <streak kind="away winless" games="3"/>
+       <streak kind="home winning" games="1"/>
+       <streak kind="home lossless" games="1"/>
+       <win-loss-record type="away" name="Away Games" wins="1" losses="9" ties="0" goals="7" goals-against="17"/>
+       <win-loss-record type="home" name="Home Games" wins="4" losses="2" ties="3" goals="12" goals-against="7"/>
+       <last-results r1="Loss" r2="Win" r3="Loss" r4="Loss" r5="Loss"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6178" id="159" location="Espanyol" name="" alias="ESP" display-name="Espanyol"/>
+       <games-played games="19"/>
+       <wins number="4"/>
+       <losses number="9"/>
+       <ties number="6"/>
+       <winning-percentage percentage=".368"/>
+       <points points="18" points-per-game="0.95" penalty-points="0"/>
+       <goals-for goals="20"/>
+       <goals-against goals="30"/>
+       <place place="16" previous="16"/>
+       <streak kind="overall winning" games="1"/>
+       <streak kind="overall lossless" games="1"/>
+       <streak kind="away losing" games="1"/>
+       <streak kind="away winless" games="4"/>
+       <streak kind="home winning" games="2"/>
+       <streak kind="home lossless" games="3"/>
+       <win-loss-record type="away" name="Away Games" wins="1" losses="5" ties="3" goals="8" goals-against="15"/>
+       <win-loss-record type="home" name="Home Games" wins="3" losses="4" ties="3" goals="12" goals-against="15"/>
+       <last-results r1="Win" r2="Loss" r3="Win" r4="Draw" r5="Draw"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="23420" id="2474" location="Granada" name="" alias="GRA" display-name="Granada"/>
+       <games-played games="19"/>
+       <wins number="4"/>
+       <losses number="10"/>
+       <ties number="5"/>
+       <winning-percentage percentage=".342"/>
+       <points points="17" points-per-game="0.89" penalty-points="0"/>
+       <goals-for goals="16"/>
+       <goals-against goals="29"/>
+       <place place="17" previous="18"/>
+       <streak kind="overall tied" games="1"/>
+       <streak kind="overall winless" games="2"/>
+       <streak kind="overall lossless" games="1"/>
+       <streak kind="away tied" games="1"/>
+       <streak kind="away winless" games="1"/>
+       <streak kind="away lossless" games="2"/>
+       <streak kind="home losing" games="1"/>
+       <streak kind="home winless" games="6"/>
+       <win-loss-record type="away" name="Away Games" wins="3" losses="6" ties="1" goals="9" goals-against="19"/>
+       <win-loss-record type="home" name="Home Games" wins="1" losses="4" ties="4" goals="7" goals-against="10"/>
+       <last-results r1="Draw" r2="Loss" r3="Win" r4="Draw" r5="Loss"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6176" id="163" location="Mallorca" name="" alias="MLL" display-name="Mallorca"/>
+       <games-played games="19"/>
+       <wins number="4"/>
+       <losses number="10"/>
+       <ties number="5"/>
+       <winning-percentage percentage=".342"/>
+       <points points="17" points-per-game="0.89" penalty-points="0"/>
+       <goals-for goals="18"/>
+       <goals-against goals="33"/>
+       <place place="18" previous="17"/>
+       <streak kind="overall losing" games="1"/>
+       <streak kind="overall winless" games="2"/>
+       <streak kind="away losing" games="1"/>
+       <streak kind="away winless" games="1"/>
+       <streak kind="home tied" games="1"/>
+       <streak kind="home winless" games="6"/>
+       <streak kind="home lossless" games="1"/>
+       <win-loss-record type="away" name="Away Games" wins="1" losses="6" ties="3" goals="8" goals-against="18"/>
+       <win-loss-record type="home" name="Home Games" wins="3" losses="4" ties="2" goals="10" goals-against="15"/>
+       <last-results r1="Loss" r2="Draw" r3="Win" r4="Loss" r5="Loss"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6165" id="160" location="Deportivo" name="" alias="DEP" display-name="Deportivo"/>
+       <games-played games="19"/>
+       <wins number="3"/>
+       <losses number="9"/>
+       <ties number="7"/>
+       <winning-percentage percentage=".342"/>
+       <points points="16" points-per-game="0.84" penalty-points="0"/>
+       <goals-for goals="23"/>
+       <goals-against goals="40"/>
+       <place place="19" previous="19"/>
+       <streak kind="overall tied" games="1"/>
+       <streak kind="overall winless" games="1"/>
+       <streak kind="overall lossless" games="2"/>
+       <streak kind="away tied" games="1"/>
+       <streak kind="away winless" games="10"/>
+       <streak kind="away lossless" games="1"/>
+       <streak kind="home winning" games="1"/>
+       <streak kind="home lossless" games="2"/>
+       <win-loss-record type="away" name="Away Games" wins="0" losses="5" ties="5" goals="12" goals-against="27"/>
+       <win-loss-record type="home" name="Home Games" wins="3" losses="4" ties="2" goals="11" goals-against="13"/>
+       <last-results r1="Draw" r2="Win" r3="Loss" r4="Draw" r5="Loss"/>
+      </ifb-team-standings>
+      <ifb-team-standings>
+<team-info global-id="6175" id="165" location="Osasuna" name="" alias="OSA" display-name="Osasuna"/>
+       <games-played games="19"/>
+       <wins number="3"/>
+       <losses number="10"/>
+       <ties number="6"/>
+       <winning-percentage percentage=".316"/>
+       <points points="15" points-per-game="0.79" penalty-points="0"/>
+       <goals-for goals="14"/>
+       <goals-against goals="20"/>
+       <place place="20" previous="20"/>
+       <streak kind="overall tied" games="1"/>
+       <streak kind="overall winless" games="5"/>
+       <streak kind="overall lossless" games="1"/>
+       <streak kind="away losing" games="1"/>
+       <streak kind="away winless" games="3"/>
+       <streak kind="home tied" games="1"/>
+       <streak kind="home winless" games="3"/>
+       <streak kind="home lossless" games="1"/>
+       <win-loss-record type="away" name="Away Games" wins="1" losses="6" ties="2" goals="6" goals-against="13"/>
+       <win-loss-record type="home" name="Home Games" wins="2" losses="4" ties="4" goals="8" goals-against="7"/>
+       <last-results r1="Draw" r2="Loss" r3="Loss" r4="Draw" r5="Loss"/>
+      </ifb-team-standings>
+     </ifb-division-standings>
+     </game-type>
+    </soccer-ifb-standings>
+   </sports-standings>
+</sports-statistics>

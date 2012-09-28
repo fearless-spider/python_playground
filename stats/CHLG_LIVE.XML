@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-scores>
+    <date year="2012" month="9" date="2" day="7"/>
+    <time hour="3" minute="02" second="18" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="4"/>
+    <league global-id="58" name="UEFA Champions" alias="CHLG" display-name=""/>
+    <season year="2012" id="1" description="2012 UEFA Champions"/>
+    <soccer-ifb-scores>
+    </soccer-ifb-scores>
+  </sports-scores>
+</sports-statistics>

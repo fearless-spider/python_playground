@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-boxscores>
+    <date year="2012" month="9" date="6" day="4"/>
+    <time hour="0" minute="05" second="13" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="2"/>
+    <season season="2012"/>
+    <nfl-boxscores>
+      <nfl-boxscore>
+        <date year="2012" month="9" date="5" day="3"/>
+        <time hour="20" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+        <local-game-date year="2012" month="9" date="5" day="3"/>
+        <local-time hour="20" minute="30"/>
+        <finalbox finalbox="true"/>
+        <week week="1"/>
+        <gamecode code="20120905019" global-id="1204512"/>
+        <gametype type="Regular Season"/>
+        <stadium name="MetLife Stadium" city="East Rutherford" state="New Jersey" country="United States" id="127" global-id="9242"/>
+        <gamestate status-id="4" status="Final" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false" under-review=""/>
+        <visiting-team>
+          <team-name name="Cowboys" alias="Dal"/>
+          <team-city city="Dallas"/>
+          <team-code  id="6" global-id="331"/>
+          <record wins="1" losses="0" ties="0" pct="1.000"/>
+          <linescore score="24">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="10"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Giants" alias="NYG"/>
+          <team-city city="New York"/>
+          <team-code  id="19" global-id="351"/>
+          <record wins="0" losses="1" ties="0" pct="0.000"/>
+          <linescore score="17">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="3"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+        <scoring-summaries>
+          <scoring-summary quarter="2">
+            <score-summary minutes="9" seconds="10">
+              <team-name name="Giants" alias="NYG"/>
+              <team-city city="New York"/>
+              <team-code  id="19" global-id="351"/>
+              <score-type type="3"/>
+              <scorer id="7022" global-id="249884"/>
+              <distance distance="22"/>
+              <summary-text text="Lawrence Tynes 22 yd FG"/>
+              <drive id="7" plays="4" yards="-3" minutes="1" seconds="20"/>
+              <current-score>
+                <leader-name name="Giants" alias="NYG"/>
+                <leader-city city="New York"/>
+                <leader-code  id="19" global-id="351"/>
+                <leader score="3"/>
+                <trailer score="0"/>
+              </current-score>
+            </score-summary>
+            <score-summary minutes="1" seconds="1">
+              <team-name name="Cowboys" alias="Dal"/>
+              <team-city city="Dallas"/>
+              <team-code  id="6" global-id="331"/>
+              <score-type type="2"/>
+              <scorer id="9534" global-id="306291"/>
+              <passer id="6624" global-id="234210"/>
+              <PAT>
+                <type type="14" points="1" good="true"/>
+                <player id="25427" global-id="333899"/>
+              </PAT>
+              <distance distance="10"/>
+              <summary-text text="Kevin Ogletree 10 yd pass from Tony Romo (Dan Bailey kick)"/>
+              <drive id="10" plays="7" yards="73" minutes="2" seconds="33"/>
+              <current-score>
+                <leader-name name="Cowboys" alias="Dal"/>
+                <leader-city city="Dallas"/>
+                <leader-code  id="6" global-id="331"/>
+                <leader score="7"/>
+                <trailer score="3"/>
+              </current-score>
+            </score-summary>
+          </scoring-summary>
+          <scoring-summary quarter="3">
+            <score-summary minutes="10" seconds="24">
+              <team-name name="Cowboys" alias="Dal"/>
+              <team-city city="Dallas"/>
+              <team-code  id="6" global-id="331"/>
+              <score-type type="2"/>
+              <scorer id="9534" global-id="306291"/>
+              <passer id="6624" global-id="234210"/>
+              <PAT>
+                <type type="14" points="1" good="true"/>
+                <player id="25427" global-id="333899"/>
+              </PAT>
+              <distance distance="40"/>
+              <summary-text text="Kevin Ogletree 40 yd pass from Tony Romo (Dan Bailey kick)"/>
+              <drive id="12" plays="9" yards="80" minutes="4" seconds="36"/>
+              <current-score>
+                <leader-name name="Cowboys" alias="Dal"/>
+                <leader-city city="Dallas"/>
+                <leader-code  id="6" global-id="331"/>
+                <leader score="14"/>
+                <trailer score="3"/>
+              </current-score>
+            </score-summary>
+            <score-summary minutes="5" seconds="11">
+              <team-name name="Giants" alias="NYG"/>
+              <team-city city="New York"/>
+              <team-code  id="19" global-id="351"/>
+              <score-type type="1"/>
+              <scorer id="8504" global-id="267892"/>
+              <PAT>
+                <type type="14" points="1" good="true"/>
+                <player id="7022" global-id="249884"/>
+              </PAT>
+              <distance distance="10"/>
+              <summary-text text="Ahmad Bradshaw 10 yd run (Lawrence Tynes kick)"/>
+              <drive id="13" plays="9" yards="89" minutes="5" seconds="13"/>
+              <current-score>
+                <leader-name name="Cowboys" alias="Dal"/>
+                <leader-city city="Dallas"/>
+                <leader-code  id="6" global-id="331"/>
+                <leader score="14"/>
+                <trailer score="10"/>
+              </current-score>
+            </score-summary>
+            <score-summary minutes="0" seconds="40">
+              <team-name name="Cowboys" alias="Dal"/>
+              <team-city city="Dallas"/>
+              <team-code  id="6" global-id="331"/>
+              <score-type type="3"/>
+              <scorer id="25427" global-id="333899"/>
+              <distance distance="33"/>
+              <summary-text text="Dan Bailey 33 yd FG"/>
+              <drive id="14" plays="8" yards="65" minutes="4" seconds="31"/>
+              <current-score>
+                <leader-name name="Cowboys" alias="Dal"/>
+                <leader-city city="Dallas"/>
+                <leader-code  id="6" global-id="331"/>
+                <leader score="17"/>
+                <trailer score="10"/>
+              </current-score>
+            </score-summary>
+          </scoring-summary>
+          <scoring-summary quarter="4">
+            <score-summary minutes="5" seconds="57">
+              <team-name name="Cowboys" alias="Dal"/>
+              <team-city city="Dallas"/>
+              <team-code  id="6" global-id="331"/>
+              <score-type type="2"/>
+              <scorer id="8021" global-id="222199"/>
+              <passer id="6624" global-id="234210"/>
+              <PAT>
+                <type type="14" points="1" good="true"/>
+                <player id="25427" global-id="333899"/>
+              </PAT>
+              <distance distance="34"/>
+              <summary-text text="Miles Austin 34 yd pass from Tony Romo (Dan Bailey kick)"/>
+              <drive id="16" plays="8" yards="82" minutes="7" seconds="6"/>
+              <current-score>
+                <leader-name name="Cowboys" alias="Dal"/>
+                <leader-city city="Dallas"/>
+                <leader-code  id="6" global-id="331"/>
+                <leader score="24"/>
+                <trailer score="10"/>
+              </current-score>
+            </score-summary>
+            <score-summary minutes="2" seconds="36">
+              <team-name name="Giants" alias="NYG"/>
+              <team-city city="New York"/>
+              <team-code  id="19" global-id="351"/>
+              <score-type type="2"/>
+              <scorer id="8838" global-id="302238"/>
+              <passer id="6760" global-id="246051"/>
+              <PAT>
+                <type type="14" points="1" good="true"/>
+                <player id="7022" global-id="249884"/>
+              </PAT>
+              <distance distance="9"/>
+              <summary-text text="Martellus Bennett 9 yd pass from Eli Manning (Lawrence Tynes kick)"/>
+              <drive id="17" plays="12" yards="79" minutes="3" seconds="21"/>
+              <current-score>
+                <leader-name name="Cowboys" alias="Dal"/>
+                <leader-city city="Dallas"/>
+                <leader-code  id="6" global-id="331"/>
+                <leader score="24"/>
+                <trailer score="17"/>
+              </current-score>
+            </score-summary>
+          </scoring-summary>
+        </scoring-summaries>
+        <team-stats>
+          <visiting-team-stats>
+            <first-downs number="18" rushing="5" passing="12" penalty="1"/>
+            <third-down-efficiency made="4" attempts="10" percent="40"/>
+            <fourth-down-efficiency made="0" attempts="1" percent="0"/>
+            <red-zone-efficiency made="2" attempts="3" percent="67"/>
+            <goal-to-go-efficiency made="0" attempts="1" percent="0"/>
+            <game-totals plays="57" net-yards="433" average="7.6" touchdowns="3"/>
+            <rushing attempts="26" yards="143" average="5.5" tds="0"/>
+            <passing completions="22" attempts="29" interceptions="1" net-yards="290" average="9.4" sacked="2" yards-lost="17" tds="3"/>
+            <punting punts="2" yards="108" average="54.0"/>
+            <return-totals yards="64" tds="0"/>
+            <punt-returns attempts="3" yards="3" tds="0" long="3" long-TD="false"/>
+            <kick-returns attempts="3" yards="61" tds="0" long="25" long-TD="false"/>
+            <interception-returns attempts="0" yards="0" tds="0" long="0" long-TD="false"/>
+            <defense tackles="40" assists="12" sacks="3" sack-yards="26" passes-defensed="2" forced-fumbles="1" stuffs="2" stuff-yards="3"/>
+            <penalties number="13" yards="86"/>
+            <fumbles number="0" lost="0" own-recovered="0" own-rec-yards="0" own-rec-tds="0"/>
+            <opponent-fumbles recovered="1" yards="6" tds="0"/>
+            <time-of-possession minutes="34" seconds="7"/>
+            <extra-points made="3" attempts="3" blocked="0" percent="100"/>
+            <field-goals made="1" attempts="1" blocked="0" percent="100"/>
+            <kickoffs number="5" end-zone="3" touchbacks="0"/>
+            <safeties safeties="0"/>
+            <two-point-conversions made="0" attempts="0" percent="-"/>
+          </visiting-team-stats>
+          <home-team-stats>
+            <first-downs number="15" rushing="3" passing="11" penalty="1"/>
+            <third-down-efficiency made="4" attempts="12" percent="33"/>
+            <fourth-down-efficiency made="2" attempts="2" percent="100"/>
+            <red-zone-efficiency made="2" attempts="3" percent="67"/>
+            <goal-to-go-efficiency made="2" attempts="3" percent="67"/>
+            <game-totals plays="54" net-yards="269" average="5.0" touchdowns="2"/>
+            <rushing attempts="19" yards="82" average="4.3" tds="1"/>
+            <passing completions="21" attempts="32" interceptions="0" net-yards="187" average="5.3" sacked="3" yards-lost="26" tds="1"/>
+            <punting punts="4" yards="201" average="50.3"/>
+            <return-totals yards="156" tds="0"/>
+            <punt-returns attempts="1" yards="5" tds="0" long="5" long-TD="false"/>
+            <kick-returns attempts="5" yards="100" tds="0" long="32" long-TD="false"/>
+            <interception-returns attempts="1" yards="51" tds="0" long="51" long-TD="false"/>
+            <defense tackles="43" assists="16" sacks="2" sack-yards="17" passes-defensed="3" forced-fumbles="0" stuffs="2" stuff-yards="4"/>
+            <penalties number="4" yards="33"/>
+            <fumbles number="1" lost="1" own-recovered="0" own-rec-yards="0" own-rec-tds="0"/>
+            <opponent-fumbles recovered="0" yards="0" tds="0"/>
+            <time-of-possession minutes="25" seconds="53"/>
+            <extra-points made="2" attempts="2" blocked="0" percent="100"/>
+            <field-goals made="1" attempts="1" blocked="0" percent="100"/>
+            <kickoffs number="4" end-zone="3" touchbacks="1"/>
+            <safeties safeties="0"/>
+            <two-point-conversions made="0" attempts="0" percent="-"/>
+          </home-team-stats>
+        </team-stats>
+        <player-stats>
+          <visiting-player-stats>
+            <missed-field-goals>
+            </missed-field-goals>
+            <rushing attempts="20" yards="131" long="48" long-TD="false" tds="0" first-downs="" fumbles="" fumbles-lost="">
+              <name first-name="DeMarco" last-name="Murray"/>
+              <player-code  id="24858" global-id="333272"/>
+            </rushing>
+            <rushing attempts="5" yards="12" long="9" long-TD="false" tds="0" first-downs="" fumbles="" fumbles-lost="">
+              <name first-name="Tony" last-name="Romo"/>
+              <player-code  id="6624" global-id="234210"/>
+            </rushing>
+            <rushing attempts="1" yards="0" long="0" long-TD="false" tds="0" first-downs="" fumbles="" fumbles-lost="">
+              <name first-name="Lawrence" last-name="Vickers"/>
+              <player-code  id="7929" global-id="214551"/>
+            </rushing>
+            <passing completions="22" attempts="29" interceptions="1" yards="307" sacked="2" yards-lost="17" long="40" long-TD="true" tds="3" rating="129.5" first-downs="" fumbles="" fumbles-lost="">
+              <name first-name="Tony" last-name="Romo"/>
+              <player-code  id="6624" global-id="234210"/>
+            </passing>
+            <receiving receptions="8" yards="114" long="40" long-TD="true" tds="2" targets="11" first-downs="5" fumbles="0" fumbles-lost="0">
+              <name first-name="Kevin" last-name="Ogletree"/>
+              <player-code  id="9534" global-id="306291"/>
+            </receiving>
+            <receiving receptions="4" yards="85" long="38" long-TD="false" tds="0" targets="5" first-downs="3" fumbles="0" fumbles-lost="0">
+              <name first-name="Dez" last-name="Bryant"/>
+              <player-code  id="23999" global-id="397499"/>
+            </receiving>
+            <receiving receptions="4" yards="73" long="34" long-TD="true" tds="1" targets="4" first-downs="2" fumbles="0" fumbles-lost="0">
+              <name first-name="Miles" last-name="Austin"/>
+              <player-code  id="8021" global-id="222199"/>
+            </receiving>
+            <receiving receptions="2" yards="10" long="7" long-TD="false" tds="0" targets="3" first-downs="1" fumbles="0" fumbles-lost="0">
+              <name first-name="Jason" last-name="Witten"/>
+              <player-code  id="6405" global-id="184571"/>
+            </receiving>
+            <receiving receptions="2" yards="9" long="9" long-TD="false" tds="0" targets="2" first-downs="0" fumbles="0" fumbles-lost="0">
+              <name first-name="DeMarco" last-name="Murray"/>
+              <player-code  id="24858" global-id="333272"/>
+            </receiving>
+            <receiving receptions="1" yards="10" long="10" long-TD="false" tds="0" targets="1" first-downs="1" fumbles="0" fumbles-lost="0">
+              <name first-name="James" last-name="Hanna"/>
+              <player-code  id="25896" global-id="447735"/>
+            </receiving>
+            <receiving receptions="1" yards="6" long="6" long-TD="false" tds="0" targets="1" first-downs="0" fumbles="0" fumbles-lost="0">
+              <name first-name="John" last-name="Phillips"/>
+              <player-code  id="9472" global-id="323332"/>
+            </receiving>
+            <receiving receptions="0" yards="0" long="" long-TD="false" tds="0" targets="2" first-downs="0" fumbles="0" fumbles-lost="0">
+              <name first-name="Felix" last-name="Jones"/>
+              <player-code  id="8799" global-id="288072"/>
+            </receiving>
+            <punting punts="2" yards="108" blocked="0" in20="1" long="60" touchbacks="0" returns="1" return-yards="5" average="54.0" net-average="51.5">
+              <name first-name="Chris" last-name="Jones"/>
+              <player-code  id="25431" global-id="404804"/>
+            </punting>
+            <kick-returning returns="3" yards="61" long="25" long-TD="false" tds="0">
+              <name first-name="Felix" last-name="Jones"/>
+              <player-code  id="8799" global-id="288072"/>
+            </kick-returning>
+            <punt-returning returns="2" yards="0" fair-catches="0" long="1" long-TD="false" tds="0">
+              <name first-name="Dez" last-name="Bryant"/>
+              <player-code  id="23999" global-id="397499"/>
+            </punt-returning>
+            <punt-returning returns="1" yards="3" fair-catches="0" long="3" long-TD="false" tds="0">
+              <name first-name="Dwayne" last-name="Harris"/>
+              <player-code  id="24963" global-id="324534"/>
+            </punt-returning>
+            <defense tackles="10" assists="2" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Sean" last-name="Lee"/>
+              <player-code  id="24030" global-id="316771"/>
+            </defense>
+            <defense tackles="3" assists="4" sacks="0" sack-yards="0" stuffs="1" stuff-yards="2" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Anthony" last-name="Spencer"/>
+              <player-code  id="8280" global-id="215971"/>
+            </defense>
+            <defense tackles="5" assists="0" sacks="2" sack-yards="21" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="DeMarcus" last-name="Ware"/>
+              <player-code  id="7187" global-id="161722"/>
+            </defense>
+            <defense tackles="4" assists="1" sacks="1" sack-yards="5" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Jason" last-name="Hatcher"/>
+              <player-code  id="7841" global-id="228692"/>
+            </defense>
+            <defense tackles="4" assists="1" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Bruce" last-name="Carter"/>
+              <player-code  id="24827" global-id="323334"/>
+            </defense>
+            <defense tackles="4" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Morris" last-name="Claiborne"/>
+              <player-code  id="25716" global-id="498964"/>
+            </defense>
+            <defense tackles="2" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="1" sp-assists="0" safeties="0">
+              <name first-name="Gerald" last-name="Sensabaugh"/>
+              <player-code  id="7333" global-id="158556"/>
+            </defense>
+            <defense tackles="1" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="1" sp-assists="0" safeties="0">
+              <name first-name="Mana" last-name="Silva"/>
+              <player-code  id="25371" global-id="339465"/>
+            </defense>
+            <defense tackles="2" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="1" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Orlando" last-name="Scandrick"/>
+              <player-code  id="8909" global-id="300477"/>
+            </defense>
+            <defense tackles="2" assists="0" sacks="0" sack-yards="0" stuffs=".5" stuff-yards=".5" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Marcus" last-name="Spears"/>
+              <player-code  id="7196" global-id="158523"/>
+            </defense>
+            <defense tackles="0" assists="1" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="1" sp-assists="0" safeties="0">
+              <name first-name="Barry" last-name="Church"/>
+              <player-code  id="24603" global-id="324487"/>
+            </defense>
+            <defense tackles="1" assists="1" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Sean" last-name="Lissemore"/>
+              <player-code  id="24209" global-id="288466"/>
+            </defense>
+            <defense tackles="0" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="1" sp-assists="1" safeties="0">
+              <name first-name="Alex" last-name="Albright"/>
+              <player-code  id="25426" global-id="331910"/>
+            </defense>
+            <defense tackles="0" assists="2" sacks="0" sack-yards="0" stuffs=".5" stuff-yards=".5" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Josh" last-name="Brent"/>
+              <player-code  id="24744" global-id="399863"/>
+            </defense>
+            <defense tackles="1" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Kenyon" last-name="Coleman"/>
+              <player-code  id="6033" global-id="81126"/>
+            </defense>
+            <defense tackles="1" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="1" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Brandon" last-name="Carr"/>
+              <player-code  id="8906" global-id="399716"/>
+            </defense>
+            <defense tackles="0" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="1" sp-assists="0" safeties="0">
+              <name first-name="James" last-name="Hanna"/>
+              <player-code  id="25896" global-id="447735"/>
+            </defense>
+            <defense tackles="0" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="1" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Tyron" last-name="Smith"/>
+              <player-code  id="24796" global-id="459327"/>
+            </defense>
+            <defense tackles="0" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="1" sp-assists="0" safeties="0">
+              <name first-name="Andre" last-name="Holmes"/>
+              <player-code  id="25234" global-id="557954"/>
+            </defense>
+            <defense tackles="0" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="1" safeties="0">
+              <name first-name="Lawrence" last-name="Vickers"/>
+              <player-code  id="7929" global-id="214551"/>
+            </defense>
+            <opponent-fumbles-recovered number="1" yards="6" tds="0">
+              <name first-name="Barry" last-name="Church"/>
+              <player-code  id="24603" global-id="324487"/>
+            </opponent-fumbles-recovered>
+            <forced-fumbles number="1">
+              <name first-name="Sean" last-name="Lee"/>
+              <player-code  id="24030" global-id="316771"/>
+            </forced-fumbles>
+            <field-goals made="1" attempted="1" long="33" blocked="0">
+              <name first-name="Dan" last-name="Bailey"/>
+              <player-code  id="25427" global-id="333899"/>
+              <made distance="33"/>
+            </field-goals>
+            <PAT made="3" attempted="3" blocked="0">
+              <name first-name="Dan" last-name="Bailey"/>
+              <player-code  id="25427" global-id="333899"/>
+            </PAT>
+            <participation>
+              <player id="25426" global-id="331910" first="Alex" last="Albright" game-started="0" game-played="1"/>
+              <player id="8021" global-id="222199" first="Miles" last="Austin" game-started="1" game-played="1"/>
+              <player id="25427" global-id="333899" first="Dan" last="Bailey" game-started="0" game-played="1"/>
+              <player id="26060" global-id="460830" first="Cole" last="Beasley" game-started="0" game-played="1"/>
+              <player id="9027" global-id="399682" first="Mackenzy" last="Bernadeau" game-started="1" game-played="1"/>
+              <player id="24744" global-id="399863" first="Josh" last="Brent" game-started="1" game-played="1"/>
+              <player id="23999" global-id="397499" first="Dez" last="Bryant" game-started="1" game-played="1"/>
+              <player id="25429" global-id="398653" first="Mario" last="Butler" game-started="0" game-played="1"/>
+              <player id="9374" global-id="301640" first="Victor" last="Butler" game-started="0" game-played="1"/>
+              <player id="8906" global-id="399716" first="Brandon" last="Carr" game-started="1" game-played="1"/>
+              <player id="24827" global-id="323334" first="Bruce" last="Carter" game-started="1" game-played="1"/>
+              <player id="24603" global-id="324487" first="Barry" last="Church" game-started="1" game-played="1"/>
+              <player id="25716" global-id="498964" first="Morris" last="Claiborne" game-started="1" game-played="1"/>
+              <player id="6033" global-id="81126" first="Kenyon" last="Coleman" game-started="1" game-played="1"/>
+              <player id="8851" global-id="246776" first="Dan" last="Connor" game-started="0" game-played="1"/>
+              <player id="7800" global-id="217699" first="Ryan" last="Cook" game-started="0" game-played="1"/>
+              <player id="24595" global-id="284913" first="Phil" last="Costa" game-started="1" game-played="1"/>
+              <player id="25791" global-id="541682" first="Tyrone" last="Crawford" game-started="0" game-played="1"/>
+              <player id="6417" global-id="184583" first="Derrick" last="Dockery" game-started="0" game-played="1"/>
+              <player id="8376" global-id="219967" first="Doug" last="Free" game-started="1" game-played="1"/>
+              <player id="25896" global-id="447735" first="James" last="Hanna" game-started="0" game-played="1"/>
+              <player id="24963" global-id="324534" first="Dwayne" last="Harris" game-started="0" game-played="1"/>
+              <player id="7841" global-id="228692" first="Jason" last="Hatcher" game-started="1" game-played="1"/>
+              <player id="25234" global-id="557954" first="Andre" last="Holmes" game-started="0" game-played="1"/>
+              <player id="25431" global-id="404804" first="Chris" last="Jones" game-started="0" game-played="1"/>
+              <player id="8799" global-id="288072" first="Felix" last="Jones" game-started="0" game-played="1"/>
+              <player id="7512" global-id="150215" first="L.P." last="Ladouceur" game-started="0" game-played="1"/>
+              <player id="24030" global-id="316771" first="Sean" last="Lee" game-started="1" game-played="1"/>
+              <player id="24209" global-id="288466" first="Sean" last="Lissemore" game-started="0" game-played="1"/>
+              <player id="8077" global-id="145128" first="Nate" last="Livings" game-started="1" game-played="1"/>
+              <player id="24858" global-id="333272" first="DeMarco" last="Murray" game-started="1" game-played="1"/>
+              <player id="9534" global-id="306291" first="Kevin" last="Ogletree" game-started="0" game-played="1"/>
+              <player id="9604" global-id="450780" first="Jermey" last="Parnell" game-started="0" game-played="1"/>
+              <player id="9472" global-id="323332" first="John" last="Phillips" game-started="0" game-played="1"/>
+              <player id="6624" global-id="234210" first="Tony" last="Romo" game-started="1" game-played="1"/>
+              <player id="8909" global-id="300477" first="Orlando" last="Scandrick" game-started="0" game-played="1"/>
+              <player id="7333" global-id="158556" first="Gerald" last="Sensabaugh" game-started="1" game-played="1"/>
+              <player id="25371" global-id="339465" first="Mana" last="Silva" game-started="0" game-played="1"/>
+              <player id="24796" global-id="459327" first="Tyron" last="Smith" game-started="1" game-played="1"/>
+              <player id="7196" global-id="158523" first="Marcus" last="Spears" game-started="0" game-played="1"/>
+              <player id="8280" global-id="215971" first="Anthony" last="Spencer" game-started="1" game-played="1"/>
+              <player id="25444" global-id="324781" first="Phillip" last="Tanner" game-started="0" game-played="1"/>
+              <player id="7929" global-id="214551" first="Lawrence" last="Vickers" game-started="1" game-played="1"/>
+              <player id="7187" global-id="161722" first="DeMarcus" last="Ware" game-started="1" game-played="1"/>
+              <player id="6405" global-id="184571" first="Jason" last="Witten" game-started="1" game-played="1"/>
+            </participation>
+          </visiting-player-stats>
+          <home-player-stats>
+            <missed-field-goals>
+            </missed-field-goals>
+            <rushing attempts="17" yards="78" long="33" long-TD="false" tds="1" first-downs="" fumbles="" fumbles-lost="">
+              <name first-name="Ahmad" last-name="Bradshaw"/>
+              <player-code  id="8504" global-id="267892"/>
+            </rushing>
+            <rushing attempts="2" yards="4" long="3" long-TD="false" tds="0" first-downs="" fumbles="" fumbles-lost="">
+              <name first-name="David" last-name="Wilson"/>
+              <player-code  id="25742" global-id="507532"/>
+            </rushing>
+            <passing completions="21" attempts="32" interceptions="0" yards="213" sacked="3" yards-lost="26" long="39" long-TD="false" tds="1" rating="94.9" first-downs="" fumbles="" fumbles-lost="">
+              <name first-name="Eli" last-name="Manning"/>
+              <player-code  id="6760" global-id="246051"/>
+            </passing>
+            <receiving receptions="6" yards="58" long="26" long-TD="false" tds="0" targets="11" first-downs="3" fumbles="0" fumbles-lost="0">
+              <name first-name="Victor" last-name="Cruz"/>
+              <player-code  id="24553" global-id="248251"/>
+            </receiving>
+            <receiving receptions="4" yards="40" long="12" long-TD="false" tds="1" targets="6" first-downs="2" fumbles="0" fumbles-lost="0">
+              <name first-name="Martellus" last-name="Bennett"/>
+              <player-code  id="8838" global-id="302238"/>
+            </receiving>
+            <receiving receptions="4" yards="38" long="12" long-TD="false" tds="0" targets="6" first-downs="3" fumbles="0" fumbles-lost="0">
+              <name first-name="Hakeem" last-name="Nicks"/>
+              <player-code  id="9293" global-id="323361"/>
+            </receiving>
+            <receiving receptions="3" yards="55" long="39" long-TD="false" tds="0" targets="5" first-downs="2" fumbles="0" fumbles-lost="0">
+              <name first-name="Domenik" last-name="Hixon"/>
+              <player-code  id="7879" global-id="218188"/>
+            </receiving>
+            <receiving receptions="2" yards="15" long="9" long-TD="false" tds="0" targets="2" first-downs="1" fumbles="0" fumbles-lost="0">
+              <name first-name="Ahmad" last-name="Bradshaw"/>
+              <player-code  id="8504" global-id="267892"/>
+            </receiving>
+            <receiving receptions="1" yards="6" long="6" long-TD="false" tds="0" targets="1" first-downs="0" fumbles="0" fumbles-lost="0">
+              <name first-name="Bear" last-name="Pascoe"/>
+              <player-code  id="9448" global-id="267127"/>
+            </receiving>
+            <receiving receptions="1" yards="1" long="1" long-TD="false" tds="0" targets="1" first-downs="0" fumbles="0" fumbles-lost="0">
+              <name first-name="Henry" last-name="Hynoski"/>
+              <player-code  id="25505" global-id="397940"/>
+            </receiving>
+            <punting punts="4" yards="201" blocked="0" in20="1" long="56" touchbacks="1" returns="3" return-yards="3" average="50.3" net-average="44.5">
+              <name first-name="Steve" last-name="Weatherford"/>
+              <player-code  id="8050" global-id="156624"/>
+            </punting>
+            <kick-returning returns="3" yards="71" long="32" long-TD="false" tds="0">
+              <name first-name="David" last-name="Wilson"/>
+              <player-code  id="25742" global-id="507532"/>
+            </kick-returning>
+            <kick-returning returns="2" yards="29" long="22" long-TD="false" tds="0">
+              <name first-name="Andre" last-name="Brown"/>
+              <player-code  id="9393" global-id="262573"/>
+            </kick-returning>
+            <punt-returning returns="1" yards="5" fair-catches="1" long="5" long-TD="false" tds="0">
+              <name first-name="Domenik" last-name="Hixon"/>
+              <player-code  id="7879" global-id="218188"/>
+            </punt-returning>
+            <defense tackles="9" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Antrel" last-name="Rolle"/>
+              <player-code  id="7184" global-id="157322"/>
+            </defense>
+            <defense tackles="5" assists="2" sacks="0" sack-yards="0" stuffs="1" stuff-yards="1" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Keith" last-name="Rivers"/>
+              <player-code  id="8786" global-id="266764"/>
+            </defense>
+            <defense tackles="5" assists="1" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Chase" last-name="Blackburn"/>
+              <player-code  id="7470" global-id="156069"/>
+            </defense>
+            <defense tackles="3" assists="2" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="1" sp-assists="0" safeties="0">
+              <name first-name="Jacquian" last-name="Williams"/>
+              <player-code  id="24989" global-id="511903"/>
+            </defense>
+            <defense tackles="3" assists="2" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="1" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Michael" last-name="Coe"/>
+              <player-code  id="8427" global-id="216905"/>
+            </defense>
+            <defense tackles="3" assists="1" sacks="0" sack-yards="0" stuffs="1" stuff-yards="3" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Jason" last-name="Pierre-Paul"/>
+              <player-code  id="23990" global-id="504295"/>
+            </defense>
+            <defense tackles="3" assists="1" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Kenny" last-name="Phillips"/>
+              <player-code  id="8808" global-id="300738"/>
+            </defense>
+            <defense tackles="1" assists="3" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Justin" last-name="Tuck"/>
+              <player-code  id="7250" global-id="163838"/>
+            </defense>
+            <defense tackles="2" assists="1" sacks="1" sack-yards="8" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Rocky" last-name="Bernard"/>
+              <player-code  id="6032" global-id="81125"/>
+            </defense>
+            <defense tackles="2" assists="1" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Justin" last-name="Tryon"/>
+              <player-code  id="8904" global-id="322944"/>
+            </defense>
+            <defense tackles="2" assists="0" sacks="1" sack-yards="9" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Linval" last-name="Joseph"/>
+              <player-code  id="24021" global-id="402468"/>
+            </defense>
+            <defense tackles="2" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="1" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Corey" last-name="Webster"/>
+              <player-code  id="7219" global-id="145017"/>
+            </defense>
+            <defense tackles="0" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="2" sp-assists="0" safeties="0">
+              <name first-name="Stevie" last-name="Brown"/>
+              <player-code  id="24227" global-id="335662"/>
+            </defense>
+            <defense tackles="0" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="1" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Chris" last-name="Snee"/>
+              <player-code  id="6793" global-id="246084"/>
+            </defense>
+            <defense tackles="0" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="1" sp-assists="0" safeties="0">
+              <name first-name="Zak" last-name="DeOssie"/>
+              <player-code  id="8370" global-id="232667"/>
+            </defense>
+            <defense tackles="1" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Osi" last-name="Umenyiora"/>
+              <player-code  id="6392" global-id="184558"/>
+            </defense>
+            <defense tackles="1" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Mathias" last-name="Kiwanuka"/>
+              <player-code  id="7781" global-id="162682"/>
+            </defense>
+            <defense tackles="1" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="1" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Michael" last-name="Boley"/>
+              <player-code  id="7336" global-id="140538"/>
+            </defense>
+            <defense tackles="0" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="1" sp-assists="0" safeties="0">
+              <name first-name="Will" last-name="Hill"/>
+              <player-code  id="26478" global-id="463209"/>
+            </defense>
+            <defense tackles="0" assists="0" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="1" safeties="0">
+              <name first-name="Spencer" last-name="Paysinger"/>
+              <player-code  id="25508" global-id="335048"/>
+            </defense>
+            <defense tackles="0" assists="1" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Jayron" last-name="Hosley"/>
+              <player-code  id="25804" global-id="507520"/>
+            </defense>
+            <defense tackles="0" assists="1" sacks="0" sack-yards="0" stuffs="0" stuff-yards="0" passes-defensed="0" misc-tackles="0" misc-assists="0" sp-tackles="0" sp-assists="0" safeties="0">
+              <name first-name="Markus" last-name="Kuhn"/>
+              <player-code  id="25949" global-id="401521"/>
+            </defense>
+            <interceptions number="1" yards="51" long="51" long-TD="false" tds="0">
+              <name first-name="Michael" last-name="Boley"/>
+              <player-code  id="7336" global-id="140538"/>
+            </interceptions>
+            <fumbles number="1">
+              <name first-name="David" last-name="Wilson"/>
+              <player-code  id="25742" global-id="507532"/>
+            </fumbles>
+            <fumbles-lost number="1">
+              <name first-name="David" last-name="Wilson"/>
+              <player-code  id="25742" global-id="507532"/>
+            </fumbles-lost>
+            <field-goals made="1" attempted="1" long="22" blocked="0">
+              <name first-name="Lawrence" last-name="Tynes"/>
+              <player-code  id="7022" global-id="249884"/>
+              <made distance="22"/>
+            </field-goals>
+            <PAT made="2" attempted="2" blocked="0">
+              <name first-name="Lawrence" last-name="Tynes"/>
+              <player-code  id="7022" global-id="249884"/>
+            </PAT>
+            <participation>
+              <player id="7209" global-id="143689" first="David" last="Baas" game-started="1" game-played="1"/>
+              <player id="9349" global-id="288568" first="Ramses" last="Barden" game-started="0" game-played="1"/>
+              <player id="9324" global-id="267327" first="Will" last="Beatty" game-started="1" game-played="1"/>
+              <player id="8838" global-id="302238" first="Martellus" last="Bennett" game-started="1" game-played="1"/>
+              <player id="6032" global-id="81125" first="Rocky" last="Bernard" game-started="1" game-played="1"/>
+              <player id="7470" global-id="156069" first="Chase" last="Blackburn" game-started="1" game-played="1"/>
+              <player id="7336" global-id="140538" first="Michael" last="Boley" game-started="0" game-played="1"/>
+              <player id="7925" global-id="164902" first="Kevin" last="Boothe" game-started="1" game-played="1"/>
+              <player id="8504" global-id="267892" first="Ahmad" last="Bradshaw" game-started="1" game-played="1"/>
+              <player id="9393" global-id="262573" first="Andre" last="Brown" game-started="0" game-played="1"/>
+              <player id="24227" global-id="335662" first="Stevie" last="Brown" game-started="0" game-played="1"/>
+              <player id="8427" global-id="216905" first="Michael" last="Coe" game-started="1" game-played="1"/>
+              <player id="24555" global-id="296895" first="Jim" last="Cordle" game-started="0" game-played="1"/>
+              <player id="24553" global-id="248251" first="Victor" last="Cruz" game-started="1" game-played="1"/>
+              <player id="8370" global-id="232667" first="Zak" last="DeOssie" game-started="0" game-played="1"/>
+              <player id="6496" global-id="184685" first="David" last="Diehl" game-started="1" game-played="1"/>
+              <player id="25509" global-id="331928" first="Mark" last="Herzlich" game-started="0" game-played="1"/>
+              <player id="26478" global-id="463209" first="Will" last="Hill" game-started="0" game-played="1"/>
+              <player id="7879" global-id="218188" first="Domenik" last="Hixon" game-started="0" game-played="1"/>
+              <player id="25804" global-id="507520" first="Jayron" last="Hosley" game-started="0" game-played="1"/>
+              <player id="25505" global-id="397940" first="Henry" last="Hynoski" game-started="0" game-played="1"/>
+              <player id="24021" global-id="402468" first="Linval" last="Joseph" game-started="1" game-played="1"/>
+              <player id="7781" global-id="162682" first="Mathias" last="Kiwanuka" game-started="1" game-played="1"/>
+              <player id="25949" global-id="401521" first="Markus" last="Kuhn" game-started="0" game-played="1"/>
+              <player id="6843" global-id="246134" first="Sean" last="Locklear" game-started="1" game-played="1"/>
+              <player id="6760" global-id="246051" first="Eli" last="Manning" game-started="1" game-played="1"/>
+              <player id="9293" global-id="323361" first="Hakeem" last="Nicks" game-started="1" game-played="1"/>
+              <player id="9448" global-id="267127" first="Bear" last="Pascoe" game-started="0" game-played="1"/>
+              <player id="25508" global-id="335048" first="Spencer" last="Paysinger" game-started="0" game-played="1"/>
+              <player id="8808" global-id="300738" first="Kenny" last="Phillips" game-started="1" game-played="1"/>
+              <player id="23990" global-id="504295" first="Jason" last="Pierre-Paul" game-started="1" game-played="1"/>
+              <player id="25773" global-id="498977" first="Rueben" last="Randle" game-started="0" game-played="1"/>
+              <player id="8786" global-id="266764" first="Keith" last="Rivers" game-started="1" game-played="1"/>
+              <player id="25837" global-id="382275" first="Adrien" last="Robinson" game-started="0" game-played="1"/>
+              <player id="7184" global-id="157322" first="Antrel" last="Rolle" game-started="1" game-played="1"/>
+              <player id="6793" global-id="246084" first="Chris" last="Snee" game-started="1" game-played="1"/>
+              <player id="24160" global-id="325658" first="Adrian" last="Tracy" game-started="0" game-played="1"/>
+              <player id="8904" global-id="322944" first="Justin" last="Tryon" game-started="0" game-played="1"/>
+              <player id="7250" global-id="163838" first="Justin" last="Tuck" game-started="1" game-played="1"/>
+              <player id="7022" global-id="249884" first="Lawrence" last="Tynes" game-started="0" game-played="1"/>
+              <player id="6392" global-id="184558" first="Osi" last="Umenyiora" game-started="0" game-played="1"/>
+              <player id="8050" global-id="156624" first="Steve" last="Weatherford" game-started="0" game-played="1"/>
+              <player id="7219" global-id="145017" first="Corey" last="Webster" game-started="1" game-played="1"/>
+              <player id="24989" global-id="511903" first="Jacquian" last="Williams" game-started="0" game-played="1"/>
+              <player id="25742" global-id="507532" first="David" last="Wilson" game-started="0" game-played="1"/>
+            </participation>
+          </home-player-stats>
+        </player-stats>
+        <time-of-game hours="2" minutes="53"/>
+        <attendance attendance="82,287"/>
+        <officiating-crew>
+          <crew pos="referee" name="Jim Core"/>
+          <crew pos="umpire" name="Bob Shoulders"/>
+          <crew pos="head-linesman" name="Gregory Maxwell"/>
+          <crew pos="line-judge" name="Joshua Thurow"/>
+          <crew pos="field-judge" name="Thaddious Foster"/>
+          <crew pos="side-judge" name="Brian Stropolo"/>
+          <crew pos="back-judge" name="Larry Babcock"/>
+          <crew pos="replay-official" name="Dale Hamer"/>
+        </officiating-crew>
+        <weather indoors="false">
+          <temperature temperature="77" humidity="63"/>
+          <clouds id="1" description="Clear"/>
+          <wind velocity="5" dir-id="13" direction="Out of the West-North-West"/>
+        </weather>
+      </nfl-boxscore>
+    </nfl-boxscores>
+  </sports-boxscores>
+</sports-statistics>

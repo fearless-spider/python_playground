@@ -1,0 +1,3489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+ <sports-rankings>
+  <cfb-polls>
+   <date year="2012" month="9" date="5" day="3"/>
+   <time hour="1" minute="43" second="39" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+   <version number="1"/>
+   <season season="2012"/>
+   <week week="2"/>
+   <cfb-poll division-id="1" division="Bowl Subdivision" org-id="1" organization="AP">
+   <poll-date year="2012" month="9" date="4" day="3"/>
+    <cfb-team-rankings>
+     <college-name name="Alabama"/>
+     <college-code id="73"/>
+     <team-name name="Crimson Tide" alias="Ala"/>
+     <team-city city="Alabama"/>
+     <team-code id="73" global-id="3478"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="1" votes="1481" first-place="45"/>
+     <previous-rank rank="2"/>
+     <last-opponent location="home" team-score="41" opponent-score="14" overtime="false">
+      <college-name name="Michigan"/>
+      <college-code id="29"/>
+      <team-name name="Wolverines" alias="Mich"/>
+      <team-city city="Michigan"/>
+      <team-code id="29" global-id="3435"/>
+      <team-rank rank="19"/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Western Kentucky"/>
+      <college-code id="224"/>
+      <team-name name="Hilltoppers" alias="WestKy"/>
+      <team-city city="Western Kentucky"/>
+      <team-code id="224" global-id="3628"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="USC"/>
+     <college-code id="62"/>
+     <team-name name="Trojans" alias="USC"/>
+     <team-city city="USC"/>
+     <team-code id="62" global-id="3467"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="2" votes="1435" first-place="11"/>
+     <previous-rank rank="1"/>
+     <last-opponent location="home" team-score="49" opponent-score="10" overtime="false">
+      <college-name name="Hawaii"/>
+      <college-code id="91"/>
+      <team-name name="Warriors" alias="Hawaii"/>
+      <team-city city="Hawaii"/>
+      <team-code id="91" global-id="3496"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Syracuse"/>
+      <college-code id="14"/>
+      <team-name name="Orange" alias="Syr"/>
+      <team-city city="Syracuse"/>
+      <team-code id="14" global-id="3420"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="LSU"/>
+     <college-code id="76"/>
+     <team-name name="Tigers" alias="LSU"/>
+     <team-city city="LSU"/>
+     <team-code id="76" global-id="3481"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="3" votes="1382" first-place="4"/>
+     <previous-rank rank="3"/>
+     <last-opponent location="home" team-score="41" opponent-score="14" overtime="false">
+      <college-name name="North Texas"/>
+      <college-code id="182"/>
+      <team-name name="Mean Green" alias="NorTx"/>
+      <team-city city="North Texas"/>
+      <team-code id="182" global-id="3587"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Washington"/>
+      <college-code id="65"/>
+      <team-name name="Huskies" alias="Wash"/>
+      <team-city city="Washington"/>
+      <team-code id="65" global-id="3470"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Oregon"/>
+     <college-code id="60"/>
+     <team-name name="Ducks" alias="Oregon"/>
+     <team-city city="Oregon"/>
+     <team-code id="60" global-id="3465"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="4" votes="1295" first-place="0"/>
+     <previous-rank rank="5"/>
+     <last-opponent location="home" team-score="57" opponent-score="34" overtime="false">
+      <college-name name="Arkansas State"/>
+      <college-code id="37"/>
+      <team-name name="Red Wolves" alias="ArkSt"/>
+      <team-city city="Arkansas State"/>
+      <team-code id="37" global-id="3443"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Fresno State"/>
+      <college-code id="90"/>
+      <team-name name="Bulldogs" alias="Fres"/>
+      <team-city city="Fresno State"/>
+      <team-code id="90" global-id="3495"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Oklahoma"/>
+     <college-code id="24"/>
+     <team-name name="Sooners" alias="Okla"/>
+     <team-city city="Oklahoma"/>
+     <team-code id="24" global-id="3430"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="5" votes="1170" first-place="0"/>
+     <previous-rank rank="4"/>
+     <last-opponent location="away" team-score="24" opponent-score="7" overtime="false">
+      <college-name name="UTEP"/>
+      <college-code id="95"/>
+      <team-name name="Miners" alias="UTEP"/>
+      <team-city city="UTEP"/>
+      <team-code id="95" global-id="3500"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Florida A&amp;M"/>
+      <college-code id="145"/>
+      <team-name name="Rattlers" alias="FlaA&amp;M"/>
+      <team-city city="Florida A&amp;M"/>
+      <team-code id="145" global-id="3550"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Florida State"/>
+     <college-code id="3"/>
+     <team-name name="Seminoles" alias="FlaSt"/>
+     <team-city city="Florida State"/>
+     <team-code id="3" global-id="3409"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="6" votes="1135" first-place="0"/>
+     <previous-rank rank="7"/>
+     <last-opponent location="home" team-score="69" opponent-score="3" overtime="false">
+      <college-name name="Murray State"/>
+      <college-code id="154"/>
+      <team-name name="Racers" alias="Murray"/>
+      <team-city city="Murray State"/>
+      <team-code id="154" global-id="3559"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Savannah State"/>
+      <college-code id="363"/>
+      <team-name name="Tigers" alias="Savan"/>
+      <team-city city="Savannah State"/>
+      <team-code id="363" global-id="3763"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Georgia"/>
+     <college-code id="68"/>
+     <team-name name="Bulldogs" alias="UGa"/>
+     <team-city city="Georgia"/>
+     <team-code id="68" global-id="3473"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="7" votes="1083" first-place="0"/>
+     <previous-rank rank="6"/>
+     <last-opponent location="home" team-score="45" opponent-score="23" overtime="false">
+      <college-name name="Buffalo"/>
+      <college-code id="208"/>
+      <team-name name="Bulls" alias="Buff"/>
+      <team-city city="Buffalo"/>
+      <team-code id="208" global-id="3613"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Missouri"/>
+      <college-code id="22"/>
+      <team-name name="Tigers" alias="Missou"/>
+      <team-city city="Missouri"/>
+      <team-code id="22" global-id="3428"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Arkansas"/>
+     <college-code id="74"/>
+     <team-name name="Razorbacks" alias="Ark"/>
+     <team-city city="Arkansas"/>
+     <team-code id="74" global-id="3479"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="8" votes="992" first-place="0"/>
+     <previous-rank rank="10"/>
+     <last-opponent location="home" team-score="49" opponent-score="24" overtime="false">
+      <college-name name="Jacksonville State"/>
+      <college-code id="247"/>
+      <team-name name="Gamecocks" alias="JacSt"/>
+      <team-city city="Jacksonville State"/>
+      <team-code id="247" global-id="3650"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Louisiana-Monroe"/>
+      <college-code id="103"/>
+      <team-name name="Warhawks" alias="UL-Mon"/>
+      <team-city city="Louisiana-Monroe"/>
+      <team-code id="103" global-id="3508"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="West Virginia"/>
+     <college-code id="17"/>
+     <team-name name="Mountaineers" alias="WVU"/>
+     <team-city city="West Virginia"/>
+     <team-code id="17" global-id="3423"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="9" votes="980" first-place="0"/>
+     <previous-rank rank="11"/>
+     <last-opponent location="home" team-score="69" opponent-score="34" overtime="false">
+      <college-name name="Marshall"/>
+      <college-code id="176"/>
+      <team-name name="Thundering Herd" alias="Marsh"/>
+      <team-city city="Marshall"/>
+      <team-code id="176" global-id="3581"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="James Madison"/>
+      <college-code id="196"/>
+      <team-name name="Dukes" alias="JMU"/>
+      <team-city city="James Madison"/>
+      <team-code id="196" global-id="3601"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="South Carolina"/>
+     <college-code id="70"/>
+     <team-name name="Gamecocks" alias="SC"/>
+     <team-city city="South Carolina"/>
+     <team-code id="70" global-id="3475"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="9" votes="980" first-place="0"/>
+     <previous-rank rank="9"/>
+     <last-opponent location="away" team-score="17" opponent-score="13" overtime="false">
+      <college-name name="Vanderbilt"/>
+      <college-code id="72"/>
+      <team-name name="Commodores" alias="Vandy"/>
+      <team-city city="Vanderbilt"/>
+      <team-code id="72" global-id="3477"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="East Carolina"/>
+      <college-code id="99"/>
+      <team-name name="Pirates" alias="ECU"/>
+      <team-city city="East Carolina"/>
+      <team-code id="99" global-id="3504"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Michigan State"/>
+     <college-code id="30"/>
+     <team-name name="Spartans" alias="MSU"/>
+     <team-city city="Michigan State"/>
+     <team-code id="30" global-id="3436"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="11" votes="915" first-place="0"/>
+     <previous-rank rank="13"/>
+     <last-opponent location="home" team-score="17" opponent-score="13" overtime="false">
+      <college-name name="Boise State"/>
+      <college-code id="112"/>
+      <team-name name="Broncos" alias="Boise"/>
+      <team-city city="Boise State"/>
+      <team-code id="112" global-id="3517"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Central Michigan"/>
+      <college-code id="50"/>
+      <team-name name="Chippewas" alias="CentMi"/>
+      <team-city city="Central Michigan"/>
+      <team-code id="50" global-id="3455"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Clemson"/>
+     <college-code id="1"/>
+     <team-name name="Tigers" alias="Clem"/>
+     <team-city city="Clemson"/>
+     <team-code id="1" global-id="3407"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="12" votes="788" first-place="0"/>
+     <previous-rank rank="14"/>
+     <last-opponent location="away" team-score="26" opponent-score="19" overtime="false">
+      <college-name name="Auburn"/>
+      <college-code id="75"/>
+      <team-name name="Tigers" alias="Auburn"/>
+      <team-city city="Auburn"/>
+      <team-code id="75" global-id="3480"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Ball State"/>
+      <college-code id="48"/>
+      <team-name name="Cardinals" alias="BallSt"/>
+      <team-city city="Ball State"/>
+      <team-code id="48" global-id="3453"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Wisconsin"/>
+     <college-code id="36"/>
+     <team-name name="Badgers" alias="Wisc"/>
+     <team-city city="Wisconsin"/>
+     <team-code id="36" global-id="3442"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="13" votes="664" first-place="0"/>
+     <previous-rank rank="12"/>
+     <last-opponent location="home" team-score="26" opponent-score="21" overtime="false">
+      <college-name name="Northern Iowa"/>
+      <college-code id="123"/>
+      <team-name name="Panthers" alias="NoIa"/>
+      <team-city city="Northern Iowa"/>
+      <team-code id="123" global-id="3528"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Oregon State"/>
+      <college-code id="61"/>
+      <team-name name="Beavers" alias="OreSt"/>
+      <team-city city="Oregon State"/>
+      <team-code id="61" global-id="3466"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Ohio State"/>
+     <college-code id="33"/>
+     <team-name name="Buckeyes" alias="OhioSt"/>
+     <team-city city="Ohio State"/>
+     <team-code id="33" global-id="3439"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="14" votes="634" first-place="0"/>
+     <previous-rank rank="18"/>
+     <last-opponent location="home" team-score="56" opponent-score="10" overtime="false">
+      <college-name name="Miami (OH)"/>
+      <college-code id="53"/>
+      <team-name name="RedHawks" alias="Mia-O"/>
+      <team-city city="Miami (OH)"/>
+      <team-code id="53" global-id="3458"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="UCF"/>
+      <college-code id="210"/>
+      <team-name name="Knights" alias="UCF"/>
+      <team-city city="UCF"/>
+      <team-code id="210" global-id="3615"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Virginia Tech"/>
+     <college-code id="16"/>
+     <team-name name="Hokies" alias="VaTech"/>
+     <team-city city="Virginia Tech"/>
+     <team-code id="16" global-id="3422"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="15" votes="604" first-place="0"/>
+     <previous-rank rank="16"/>
+     <last-opponent location="home" team-score="20" opponent-score="17" overtime="true">
+      <college-name name="Georgia Tech"/>
+      <college-code id="4"/>
+      <team-name name="Yellow Jackets" alias="GaTech"/>
+      <team-city city="Georgia Tech"/>
+      <team-code id="4" global-id="3410"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Austin Peay"/>
+      <college-code id="150"/>
+      <team-name name="Governors" alias="APSU"/>
+      <team-city city="Austin Peay"/>
+      <team-code id="150" global-id="3555"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Nebraska"/>
+     <college-code id="23"/>
+     <team-name name="Cornhuskers" alias="Neb"/>
+     <team-city city="Nebraska"/>
+     <team-code id="23" global-id="3429"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="16" votes="603" first-place="0"/>
+     <previous-rank rank="17"/>
+     <last-opponent location="home" team-score="49" opponent-score="20" overtime="false">
+      <college-name name="Southern Miss"/>
+      <college-code id="105"/>
+      <team-name name="Golden Eagles" alias="SouMis"/>
+      <team-city city="Southern Miss"/>
+      <team-code id="105" global-id="3510"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="UCLA"/>
+      <college-code id="64"/>
+      <team-name name="Bruins" alias="UCLA"/>
+      <team-city city="UCLA"/>
+      <team-code id="64" global-id="3469"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Texas"/>
+     <college-code id="83"/>
+     <team-name name="Longhorns" alias="Tex"/>
+     <team-city city="Texas"/>
+     <team-code id="83" global-id="3488"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="17" votes="584" first-place="0"/>
+     <previous-rank rank="15"/>
+     <last-opponent location="home" team-score="37" opponent-score="17" overtime="false">
+      <college-name name="Wyoming"/>
+      <college-code id="96"/>
+      <team-name name="Cowboys" alias="Wyo"/>
+      <team-city city="Wyoming"/>
+      <team-code id="96" global-id="3501"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="New Mexico"/>
+      <college-code id="92"/>
+      <team-name name="Lobos" alias="NM"/>
+      <team-city city="New Mexico"/>
+      <team-code id="92" global-id="3497"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Oklahoma State"/>
+     <college-code id="25"/>
+     <team-name name="Cowboys" alias="OkSt"/>
+     <team-city city="Oklahoma State"/>
+     <team-code id="25" global-id="3431"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="18" votes="558" first-place="0"/>
+     <previous-rank rank="19"/>
+     <last-opponent location="home" team-score="84" opponent-score="0" overtime="false">
+      <college-name name="Savannah State"/>
+      <college-code id="363"/>
+      <team-name name="Tigers" alias="Savan"/>
+      <team-city city="Savannah State"/>
+      <team-code id="363" global-id="3763"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Arizona"/>
+      <college-code id="57"/>
+      <team-name name="Wildcats" alias="Ari"/>
+      <team-city city="Arizona"/>
+      <team-code id="57" global-id="3462"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Michigan"/>
+     <college-code id="29"/>
+     <team-name name="Wolverines" alias="Mich"/>
+     <team-city city="Michigan"/>
+     <team-code id="29" global-id="3435"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="19" votes="446" first-place="0"/>
+     <previous-rank rank="8"/>
+     <last-opponent location="away" team-score="14" opponent-score="41" overtime="false">
+      <college-name name="Alabama"/>
+      <college-code id="73"/>
+      <team-name name="Crimson Tide" alias="Ala"/>
+      <team-city city="Alabama"/>
+      <team-code id="73" global-id="3478"/>
+      <team-rank rank="1"/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Air Force"/>
+      <college-code id="87"/>
+      <team-name name="Falcons" alias="AF"/>
+      <team-city city="Air Force"/>
+      <team-code id="87" global-id="3492"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="TCU"/>
+     <college-code id="85"/>
+     <team-name name="Horned Frogs" alias="TCU"/>
+     <team-city city="TCU"/>
+     <team-code id="85" global-id="3490"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="20" votes="355" first-place="0"/>
+     <previous-rank rank="20"/>
+     <next-opponent location="home">
+      <college-name name="Grambling State"/>
+      <college-code id="189"/>
+      <team-name name="Tigers" alias="Gram"/>
+      <team-city city="Grambling State"/>
+      <team-code id="189" global-id="3594"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Kansas State"/>
+     <college-code id="21"/>
+     <team-name name="Wildcats" alias="KanSt"/>
+     <team-city city="Kansas State"/>
+     <team-code id="21" global-id="3427"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="21" votes="339" first-place="0"/>
+     <previous-rank rank="22"/>
+     <last-opponent location="home" team-score="51" opponent-score="9" overtime="false">
+      <college-name name="Missouri State"/>
+      <college-code id="125"/>
+      <team-name name="Bears" alias="MoStU"/>
+      <team-city city="Missouri State"/>
+      <team-code id="125" global-id="3530"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Miami (FL)"/>
+      <college-code id="11"/>
+      <team-name name="Hurricanes" alias="Mia-Fl"/>
+      <team-city city="Miami (FL)"/>
+      <team-code id="11" global-id="3417"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Notre Dame"/>
+     <college-code id="104"/>
+     <team-name name="Fighting Irish" alias="ND"/>
+     <team-city city="Notre Dame"/>
+     <team-code id="104" global-id="3509"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="22" votes="198" first-place="0"/>
+     <previous-rank rank="26"/>
+     <last-opponent location="away" team-score="50" opponent-score="10" overtime="false">
+      <college-name name="Navy"/>
+      <college-code id="102"/>
+      <team-name name="Midshipmen" alias="Navy"/>
+      <team-city city="Navy"/>
+      <team-code id="102" global-id="3507"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Purdue"/>
+      <college-code id="35"/>
+      <team-name name="Boilermakers" alias="Purdue"/>
+      <team-city city="Purdue"/>
+      <team-code id="35" global-id="3441"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Louisville"/>
+     <college-code id="100"/>
+     <team-name name="Cardinals" alias="Lou"/>
+     <team-city city="Louisville"/>
+     <team-code id="100" global-id="3505"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="23" votes="190" first-place="0"/>
+     <previous-rank rank="25"/>
+     <last-opponent location="home" team-score="32" opponent-score="14" overtime="false">
+      <college-name name="Kentucky"/>
+      <college-code id="69"/>
+      <team-name name="Wildcats" alias="Kty"/>
+      <team-city city="Kentucky"/>
+      <team-code id="69" global-id="3474"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Missouri State"/>
+      <college-code id="125"/>
+      <team-name name="Bears" alias="MoStU"/>
+      <team-city city="Missouri State"/>
+      <team-code id="125" global-id="3530"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Florida"/>
+     <college-code id="67"/>
+     <team-name name="Gators" alias="Fla"/>
+     <team-city city="Florida"/>
+     <team-code id="67" global-id="3472"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="24" votes="145" first-place="0"/>
+     <previous-rank rank="23"/>
+     <last-opponent location="home" team-score="27" opponent-score="14" overtime="false">
+      <college-name name="Bowling Green"/>
+      <college-code id="49"/>
+      <team-name name="Falcons" alias="BGSU"/>
+      <team-city city="Bowling Green"/>
+      <team-code id="49" global-id="3454"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Texas A&amp;M"/>
+      <college-code id="84"/>
+      <team-name name="Aggies" alias="TexA&amp;M"/>
+      <team-city city="Texas A&amp;M"/>
+      <team-code id="84" global-id="3489"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Stanford"/>
+     <college-code id="63"/>
+     <team-name name="Cardinal" alias="Stan"/>
+     <team-city city="Stanford"/>
+     <team-code id="63" global-id="3468"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="25" votes="131" first-place="0"/>
+     <previous-rank rank="21"/>
+     <last-opponent location="home" team-score="20" opponent-score="17" overtime="false">
+      <college-name name="San Jose State"/>
+      <college-code id="44"/>
+      <team-name name="Spartans" alias="SJSU"/>
+      <team-city city="San Jose State"/>
+      <team-code id="44" global-id="3449"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Duke"/>
+      <college-code id="2"/>
+      <team-name name="Blue Devils" alias="Duke"/>
+      <team-city city="Duke"/>
+      <team-code id="2" global-id="3408"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Boise State"/>
+     <college-code id="112"/>
+     <team-name name="Broncos" alias="Boise"/>
+     <team-city city="Boise State"/>
+     <team-code id="112" global-id="3517"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="26" votes="79" first-place="0"/>
+     <previous-rank rank="24"/>
+     <last-opponent location="away" team-score="13" opponent-score="17" overtime="false">
+      <college-name name="Michigan State"/>
+      <college-code id="30"/>
+      <team-name name="Spartans" alias="MSU"/>
+      <team-city city="Michigan State"/>
+      <team-code id="30" global-id="3436"/>
+      <team-rank rank="11"/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Miami (OH)"/>
+      <college-code id="53"/>
+      <team-name name="RedHawks" alias="Mia-O"/>
+      <team-city city="Miami (OH)"/>
+      <team-code id="53" global-id="3458"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Tennessee"/>
+     <college-code id="71"/>
+     <team-name name="Volunteers" alias="Tenn"/>
+     <team-city city="Tennessee"/>
+     <team-code id="71" global-id="3476"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="27" votes="73" first-place="0"/>
+     <previous-rank rank="33"/>
+     <last-opponent location="away" team-score="35" opponent-score="21" overtime="false">
+      <college-name name="North Carolina State"/>
+      <college-code id="7"/>
+      <team-name name="Wolfpack" alias="NCSU"/>
+      <team-city city="North Carolina State"/>
+      <team-code id="7" global-id="3413"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Georgia State"/>
+      <college-code id="690"/>
+      <team-name name="Panthers" alias="GaSt"/>
+      <team-city city="Georgia State"/>
+      <team-code id="2558" global-id="23171"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Brigham Young"/>
+     <college-code id="88"/>
+     <team-name name="Cougars" alias="BYU"/>
+     <team-city city="Brigham Young"/>
+     <team-code id="88" global-id="3493"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="28" votes="63" first-place="0"/>
+     <previous-rank rank="32"/>
+     <last-opponent location="home" team-score="30" opponent-score="6" overtime="false">
+      <college-name name="Washington State"/>
+      <college-code id="66"/>
+      <team-name name="Cougars" alias="WashSt"/>
+      <team-city city="Washington State"/>
+      <team-code id="66" global-id="3471"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Weber State"/>
+      <college-code id="119"/>
+      <team-name name="Wildcats" alias="Web"/>
+      <team-city city="Weber State"/>
+      <team-code id="119" global-id="3524"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="North Carolina"/>
+     <college-code id="6"/>
+     <team-name name="Tar Heels" alias="UNC"/>
+     <team-city city="North Carolina"/>
+     <team-code id="6" global-id="3412"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="29" votes="48" first-place="0"/>
+     <previous-rank rank="29"/>
+     <last-opponent location="home" team-score="62" opponent-score="0" overtime="false">
+      <college-name name="Elon"/>
+      <college-code id="350"/>
+      <team-name name="Phoenix" alias="Elon"/>
+      <team-city city="Elon"/>
+      <team-code id="350" global-id="3750"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Wake Forest"/>
+      <college-code id="9"/>
+      <team-name name="Demon Deacons" alias="Wake"/>
+      <team-city city="Wake Forest"/>
+      <team-code id="9" global-id="3415"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Baylor"/>
+     <college-code id="79"/>
+     <team-name name="Bears" alias="Baylor"/>
+     <team-city city="Baylor"/>
+     <team-code id="79" global-id="3484"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="30" votes="38" first-place="0"/>
+     <previous-rank rank="35"/>
+     <last-opponent location="home" team-score="59" opponent-score="24" overtime="false">
+      <college-name name="Southern Methodist"/>
+      <college-code id="82"/>
+      <team-name name="Mustangs" alias="SMU"/>
+      <team-city city="Southern Methodist"/>
+      <team-code id="82" global-id="3487"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Sam Houston State"/>
+      <college-code id="184"/>
+      <team-name name="Bearkats" alias="SamHou"/>
+      <team-city city="Sam Houston State"/>
+      <team-code id="184" global-id="3589"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Utah"/>
+     <college-code id="94"/>
+     <team-name name="Utes" alias="Utah"/>
+     <team-city city="Utah"/>
+     <team-code id="94" global-id="3499"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="31" votes="34" first-place="0"/>
+     <previous-rank rank="30"/>
+     <last-opponent location="home" team-score="41" opponent-score="0" overtime="false">
+      <college-name name="Northern Colorado"/>
+      <college-code id="310"/>
+      <team-name name="Bears" alias="NoCol"/>
+      <team-city city="Northern Colorado"/>
+      <team-code id="310" global-id="3710"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Utah State"/>
+      <college-code id="46"/>
+      <team-name name="Aggies" alias="UtahSt"/>
+      <team-city city="Utah State"/>
+      <team-code id="46" global-id="3451"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Washington"/>
+     <college-code id="65"/>
+     <team-name name="Huskies" alias="Wash"/>
+     <team-city city="Washington"/>
+     <team-code id="65" global-id="3470"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="32" votes="15" first-place="0"/>
+     <previous-rank rank="27"/>
+     <last-opponent location="home" team-score="21" opponent-score="12" overtime="false">
+      <college-name name="San Diego State"/>
+      <college-code id="93"/>
+      <team-name name="Aztecs" alias="SDSU"/>
+      <team-city city="San Diego State"/>
+      <team-code id="93" global-id="3498"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="LSU"/>
+      <college-code id="76"/>
+      <team-name name="Tigers" alias="LSU"/>
+      <team-city city="LSU"/>
+      <team-code id="76" global-id="3481"/>
+      <team-rank rank="3"/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Georgia Tech"/>
+     <college-code id="4"/>
+     <team-name name="Yellow Jackets" alias="GaTech"/>
+     <team-city city="Georgia Tech"/>
+     <team-code id="4" global-id="3410"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="33" votes="14" first-place="0"/>
+     <previous-rank rank="31"/>
+     <last-opponent location="away" team-score="17" opponent-score="20" overtime="true">
+      <college-name name="Virginia Tech"/>
+      <college-code id="16"/>
+      <team-name name="Hokies" alias="VaTech"/>
+      <team-city city="Virginia Tech"/>
+      <team-code id="16" global-id="3422"/>
+      <team-rank rank="15"/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Presbyterian"/>
+      <college-code id="354"/>
+      <team-name name="Blue Hose" alias="PRESBY"/>
+      <team-city city="Presbyterian"/>
+      <team-code id="354" global-id="3754"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Ohio"/>
+     <college-code id="54"/>
+     <team-name name="Bobcats" alias="Ohio"/>
+     <team-city city="Ohio"/>
+     <team-code id="54" global-id="3459"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="34" votes="10" first-place="0"/>
+     <previous-rank rank="0"/>
+     <last-opponent location="away" team-score="24" opponent-score="14" overtime="false">
+      <college-name name="Penn State"/>
+      <college-code id="34"/>
+      <team-name name="Nittany Lions" alias="PSU"/>
+      <team-city city="Penn State"/>
+      <team-code id="34" global-id="3440"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="New Mexico State"/>
+      <college-code id="41"/>
+      <team-name name="Aggies" alias="NMSt"/>
+      <team-city city="New Mexico State"/>
+      <team-code id="41" global-id="3447"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Texas State"/>
+     <college-code id="185"/>
+     <team-name name="Bobcats" alias="TxSt"/>
+     <team-city city="Texas State"/>
+     <team-code id="185" global-id="3590"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="34" votes="10" first-place="0"/>
+     <previous-rank rank="0"/>
+     <last-opponent location="away" team-score="30" opponent-score="13" overtime="false">
+      <college-name name="Houston"/>
+      <college-code id="80"/>
+      <team-name name="Cougars" alias="Hou"/>
+      <team-city city="Houston"/>
+      <team-code id="80" global-id="3485"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Texas Tech"/>
+      <college-code id="86"/>
+      <team-name name="Red Raiders" alias="TxTch"/>
+      <team-city city="Texas Tech"/>
+      <team-code id="86" global-id="3491"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Missouri"/>
+     <college-code id="22"/>
+     <team-name name="Tigers" alias="Mizzou"/>
+     <team-city city="Missouri"/>
+     <team-code id="22" global-id="3428"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="36" votes="7" first-place="0"/>
+     <previous-rank rank="38"/>
+     <last-opponent location="home" team-score="62" opponent-score="10" overtime="false">
+      <college-name name="Southeastern Louisiana"/>
+      <college-code id="692"/>
+      <team-name name="Lions" alias="SELa"/>
+      <team-city city="Southeastern Louisiana"/>
+      <team-code id="2234" global-id="5139"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Georgia"/>
+      <college-code id="68"/>
+      <team-name name="Bulldogs" alias="UGa"/>
+      <team-city city="Georgia"/>
+      <team-code id="68" global-id="3473"/>
+      <team-rank rank="7"/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Texas A&amp;M"/>
+     <college-code id="84"/>
+     <team-name name="Aggies" alias="TexA&amp;M"/>
+     <team-city city="Texas A&amp;M"/>
+     <team-code id="84" global-id="3489"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="37" votes="5" first-place="0"/>
+     <previous-rank rank="36"/>
+     <next-opponent location="home">
+      <college-name name="Florida"/>
+      <college-code id="67"/>
+      <team-name name="Gators" alias="Fla"/>
+      <team-city city="Florida"/>
+      <team-code id="67" global-id="3472"/>
+      <team-rank rank="24"/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="South Florida"/>
+     <college-code id="655"/>
+     <team-name name="Bulls" alias="SoFla"/>
+     <team-city city="South Florida"/>
+     <team-code id="1019" global-id="4009"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="37" votes="5" first-place="0"/>
+     <previous-rank rank="34"/>
+     <last-opponent location="home" team-score="34" opponent-score="13" overtime="false">
+      <college-name name="Chattanooga"/>
+      <college-code id="177"/>
+      <team-name name="Mocs" alias="Chat"/>
+      <team-city city="Chattanooga"/>
+      <team-code id="177" global-id="3582"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Nevada"/>
+      <college-code id="39"/>
+      <team-name name="Wolf Pack" alias="Nevada"/>
+      <team-city city="Nevada"/>
+      <team-code id="39" global-id="3445"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="UCF"/>
+     <college-code id="210"/>
+     <team-name name="Knights" alias="UCF"/>
+     <team-city city="UCF"/>
+     <team-code id="210" global-id="3615"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="39" votes="4" first-place="0"/>
+     <previous-rank rank="37"/>
+     <last-opponent location="away" team-score="56" opponent-score="14" overtime="false">
+      <college-name name="Akron"/>
+      <college-code id="47"/>
+      <team-name name="Zips" alias="Akron"/>
+      <team-city city="Akron"/>
+      <team-code id="47" global-id="3452"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Ohio State"/>
+      <college-code id="33"/>
+      <team-name name="Buckeyes" alias="OhioSt"/>
+      <team-city city="Ohio State"/>
+      <team-code id="33" global-id="3439"/>
+      <team-rank rank="14"/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Auburn"/>
+     <college-code id="75"/>
+     <team-name name="Tigers" alias="Auburn"/>
+     <team-city city="Auburn"/>
+     <team-code id="75" global-id="3480"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="40" votes="3" first-place="0"/>
+     <previous-rank rank="28"/>
+     <last-opponent location="home" team-score="19" opponent-score="26" overtime="false">
+      <college-name name="Clemson"/>
+      <college-code id="1"/>
+      <team-name name="Tigers" alias="Clem"/>
+      <team-city city="Clemson"/>
+      <team-code id="1" global-id="3407"/>
+      <team-rank rank="12"/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Mississippi State"/>
+      <college-code id="78"/>
+      <team-name name="Bulldogs" alias="MissSt"/>
+      <team-city city="Mississippi State"/>
+      <team-code id="78" global-id="3483"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Mississippi State"/>
+     <college-code id="78"/>
+     <team-name name="Bulldogs" alias="MissSt"/>
+     <team-city city="Mississippi State"/>
+     <team-code id="78" global-id="3483"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="40" votes="3" first-place="0"/>
+     <previous-rank rank="41"/>
+     <last-opponent location="home" team-score="56" opponent-score="9" overtime="false">
+      <college-name name="Jackson State"/>
+      <college-code id="190"/>
+      <team-name name="Tigers" alias="JkSt"/>
+      <team-city city="Jackson State"/>
+      <team-code id="190" global-id="3595"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Auburn"/>
+      <college-code id="75"/>
+      <team-name name="Tigers" alias="Auburn"/>
+      <team-city city="Auburn"/>
+      <team-code id="75" global-id="3480"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Cincinnati"/>
+     <college-code id="98"/>
+     <team-name name="Bearcats" alias="Cin"/>
+     <team-city city="Cincinnati"/>
+     <team-code id="98" global-id="3503"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="42" votes="2" first-place="0"/>
+     <previous-rank rank="38"/>
+     <next-opponent location="home">
+      <college-name name="Pittsburgh"/>
+      <college-code id="12"/>
+      <team-name name="Panthers" alias="Pitt"/>
+      <team-city city="Pittsburgh"/>
+      <team-code id="12" global-id="3418"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+   </cfb-poll>
+   <cfb-poll division-id="1" division="Bowl Subdivision" org-id="2" organization="Coaches">
+   <poll-date year="2012" month="9" date="4" day="3"/>
+    <cfb-team-rankings>
+     <college-name name="Alabama"/>
+     <college-code id="73"/>
+     <team-name name="Crimson Tide" alias="Ala"/>
+     <team-city city="Alabama"/>
+     <team-code id="73" global-id="3478"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="1" votes="1447" first-place="37"/>
+     <previous-rank rank="2"/>
+     <last-opponent location="home" team-score="41" opponent-score="14" overtime="false">
+      <college-name name="Michigan"/>
+      <college-code id="29"/>
+      <team-name name="Wolverines" alias="Mich"/>
+      <team-city city="Michigan"/>
+      <team-code id="29" global-id="3435"/>
+      <team-rank rank="19"/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Western Kentucky"/>
+      <college-code id="224"/>
+      <team-name name="Hilltoppers" alias="WestKy"/>
+      <team-city city="Western Kentucky"/>
+      <team-code id="224" global-id="3628"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="USC"/>
+     <college-code id="62"/>
+     <team-name name="Trojans" alias="USC"/>
+     <team-city city="USC"/>
+     <team-code id="62" global-id="3467"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="2" votes="1398" first-place="14"/>
+     <previous-rank rank="3"/>
+     <last-opponent location="home" team-score="49" opponent-score="10" overtime="false">
+      <college-name name="Hawaii"/>
+      <college-code id="91"/>
+      <team-name name="Warriors" alias="Hawaii"/>
+      <team-city city="Hawaii"/>
+      <team-code id="91" global-id="3496"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Syracuse"/>
+      <college-code id="14"/>
+      <team-name name="Orange" alias="Syr"/>
+      <team-city city="Syracuse"/>
+      <team-code id="14" global-id="3420"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="LSU"/>
+     <college-code id="76"/>
+     <team-name name="Tigers" alias="LSU"/>
+     <team-city city="LSU"/>
+     <team-code id="76" global-id="3481"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="3" votes="1375" first-place="7"/>
+     <previous-rank rank="1"/>
+     <last-opponent location="home" team-score="41" opponent-score="14" overtime="false">
+      <college-name name="North Texas"/>
+      <college-code id="182"/>
+      <team-name name="Mean Green" alias="NorTx"/>
+      <team-city city="North Texas"/>
+      <team-code id="182" global-id="3587"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Washington"/>
+      <college-code id="65"/>
+      <team-name name="Huskies" alias="Wash"/>
+      <team-city city="Washington"/>
+      <team-code id="65" global-id="3470"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Oregon"/>
+     <college-code id="60"/>
+     <team-name name="Ducks" alias="Oregon"/>
+     <team-city city="Oregon"/>
+     <team-code id="60" global-id="3465"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="4" votes="1286" first-place="1"/>
+     <previous-rank rank="5"/>
+     <last-opponent location="home" team-score="57" opponent-score="34" overtime="false">
+      <college-name name="Arkansas State"/>
+      <college-code id="37"/>
+      <team-name name="Red Wolves" alias="ArkSt"/>
+      <team-city city="Arkansas State"/>
+      <team-code id="37" global-id="3443"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Fresno State"/>
+      <college-code id="90"/>
+      <team-name name="Bulldogs" alias="Fres"/>
+      <team-city city="Fresno State"/>
+      <team-code id="90" global-id="3495"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Oklahoma"/>
+     <college-code id="24"/>
+     <team-name name="Sooners" alias="Okla"/>
+     <team-city city="Oklahoma"/>
+     <team-code id="24" global-id="3430"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="5" votes="1171" first-place="0"/>
+     <previous-rank rank="4"/>
+     <last-opponent location="away" team-score="24" opponent-score="7" overtime="false">
+      <college-name name="UTEP"/>
+      <college-code id="95"/>
+      <team-name name="Miners" alias="UTEP"/>
+      <team-city city="UTEP"/>
+      <team-code id="95" global-id="3500"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Florida A&amp;M"/>
+      <college-code id="145"/>
+      <team-name name="Rattlers" alias="FlaA&amp;M"/>
+      <team-city city="Florida A&amp;M"/>
+      <team-code id="145" global-id="3550"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Florida State"/>
+     <college-code id="3"/>
+     <team-name name="Seminoles" alias="FlaSt"/>
+     <team-city city="Florida State"/>
+     <team-code id="3" global-id="3409"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="6" votes="1144" first-place="0"/>
+     <previous-rank rank="7"/>
+     <last-opponent location="home" team-score="69" opponent-score="3" overtime="false">
+      <college-name name="Murray State"/>
+      <college-code id="154"/>
+      <team-name name="Racers" alias="Murray"/>
+      <team-city city="Murray State"/>
+      <team-code id="154" global-id="3559"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Savannah State"/>
+      <college-code id="363"/>
+      <team-name name="Tigers" alias="Savan"/>
+      <team-city city="Savannah State"/>
+      <team-code id="363" global-id="3763"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Georgia"/>
+     <college-code id="68"/>
+     <team-name name="Bulldogs" alias="UGa"/>
+     <team-city city="Georgia"/>
+     <team-code id="68" global-id="3473"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="7" votes="1092" first-place="0"/>
+     <previous-rank rank="6"/>
+     <last-opponent location="home" team-score="45" opponent-score="23" overtime="false">
+      <college-name name="Buffalo"/>
+      <college-code id="208"/>
+      <team-name name="Bulls" alias="Buff"/>
+      <team-city city="Buffalo"/>
+      <team-code id="208" global-id="3613"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Missouri"/>
+      <college-code id="22"/>
+      <team-name name="Tigers" alias="Missou"/>
+      <team-city city="Missouri"/>
+      <team-code id="22" global-id="3428"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="West Virginia"/>
+     <college-code id="17"/>
+     <team-name name="Mountaineers" alias="WVU"/>
+     <team-city city="West Virginia"/>
+     <team-code id="17" global-id="3423"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="8" votes="1032" first-place="0"/>
+     <previous-rank rank="11"/>
+     <last-opponent location="home" team-score="69" opponent-score="34" overtime="false">
+      <college-name name="Marshall"/>
+      <college-code id="176"/>
+      <team-name name="Thundering Herd" alias="Marsh"/>
+      <team-city city="Marshall"/>
+      <team-code id="176" global-id="3581"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="James Madison"/>
+      <college-code id="196"/>
+      <team-name name="Dukes" alias="JMU"/>
+      <team-city city="James Madison"/>
+      <team-code id="196" global-id="3601"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="South Carolina"/>
+     <college-code id="70"/>
+     <team-name name="Gamecocks" alias="SC"/>
+     <team-city city="South Carolina"/>
+     <team-code id="70" global-id="3475"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="9" votes="943" first-place="0"/>
+     <previous-rank rank="9"/>
+     <last-opponent location="away" team-score="17" opponent-score="13" overtime="false">
+      <college-name name="Vanderbilt"/>
+      <college-code id="72"/>
+      <team-name name="Commodores" alias="Vandy"/>
+      <team-city city="Vanderbilt"/>
+      <team-code id="72" global-id="3477"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="East Carolina"/>
+      <college-code id="99"/>
+      <team-name name="Pirates" alias="ECU"/>
+      <team-city city="East Carolina"/>
+      <team-code id="99" global-id="3504"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Arkansas"/>
+     <college-code id="74"/>
+     <team-name name="Razorbacks" alias="Ark"/>
+     <team-city city="Arkansas"/>
+     <team-code id="74" global-id="3479"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="10" votes="929" first-place="0"/>
+     <previous-rank rank="10"/>
+     <last-opponent location="home" team-score="49" opponent-score="24" overtime="false">
+      <college-name name="Jacksonville State"/>
+      <college-code id="247"/>
+      <team-name name="Gamecocks" alias="JacSt"/>
+      <team-city city="Jacksonville State"/>
+      <team-code id="247" global-id="3650"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Louisiana-Monroe"/>
+      <college-code id="103"/>
+      <team-name name="Warhawks" alias="UL-Mon"/>
+      <team-city city="Louisiana-Monroe"/>
+      <team-code id="103" global-id="3508"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Michigan State"/>
+     <college-code id="30"/>
+     <team-name name="Spartans" alias="MSU"/>
+     <team-city city="Michigan State"/>
+     <team-code id="30" global-id="3436"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="11" votes="868" first-place="0"/>
+     <previous-rank rank="13"/>
+     <last-opponent location="home" team-score="17" opponent-score="13" overtime="false">
+      <college-name name="Boise State"/>
+      <college-code id="112"/>
+      <team-name name="Broncos" alias="Boise"/>
+      <team-city city="Boise State"/>
+      <team-code id="112" global-id="3517"/>
+      <team-rank rank="25"/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Central Michigan"/>
+      <college-code id="50"/>
+      <team-name name="Chippewas" alias="CentMi"/>
+      <team-city city="Central Michigan"/>
+      <team-code id="50" global-id="3455"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Clemson"/>
+     <college-code id="1"/>
+     <team-name name="Tigers" alias="Clem"/>
+     <team-city city="Clemson"/>
+     <team-code id="1" global-id="3407"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="12" votes="826" first-place="0"/>
+     <previous-rank rank="14"/>
+     <last-opponent location="away" team-score="26" opponent-score="19" overtime="false">
+      <college-name name="Auburn"/>
+      <college-code id="75"/>
+      <team-name name="Tigers" alias="Auburn"/>
+      <team-city city="Auburn"/>
+      <team-code id="75" global-id="3480"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Ball State"/>
+      <college-code id="48"/>
+      <team-name name="Cardinals" alias="BallSt"/>
+      <team-city city="Ball State"/>
+      <team-code id="48" global-id="3453"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Wisconsin"/>
+     <college-code id="36"/>
+     <team-name name="Badgers" alias="Wisc"/>
+     <team-city city="Wisconsin"/>
+     <team-code id="36" global-id="3442"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="13" votes="719" first-place="0"/>
+     <previous-rank rank="12"/>
+     <last-opponent location="home" team-score="26" opponent-score="21" overtime="false">
+      <college-name name="Northern Iowa"/>
+      <college-code id="123"/>
+      <team-name name="Panthers" alias="NoIa"/>
+      <team-city city="Northern Iowa"/>
+      <team-code id="123" global-id="3528"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Oregon State"/>
+      <college-code id="61"/>
+      <team-name name="Beavers" alias="OreSt"/>
+      <team-city city="Oregon State"/>
+      <team-code id="61" global-id="3466"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Nebraska"/>
+     <college-code id="23"/>
+     <team-name name="Cornhuskers" alias="Neb"/>
+     <team-city city="Nebraska"/>
+     <team-code id="23" global-id="3429"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="14" votes="652" first-place="0"/>
+     <previous-rank rank="16"/>
+     <last-opponent location="home" team-score="49" opponent-score="20" overtime="false">
+      <college-name name="Southern Miss"/>
+      <college-code id="105"/>
+      <team-name name="Golden Eagles" alias="SouMis"/>
+      <team-city city="Southern Miss"/>
+      <team-code id="105" global-id="3510"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="UCLA"/>
+      <college-code id="64"/>
+      <team-name name="Bruins" alias="UCLA"/>
+      <team-city city="UCLA"/>
+      <team-code id="64" global-id="3469"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Texas"/>
+     <college-code id="83"/>
+     <team-name name="Longhorns" alias="Tex"/>
+     <team-city city="Texas"/>
+     <team-code id="83" global-id="3488"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="15" votes="600" first-place="0"/>
+     <previous-rank rank="15"/>
+     <last-opponent location="home" team-score="37" opponent-score="17" overtime="false">
+      <college-name name="Wyoming"/>
+      <college-code id="96"/>
+      <team-name name="Cowboys" alias="Wyo"/>
+      <team-city city="Wyoming"/>
+      <team-code id="96" global-id="3501"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="New Mexico"/>
+      <college-code id="92"/>
+      <team-name name="Lobos" alias="NM"/>
+      <team-city city="New Mexico"/>
+      <team-code id="92" global-id="3497"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Oklahoma State"/>
+     <college-code id="25"/>
+     <team-name name="Cowboys" alias="OkSt"/>
+     <team-city city="Oklahoma State"/>
+     <team-code id="25" global-id="3431"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="16" votes="595" first-place="0"/>
+     <previous-rank rank="19"/>
+     <last-opponent location="home" team-score="84" opponent-score="0" overtime="false">
+      <college-name name="Savannah State"/>
+      <college-code id="363"/>
+      <team-name name="Tigers" alias="Savan"/>
+      <team-city city="Savannah State"/>
+      <team-code id="363" global-id="3763"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Arizona"/>
+      <college-code id="57"/>
+      <team-name name="Wildcats" alias="Ari"/>
+      <team-city city="Arizona"/>
+      <team-code id="57" global-id="3462"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="TCU"/>
+     <college-code id="85"/>
+     <team-name name="Horned Frogs" alias="TCU"/>
+     <team-city city="TCU"/>
+     <team-code id="85" global-id="3490"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="17" votes="479" first-place="0"/>
+     <previous-rank rank="17"/>
+     <next-opponent location="home">
+      <college-name name="Grambling State"/>
+      <college-code id="189"/>
+      <team-name name="Tigers" alias="Gram"/>
+      <team-city city="Grambling State"/>
+      <team-code id="189" global-id="3594"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Virginia Tech"/>
+     <college-code id="16"/>
+     <team-name name="Hokies" alias="VaTech"/>
+     <team-city city="Virginia Tech"/>
+     <team-code id="16" global-id="3422"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="18" votes="476" first-place="0"/>
+     <previous-rank rank="20"/>
+     <last-opponent location="home" team-score="20" opponent-score="17" overtime="true">
+      <college-name name="Georgia Tech"/>
+      <college-code id="4"/>
+      <team-name name="Yellow Jackets" alias="GaTech"/>
+      <team-city city="Georgia Tech"/>
+      <team-code id="4" global-id="3410"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Austin Peay"/>
+      <college-code id="150"/>
+      <team-name name="Governors" alias="APSU"/>
+      <team-city city="Austin Peay"/>
+      <team-code id="150" global-id="3555"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Michigan"/>
+     <college-code id="29"/>
+     <team-name name="Wolverines" alias="Mich"/>
+     <team-city city="Michigan"/>
+     <team-code id="29" global-id="3435"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="19" votes="427" first-place="0"/>
+     <previous-rank rank="8"/>
+     <last-opponent location="away" team-score="14" opponent-score="41" overtime="false">
+      <college-name name="Alabama"/>
+      <college-code id="73"/>
+      <team-name name="Crimson Tide" alias="Ala"/>
+      <team-city city="Alabama"/>
+      <team-code id="73" global-id="3478"/>
+      <team-rank rank="1"/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Air Force"/>
+      <college-code id="87"/>
+      <team-name name="Falcons" alias="AF"/>
+      <team-city city="Air Force"/>
+      <team-code id="87" global-id="3492"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Kansas State"/>
+     <college-code id="21"/>
+     <team-name name="Wildcats" alias="KanSt"/>
+     <team-city city="Kansas State"/>
+     <team-code id="21" global-id="3427"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="20" votes="414" first-place="0"/>
+     <previous-rank rank="21"/>
+     <last-opponent location="home" team-score="51" opponent-score="9" overtime="false">
+      <college-name name="Missouri State"/>
+      <college-code id="125"/>
+      <team-name name="Bears" alias="MoStU"/>
+      <team-city city="Missouri State"/>
+      <team-code id="125" global-id="3530"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Miami (FL)"/>
+      <college-code id="11"/>
+      <team-name name="Hurricanes" alias="Mia-Fl"/>
+      <team-city city="Miami (FL)"/>
+      <team-code id="11" global-id="3417"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Stanford"/>
+     <college-code id="63"/>
+     <team-name name="Cardinal" alias="Stan"/>
+     <team-city city="Stanford"/>
+     <team-code id="63" global-id="3468"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="21" votes="324" first-place="0"/>
+     <previous-rank rank="18"/>
+     <last-opponent location="home" team-score="20" opponent-score="17" overtime="false">
+      <college-name name="San Jose State"/>
+      <college-code id="44"/>
+      <team-name name="Spartans" alias="SJSU"/>
+      <team-city city="San Jose State"/>
+      <team-code id="44" global-id="3449"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Duke"/>
+      <college-code id="2"/>
+      <team-name name="Blue Devils" alias="Duke"/>
+      <team-city city="Duke"/>
+      <team-code id="2" global-id="3408"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Notre Dame"/>
+     <college-code id="104"/>
+     <team-name name="Fighting Irish" alias="ND"/>
+     <team-city city="Notre Dame"/>
+     <team-code id="104" global-id="3509"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="22" votes="252" first-place="0"/>
+     <previous-rank rank="24"/>
+     <last-opponent location="away" team-score="50" opponent-score="10" overtime="false">
+      <college-name name="Navy"/>
+      <college-code id="102"/>
+      <team-name name="Midshipmen" alias="Navy"/>
+      <team-city city="Navy"/>
+      <team-code id="102" global-id="3507"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Purdue"/>
+      <college-code id="35"/>
+      <team-name name="Boilermakers" alias="Purdue"/>
+      <team-city city="Purdue"/>
+      <team-code id="35" global-id="3441"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Florida"/>
+     <college-code id="67"/>
+     <team-name name="Gators" alias="Fla"/>
+     <team-city city="Florida"/>
+     <team-code id="67" global-id="3472"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="23" votes="204" first-place="0"/>
+     <previous-rank rank="23"/>
+     <last-opponent location="home" team-score="27" opponent-score="14" overtime="false">
+      <college-name name="Bowling Green"/>
+      <college-code id="49"/>
+      <team-name name="Falcons" alias="BGSU"/>
+      <team-city city="Bowling Green"/>
+      <team-code id="49" global-id="3454"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Texas A&amp;M"/>
+      <college-code id="84"/>
+      <team-name name="Aggies" alias="TexA&amp;M"/>
+      <team-city city="Texas A&amp;M"/>
+      <team-code id="84" global-id="3489"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Louisville"/>
+     <college-code id="100"/>
+     <team-name name="Cardinals" alias="Lou"/>
+     <team-city city="Louisville"/>
+     <team-code id="100" global-id="3505"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="24" votes="109" first-place="0"/>
+     <previous-rank rank="27"/>
+     <last-opponent location="home" team-score="32" opponent-score="14" overtime="false">
+      <college-name name="Kentucky"/>
+      <college-code id="69"/>
+      <team-name name="Wildcats" alias="Kty"/>
+      <team-city city="Kentucky"/>
+      <team-code id="69" global-id="3474"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Missouri State"/>
+      <college-code id="125"/>
+      <team-name name="Bears" alias="MoStU"/>
+      <team-city city="Missouri State"/>
+      <team-code id="125" global-id="3530"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Boise State"/>
+     <college-code id="112"/>
+     <team-name name="Broncos" alias="Boise"/>
+     <team-city city="Boise State"/>
+     <team-code id="112" global-id="3517"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="25" votes="82" first-place="0"/>
+     <previous-rank rank="22"/>
+     <last-opponent location="away" team-score="13" opponent-score="17" overtime="false">
+      <college-name name="Michigan State"/>
+      <college-code id="30"/>
+      <team-name name="Spartans" alias="MSU"/>
+      <team-city city="Michigan State"/>
+      <team-code id="30" global-id="3436"/>
+      <team-rank rank="11"/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Miami (OH)"/>
+      <college-code id="53"/>
+      <team-name name="RedHawks" alias="Mia-O"/>
+      <team-city city="Miami (OH)"/>
+      <team-code id="53" global-id="3458"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Washington"/>
+     <college-code id="65"/>
+     <team-name name="Huskies" alias="Wash"/>
+     <team-city city="Washington"/>
+     <team-code id="65" global-id="3470"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="26" votes="55" first-place="0"/>
+     <previous-rank rank="26"/>
+     <last-opponent location="home" team-score="21" opponent-score="12" overtime="false">
+      <college-name name="San Diego State"/>
+      <college-code id="93"/>
+      <team-name name="Aztecs" alias="SDSU"/>
+      <team-city city="San Diego State"/>
+      <team-code id="93" global-id="3498"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="LSU"/>
+      <college-code id="76"/>
+      <team-name name="Tigers" alias="LSU"/>
+      <team-city city="LSU"/>
+      <team-code id="76" global-id="3481"/>
+      <team-rank rank="3"/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Brigham Young"/>
+     <college-code id="88"/>
+     <team-name name="Cougars" alias="BYU"/>
+     <team-city city="Brigham Young"/>
+     <team-code id="88" global-id="3493"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="27" votes="41" first-place="0"/>
+     <previous-rank rank="36"/>
+     <last-opponent location="home" team-score="30" opponent-score="6" overtime="false">
+      <college-name name="Washington State"/>
+      <college-code id="66"/>
+      <team-name name="Cougars" alias="WashSt"/>
+      <team-city city="Washington State"/>
+      <team-code id="66" global-id="3471"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Weber State"/>
+      <college-code id="119"/>
+      <team-name name="Wildcats" alias="Web"/>
+      <team-city city="Weber State"/>
+      <team-code id="119" global-id="3524"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Baylor"/>
+     <college-code id="79"/>
+     <team-name name="Bears" alias="Baylor"/>
+     <team-city city="Baylor"/>
+     <team-code id="79" global-id="3484"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="28" votes="39" first-place="0"/>
+     <previous-rank rank="31"/>
+     <last-opponent location="home" team-score="59" opponent-score="24" overtime="false">
+      <college-name name="Southern Methodist"/>
+      <college-code id="82"/>
+      <team-name name="Mustangs" alias="SMU"/>
+      <team-city city="Southern Methodist"/>
+      <team-code id="82" global-id="3487"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Sam Houston State"/>
+      <college-code id="184"/>
+      <team-name name="Bearkats" alias="SamHou"/>
+      <team-city city="Sam Houston State"/>
+      <team-code id="184" global-id="3589"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Tennessee"/>
+     <college-code id="71"/>
+     <team-name name="Volunteers" alias="Tenn"/>
+     <team-city city="Tennessee"/>
+     <team-code id="71" global-id="3476"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="29" votes="29" first-place="0"/>
+     <previous-rank rank="43"/>
+     <last-opponent location="away" team-score="35" opponent-score="21" overtime="false">
+      <college-name name="North Carolina State"/>
+      <college-code id="7"/>
+      <team-name name="Wolfpack" alias="NCSU"/>
+      <team-city city="North Carolina State"/>
+      <team-code id="7" global-id="3413"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Georgia State"/>
+      <college-code id="690"/>
+      <team-name name="Panthers" alias="GaSt"/>
+      <team-city city="Georgia State"/>
+      <team-code id="2558" global-id="23171"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Utah"/>
+     <college-code id="94"/>
+     <team-name name="Utes" alias="Utah"/>
+     <team-city city="Utah"/>
+     <team-code id="94" global-id="3499"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="30" votes="20" first-place="0"/>
+     <previous-rank rank="32"/>
+     <last-opponent location="home" team-score="41" opponent-score="0" overtime="false">
+      <college-name name="Northern Colorado"/>
+      <college-code id="310"/>
+      <team-name name="Bears" alias="NoCol"/>
+      <team-city city="Northern Colorado"/>
+      <team-code id="310" global-id="3710"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Utah State"/>
+      <college-code id="46"/>
+      <team-name name="Aggies" alias="UtahSt"/>
+      <team-city city="Utah State"/>
+      <team-code id="46" global-id="3451"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Auburn"/>
+     <college-code id="75"/>
+     <team-name name="Tigers" alias="Auburn"/>
+     <team-city city="Auburn"/>
+     <team-code id="75" global-id="3480"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="31" votes="18" first-place="0"/>
+     <previous-rank rank="25"/>
+     <last-opponent location="home" team-score="19" opponent-score="26" overtime="false">
+      <college-name name="Clemson"/>
+      <college-code id="1"/>
+      <team-name name="Tigers" alias="Clem"/>
+      <team-city city="Clemson"/>
+      <team-code id="1" global-id="3407"/>
+      <team-rank rank="12"/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Mississippi State"/>
+      <college-code id="78"/>
+      <team-name name="Bulldogs" alias="MissSt"/>
+      <team-city city="Mississippi State"/>
+      <team-code id="78" global-id="3483"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Georgia Tech"/>
+     <college-code id="4"/>
+     <team-name name="Yellow Jackets" alias="GaTech"/>
+     <team-city city="Georgia Tech"/>
+     <team-code id="4" global-id="3410"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="32" votes="16" first-place="0"/>
+     <previous-rank rank="28"/>
+     <last-opponent location="away" team-score="17" opponent-score="20" overtime="true">
+      <college-name name="Virginia Tech"/>
+      <college-code id="16"/>
+      <team-name name="Hokies" alias="VaTech"/>
+      <team-city city="Virginia Tech"/>
+      <team-code id="16" global-id="3422"/>
+      <team-rank rank="18"/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Presbyterian"/>
+      <college-code id="354"/>
+      <team-name name="Blue Hose" alias="PRESBY"/>
+      <team-city city="Presbyterian"/>
+      <team-code id="354" global-id="3754"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Missouri"/>
+     <college-code id="22"/>
+     <team-name name="Tigers" alias="Mizzou"/>
+     <team-city city="Missouri"/>
+     <team-code id="22" global-id="3428"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="32" votes="16" first-place="0"/>
+     <previous-rank rank="43"/>
+     <last-opponent location="home" team-score="62" opponent-score="10" overtime="false">
+      <college-name name="Southeastern Louisiana"/>
+      <college-code id="692"/>
+      <team-name name="Lions" alias="SELa"/>
+      <team-city city="Southeastern Louisiana"/>
+      <team-code id="2234" global-id="5139"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Georgia"/>
+      <college-code id="68"/>
+      <team-name name="Bulldogs" alias="UGa"/>
+      <team-city city="Georgia"/>
+      <team-code id="68" global-id="3473"/>
+      <team-rank rank="7"/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Texas A&amp;M"/>
+     <college-code id="84"/>
+     <team-name name="Aggies" alias="TexA&amp;M"/>
+     <team-city city="Texas A&amp;M"/>
+     <team-code id="84" global-id="3489"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="34" votes="13" first-place="0"/>
+     <previous-rank rank="30"/>
+     <next-opponent location="home">
+      <college-name name="Florida"/>
+      <college-code id="67"/>
+      <team-name name="Gators" alias="Fla"/>
+      <team-city city="Florida"/>
+      <team-code id="67" global-id="3472"/>
+      <team-rank rank="23"/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="South Florida"/>
+     <college-code id="655"/>
+     <team-name name="Bulls" alias="SoFla"/>
+     <team-city city="South Florida"/>
+     <team-code id="1019" global-id="4009"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="35" votes="12" first-place="0"/>
+     <previous-rank rank="34"/>
+     <last-opponent location="home" team-score="34" opponent-score="13" overtime="false">
+      <college-name name="Chattanooga"/>
+      <college-code id="177"/>
+      <team-name name="Mocs" alias="Chat"/>
+      <team-city city="Chattanooga"/>
+      <team-code id="177" global-id="3582"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Nevada"/>
+      <college-code id="39"/>
+      <team-name name="Wolf Pack" alias="Nevada"/>
+      <team-city city="Nevada"/>
+      <team-code id="39" global-id="3445"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Ohio"/>
+     <college-code id="54"/>
+     <team-name name="Bobcats" alias="Ohio"/>
+     <team-city city="Ohio"/>
+     <team-code id="54" global-id="3459"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="36" votes="11" first-place="0"/>
+     <previous-rank rank="0"/>
+     <last-opponent location="away" team-score="24" opponent-score="14" overtime="false">
+      <college-name name="Penn State"/>
+      <college-code id="34"/>
+      <team-name name="Nittany Lions" alias="PSU"/>
+      <team-city city="Penn State"/>
+      <team-code id="34" global-id="3440"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="New Mexico State"/>
+      <college-code id="41"/>
+      <team-name name="Aggies" alias="NMSt"/>
+      <team-city city="New Mexico State"/>
+      <team-code id="41" global-id="3447"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="UCF"/>
+     <college-code id="210"/>
+     <team-name name="Knights" alias="UCF"/>
+     <team-city city="UCF"/>
+     <team-code id="210" global-id="3615"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="36" votes="11" first-place="0"/>
+     <previous-rank rank="41"/>
+     <last-opponent location="away" team-score="56" opponent-score="14" overtime="false">
+      <college-name name="Akron"/>
+      <college-code id="47"/>
+      <team-name name="Zips" alias="Akron"/>
+      <team-city city="Akron"/>
+      <team-code id="47" global-id="3452"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Ohio State"/>
+      <college-code id="33"/>
+      <team-name name="Buckeyes" alias="OhioSt"/>
+      <team-city city="Ohio State"/>
+      <team-code id="33" global-id="3439"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Mississippi State"/>
+     <college-code id="78"/>
+     <team-name name="Bulldogs" alias="MissSt"/>
+     <team-city city="Mississippi State"/>
+     <team-code id="78" global-id="3483"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="38" votes="10" first-place="0"/>
+     <previous-rank rank="33"/>
+     <last-opponent location="home" team-score="56" opponent-score="9" overtime="false">
+      <college-name name="Jackson State"/>
+      <college-code id="190"/>
+      <team-name name="Tigers" alias="JkSt"/>
+      <team-city city="Jackson State"/>
+      <team-code id="190" global-id="3595"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Auburn"/>
+      <college-code id="75"/>
+      <team-name name="Tigers" alias="Auburn"/>
+      <team-city city="Auburn"/>
+      <team-code id="75" global-id="3480"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Cincinnati"/>
+     <college-code id="98"/>
+     <team-name name="Bearcats" alias="Cin"/>
+     <team-city city="Cincinnati"/>
+     <team-code id="98" global-id="3503"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="38" votes="10" first-place="0"/>
+     <previous-rank rank="29"/>
+     <next-opponent location="home">
+      <college-name name="Pittsburgh"/>
+      <college-code id="12"/>
+      <team-name name="Panthers" alias="Pitt"/>
+      <team-city city="Pittsburgh"/>
+      <team-code id="12" global-id="3418"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Virginia"/>
+     <college-code id="8"/>
+     <team-name name="Cavaliers" alias="UVa"/>
+     <team-city city="Virginia"/>
+     <team-code id="8" global-id="3414"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="40" votes="7" first-place="0"/>
+     <previous-rank rank="38"/>
+     <last-opponent location="home" team-score="43" opponent-score="19" overtime="false">
+      <college-name name="Richmond"/>
+      <college-code id="198"/>
+      <team-name name="Spiders" alias="Rich"/>
+      <team-city city="Richmond"/>
+      <team-code id="198" global-id="3603"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Penn State"/>
+      <college-code id="34"/>
+      <team-name name="Nittany Lions" alias="PSU"/>
+      <team-city city="Penn State"/>
+      <team-code id="34" global-id="3440"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Louisiana Tech"/>
+     <college-code id="38"/>
+     <team-name name="Bulldogs" alias="LaTech"/>
+     <team-city city="Louisiana Tech"/>
+     <team-code id="38" global-id="3444"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="41" votes="6" first-place="0"/>
+     <previous-rank rank="36"/>
+     <next-opponent location="away">
+      <college-name name="Houston"/>
+      <college-code id="80"/>
+      <team-name name="Cougars" alias="Hou"/>
+      <team-city city="Houston"/>
+      <team-code id="80" global-id="3485"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Arizona"/>
+     <college-code id="57"/>
+     <team-name name="Wildcats" alias="Ari"/>
+     <team-city city="Arizona"/>
+     <team-code id="57" global-id="3462"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="41" votes="6" first-place="0"/>
+     <previous-rank rank="0"/>
+     <last-opponent location="home" team-score="24" opponent-score="17" overtime="true">
+      <college-name name="Toledo"/>
+      <college-code id="55"/>
+      <team-name name="Rockets" alias="Toledo"/>
+      <team-city city="Toledo"/>
+      <team-code id="55" global-id="3460"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Oklahoma State"/>
+      <college-code id="25"/>
+      <team-name name="Cowboys" alias="OkSt"/>
+      <team-city city="Oklahoma State"/>
+      <team-code id="25" global-id="3431"/>
+      <team-rank rank="16"/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Nevada"/>
+     <college-code id="39"/>
+     <team-name name="Wolf Pack" alias="Nevada"/>
+     <team-city city="Nevada"/>
+     <team-code id="39" global-id="3445"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="43" votes="5" first-place="0"/>
+     <previous-rank rank="0"/>
+     <last-opponent location="away" team-score="31" opponent-score="24" overtime="false">
+      <college-name name="California"/>
+      <college-code id="59"/>
+      <team-name name="Golden Bears" alias="Cal"/>
+      <team-city city="California"/>
+      <team-code id="59" global-id="3464"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="South Florida"/>
+      <college-code id="655"/>
+      <team-name name="Bulls" alias="SoFla"/>
+      <team-city city="South Florida"/>
+      <team-code id="1019" global-id="4009"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Vanderbilt"/>
+     <college-code id="72"/>
+     <team-name name="Commodores" alias="Vandy"/>
+     <team-city city="Vanderbilt"/>
+     <team-code id="72" global-id="3477"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="44" votes="3" first-place="0"/>
+     <previous-rank rank="0"/>
+     <last-opponent location="home" team-score="13" opponent-score="17" overtime="false">
+      <college-name name="South Carolina"/>
+      <college-code id="70"/>
+      <team-name name="Gamecocks" alias="SC"/>
+      <team-city city="South Carolina"/>
+      <team-code id="70" global-id="3475"/>
+      <team-rank rank="9"/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Northwestern"/>
+      <college-code id="32"/>
+      <team-name name="Wildcats" alias="NW"/>
+      <team-city city="Northwestern"/>
+      <team-code id="32" global-id="3438"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Rutgers"/>
+     <college-code id="13"/>
+     <team-name name="Scarlet Knights" alias="Rut"/>
+     <team-city city="Rutgers"/>
+     <team-code id="13" global-id="3419"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="45" votes="1" first-place="0"/>
+     <previous-rank rank="41"/>
+     <last-opponent location="away" team-score="24" opponent-score="12" overtime="false">
+      <college-name name="Tulane"/>
+      <college-code id="106"/>
+      <team-name name="Green Wave" alias="Tulane"/>
+      <team-city city="Tulane"/>
+      <team-code id="106" global-id="3511"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Howard"/>
+      <college-code id="146"/>
+      <team-name name="Bison" alias="Howard"/>
+      <team-city city="Howard"/>
+      <team-code id="146" global-id="3551"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Northwestern"/>
+     <college-code id="32"/>
+     <team-name name="Wildcats" alias="NW"/>
+     <team-city city="Northwestern"/>
+     <team-code id="32" global-id="3438"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="45" votes="1" first-place="0"/>
+     <previous-rank rank="0"/>
+     <last-opponent location="away" team-score="42" opponent-score="41" overtime="false">
+      <college-name name="Syracuse"/>
+      <college-code id="14"/>
+      <team-name name="Orange" alias="Syr"/>
+      <team-city city="Syracuse"/>
+      <team-code id="14" global-id="3420"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Vanderbilt"/>
+      <college-code id="72"/>
+      <team-name name="Commodores" alias="Vandy"/>
+      <team-city city="Vanderbilt"/>
+      <team-code id="72" global-id="3477"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Texas Tech"/>
+     <college-code id="86"/>
+     <team-name name="Red Raiders" alias="TxTch"/>
+     <team-city city="Texas Tech"/>
+     <team-code id="86" global-id="3491"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="45" votes="1" first-place="0"/>
+     <previous-rank rank="47"/>
+     <last-opponent location="home" team-score="44" opponent-score="6" overtime="false">
+      <college-name name="Northwestern State"/>
+      <college-code id="183"/>
+      <team-name name="Demons" alias="NWSt"/>
+      <team-city city="Northwestern State"/>
+      <team-code id="183" global-id="3588"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Texas State"/>
+      <college-code id="185"/>
+      <team-name name="Bobcats" alias="TxSt"/>
+      <team-city city="Texas State"/>
+      <team-code id="185" global-id="3590"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+   </cfb-poll>
+   <cfb-poll division-id="2" division="Championship Subdivision" org-id="13" organization="FCS Coaches Poll">
+   <poll-date year="2012" month="9" date="3" day="2"/>
+    <cfb-team-rankings>
+     <college-name name="North Dakota State"/>
+     <college-code id="309"/>
+     <team-name name="Bison" alias="NDAKST"/>
+     <team-city city="North Dakota State"/>
+     <team-code id="309" global-id="3709"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="1" votes="645" first-place="23"/>
+     <previous-rank rank="1"/>
+     <last-opponent location="home" team-score="52" opponent-score="0" overtime="false">
+      <college-name name="Robert Morris"/>
+      <college-code id="217"/>
+      <team-name name="Colonials" alias="RMor"/>
+      <team-city city="Robert Morris"/>
+      <team-code id="217" global-id="3621"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Colorado State"/>
+      <college-code id="89"/>
+      <team-name name="Rams" alias="ColoSt"/>
+      <team-city city="Colorado State"/>
+      <team-code id="89" global-id="3494"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Sam Houston State"/>
+     <college-code id="184"/>
+     <team-name name="Bearkats" alias="SamHou"/>
+     <team-city city="Sam Houston State"/>
+     <team-code id="184" global-id="3589"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="2" votes="611" first-place="2"/>
+     <previous-rank rank="2"/>
+     <next-opponent location="home">
+      <college-name name="Incarnate Word"/>
+      <college-code id="2199"/>
+      <team-name name="Cardinals" alias="IncWrd"/>
+      <team-city city="Incarnate Word"/>
+      <team-code id="2539" global-id="12710"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Georgia Southern"/>
+     <college-code id="175"/>
+     <team-name name="Eagles" alias="GaSo"/>
+     <team-city city="Georgia Southern"/>
+     <team-code id="175" global-id="3580"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="3" votes="597" first-place="0"/>
+     <previous-rank rank="3"/>
+     <last-opponent location="home" team-score="58" opponent-score="0" overtime="false">
+      <college-name name="Jacksonville"/>
+      <college-code id="680"/>
+      <team-name name="Dolphins" alias="Jac"/>
+      <team-city city="Jacksonville"/>
+      <team-code id="2001" global-id="4937"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Citadel"/>
+      <college-code id="172"/>
+      <team-name name="Bulldogs" alias="Cit"/>
+      <team-city city="Citadel"/>
+      <team-code id="172" global-id="3577"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Montana State"/>
+     <college-code id="117"/>
+     <team-name name="Bobcats" alias="MontSt"/>
+     <team-city city="Montana State"/>
+     <team-code id="117" global-id="3522"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="4" votes="518" first-place="0"/>
+     <previous-rank rank="4"/>
+     <last-opponent location="home" team-score="33" opponent-score="6" overtime="false">
+      <college-name name="Chadron State"/>
+      <college-code id="340"/>
+      <team-name name="Eagles" alias="CHADRO"/>
+      <team-city city="Chadron State"/>
+      <team-code id="340" global-id="3740"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Drake"/>
+      <college-code id="167"/>
+      <team-name name="Bulldogs" alias="Drake"/>
+      <team-city city="Drake"/>
+      <team-code id="167" global-id="3572"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Old Dominion"/>
+     <college-code id="649"/>
+     <team-name name="Monarchs" alias="ODU"/>
+     <team-city city="Old Dominion"/>
+     <team-code id="2371" global-id="11973"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="5" votes="498" first-place="0"/>
+     <previous-rank rank="6"/>
+     <last-opponent location="home" team-score="57" opponent-score="23" overtime="false">
+      <college-name name="Duquesne"/>
+      <college-code id="136"/>
+      <team-name name="Dukes" alias="Duq"/>
+      <team-city city="Duquesne"/>
+      <team-code id="136" global-id="3541"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Hampton"/>
+      <college-code id="229"/>
+      <team-name name="Pirates" alias="Hamp"/>
+      <team-city city="Hampton"/>
+      <team-code id="229" global-id="3633"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="James Madison"/>
+     <college-code id="196"/>
+     <team-name name="Dukes" alias="JMU"/>
+     <team-city city="James Madison"/>
+     <team-code id="196" global-id="3601"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="6" votes="469" first-place="0"/>
+     <previous-rank rank="8"/>
+     <last-opponent location="home" team-score="55" opponent-score="7" overtime="false">
+      <college-name name="St. Francis (PA)"/>
+      <college-code id="219"/>
+      <team-name name="Red Flash" alias="StF-Pa"/>
+      <team-city city="St. Francis (PA)"/>
+      <team-code id="219" global-id="3623"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Alcorn State"/>
+      <college-code id="188"/>
+      <team-name name="Braves" alias="Alc"/>
+      <team-city city="Alcorn State"/>
+      <team-code id="188" global-id="3593"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Northern Iowa"/>
+     <college-code id="123"/>
+     <team-name name="Panthers" alias="NoIa"/>
+     <team-city city="Northern Iowa"/>
+     <team-code id="123" global-id="3528"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="7" votes="466" first-place="0"/>
+     <previous-rank rank="7"/>
+     <last-opponent location="away" team-score="21" opponent-score="26" overtime="false">
+      <college-name name="Wisconsin"/>
+      <college-code id="36"/>
+      <team-name name="Badgers" alias="Wisc"/>
+      <team-city city="Wisconsin"/>
+      <team-code id="36" global-id="3442"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Central State"/>
+      <college-code id="590"/>
+      <team-name name="Marauders" alias="CST"/>
+      <team-city city="Central State"/>
+      <team-code id="590" global-id="3971"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Appalachian State"/>
+     <college-code id="171"/>
+     <team-name name="Mountaineers" alias="App"/>
+     <team-city city="Appalachian State"/>
+     <team-code id="171" global-id="3576"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="8" votes="434" first-place="0"/>
+     <previous-rank rank="5"/>
+     <last-opponent location="away" team-score="13" opponent-score="35" overtime="false">
+      <college-name name="East Carolina"/>
+      <college-code id="99"/>
+      <team-name name="Pirates" alias="ECU"/>
+      <team-city city="East Carolina"/>
+      <team-code id="99" global-id="3504"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Montana"/>
+      <college-code id="116"/>
+      <team-name name="Grizzlies" alias="Mont"/>
+      <team-city city="Montana"/>
+      <team-code id="116" global-id="3521"/>
+      <team-rank rank="9"/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Montana"/>
+     <college-code id="116"/>
+     <team-name name="Grizzlies" alias="Mont"/>
+     <team-city city="Montana"/>
+     <team-code id="116" global-id="3521"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="9" votes="428" first-place="0"/>
+     <previous-rank rank="10"/>
+     <last-opponent location="home" team-score="35" opponent-score="24" overtime="false">
+      <college-name name="South Dakota"/>
+      <college-code id="311"/>
+      <team-name name="Coyotes" alias="SouDak"/>
+      <team-city city="South Dakota"/>
+      <team-code id="311" global-id="3711"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Appalachian State"/>
+      <college-code id="171"/>
+      <team-name name="Mountaineers" alias="App"/>
+      <team-city city="Appalachian State"/>
+      <team-code id="171" global-id="3576"/>
+      <team-rank rank="8"/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Youngstown State"/>
+     <college-code id="225"/>
+     <team-name name="Penguins" alias="YSU"/>
+     <team-city city="Youngstown State"/>
+     <team-code id="225" global-id="3629"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="10" votes="407" first-place="0"/>
+     <previous-rank rank="18"/>
+     <last-opponent location="away" team-score="31" opponent-score="17" overtime="false">
+      <college-name name="Pittsburgh"/>
+      <college-code id="12"/>
+      <team-name name="Panthers" alias="Pitt"/>
+      <team-city city="Pittsburgh"/>
+      <team-code id="12" global-id="3418"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Valparaiso"/>
+      <college-code id="170"/>
+      <team-name name="Crusaders" alias="Valpo"/>
+      <team-city city="Valparaiso"/>
+      <team-code id="170" global-id="3575"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Eastern Washington"/>
+     <college-code id="113"/>
+     <team-name name="Eagles" alias="EastWa"/>
+     <team-city city="Eastern Washington"/>
+     <team-code id="113" global-id="3518"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="11" votes="348" first-place="0"/>
+     <previous-rank rank="15"/>
+     <last-opponent location="away" team-score="20" opponent-score="3" overtime="false">
+      <college-name name="Idaho"/>
+      <college-code id="114"/>
+      <team-name name="Vandals" alias="Idaho"/>
+      <team-city city="Idaho"/>
+      <team-code id="114" global-id="3519"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Washington State"/>
+      <college-code id="66"/>
+      <team-name name="Cougars" alias="WashSt"/>
+      <team-city city="Washington State"/>
+      <team-code id="66" global-id="3471"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="New Hampshire"/>
+     <college-code id="205"/>
+     <team-name name="Wildcats" alias="UNH"/>
+     <team-city city="New Hampshire"/>
+     <team-code id="205" global-id="3610"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="12" votes="346" first-place="0"/>
+     <previous-rank rank="12"/>
+     <last-opponent location="away" team-score="38" opponent-score="17" overtime="false">
+      <college-name name="Holy Cross"/>
+      <college-code id="162"/>
+      <team-name name="Crusaders" alias="HolyCr"/>
+      <team-city city="Holy Cross"/>
+      <team-code id="162" global-id="3567"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Minnesota"/>
+      <college-code id="31"/>
+      <team-name name="Golden Gophers" alias="Minn"/>
+      <team-city city="Minnesota"/>
+      <team-code id="31" global-id="3437"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Wofford"/>
+     <college-code id="267"/>
+     <team-name name="Terriers" alias="Wof"/>
+     <team-city city="Wofford"/>
+     <team-code id="267" global-id="3670"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="13" votes="336" first-place="0"/>
+     <previous-rank rank="13"/>
+     <last-opponent location="away" team-score="34" opponent-score="7" overtime="false">
+      <college-name name="Gardner-Webb"/>
+      <college-code id="351"/>
+      <team-name name="Runnin' Bulldogs" alias="G-Webb"/>
+      <team-city city="Gardner-Webb"/>
+      <team-code id="351" global-id="3751"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Lincoln"/>
+      <college-code id="756"/>
+      <team-name name="Lions" alias="Lincol"/>
+      <team-city city="Lincoln University (PA)"/>
+      <team-code id="2467" global-id="12553"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Lehigh"/>
+     <college-code id="164"/>
+     <team-name name="Mountain Hawks" alias="Lehigh"/>
+     <team-city city="Lehigh"/>
+     <team-code id="164" global-id="3569"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="14" votes="328" first-place="0"/>
+     <previous-rank rank="11"/>
+     <last-opponent location="home" team-score="27" opponent-score="17" overtime="false">
+      <college-name name="Monmouth"/>
+      <college-code id="216"/>
+      <team-name name="Hawks" alias="Monm"/>
+      <team-city city="Monmouth"/>
+      <team-code id="216" global-id="3620"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Central Connecticut State"/>
+      <college-code id="209"/>
+      <team-name name="Blue Devils" alias="CentCt"/>
+      <team-city city="Central Connecticut State"/>
+      <team-code id="209" global-id="3614"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Delaware"/>
+     <college-code id="195"/>
+     <team-name name="Blue Hens" alias="Del"/>
+     <team-city city="Delaware"/>
+     <team-code id="195" global-id="3600"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="15" votes="300" first-place="0"/>
+     <previous-rank rank="14"/>
+     <last-opponent location="home" team-score="41" opponent-score="21" overtime="false">
+      <college-name name="West Chester"/>
+      <college-code id="338"/>
+      <team-name name="Golden Rams" alias="WCHEST"/>
+      <team-city city="West Chester"/>
+      <team-code id="338" global-id="3738"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Delaware State"/>
+      <college-code id="144"/>
+      <team-name name="Hornets" alias="DelSt"/>
+      <team-city city="Delaware State"/>
+      <team-code id="144" global-id="3549"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Towson"/>
+     <college-code id="221"/>
+     <team-name name="Tigers" alias="Towson"/>
+     <team-city city="Towson"/>
+     <team-code id="221" global-id="3625"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="16" votes="290" first-place="0"/>
+     <previous-rank rank="9"/>
+     <last-opponent location="away" team-score="21" opponent-score="41" overtime="false">
+      <college-name name="Kent State"/>
+      <college-code id="52"/>
+      <team-name name="Golden Flashes" alias="KentSt"/>
+      <team-city city="Kent State"/>
+      <team-code id="52" global-id="3457"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="William &amp; Mary"/>
+      <college-code id="200"/>
+      <team-name name="Tribe" alias="W&amp;M"/>
+      <team-city city="William &amp; Mary"/>
+      <team-code id="200" global-id="3605"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Stony Brook"/>
+     <college-code id="700"/>
+     <team-name name="Seawolves" alias="StnyBr"/>
+     <team-city city="Stony Brook"/>
+     <team-code id="629" global-id="4006"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="17" votes="241" first-place="0"/>
+     <previous-rank rank="17"/>
+     <last-opponent location="home" team-score="49" opponent-score="17" overtime="false">
+      <college-name name="Central Connecticut State"/>
+      <college-code id="209"/>
+      <team-name name="Blue Devils" alias="CentCt"/>
+      <team-city city="Central Connecticut State"/>
+      <team-code id="209" global-id="3614"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Pace"/>
+      <college-code id="256"/>
+      <team-name name="Setters" alias="PACE"/>
+      <team-city city="Pace"/>
+      <team-code id="256" global-id="3659"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Maine"/>
+     <college-code id="203"/>
+     <team-name name="Black Bears" alias="Maine"/>
+     <team-city city="Maine"/>
+     <team-code id="203" global-id="3608"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="18" votes="212" first-place="0"/>
+     <previous-rank rank="16"/>
+     <next-opponent location="away">
+      <college-name name="Boston College"/>
+      <college-code id="10"/>
+      <team-name name="Eagles" alias="BC"/>
+      <team-city city="Boston College"/>
+      <team-code id="10" global-id="3416"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Illinois State"/>
+     <college-code id="121"/>
+     <team-name name="Redbirds" alias="IllSt"/>
+     <team-city city="Illinois State"/>
+     <team-code id="121" global-id="3526"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="19" votes="157" first-place="0"/>
+     <previous-rank rank="20"/>
+     <last-opponent location="home" team-score="56" opponent-score="14" overtime="false">
+      <college-name name="Dayton"/>
+      <college-code id="166"/>
+      <team-name name="Flyers" alias="Dayton"/>
+      <team-city city="Dayton"/>
+      <team-code id="166" global-id="3571"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Eastern Michigan"/>
+      <college-code id="51"/>
+      <team-name name="Eagles" alias="EastMi"/>
+      <team-city city="Eastern Michigan"/>
+      <team-code id="51" global-id="3456"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Central Arkansas"/>
+     <college-code id="268"/>
+     <team-name name="Bears" alias="CenArk"/>
+     <team-city city="Central Arkansas"/>
+     <team-code id="268" global-id="3671"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="20" votes="109" first-place="0"/>
+     <previous-rank rank="19"/>
+     <last-opponent location="away" team-score="27" opponent-score="49" overtime="false">
+      <college-name name="Mississippi"/>
+      <college-code id="77"/>
+      <team-name name="Rebels" alias="Miss"/>
+      <team-city city="Mississippi"/>
+      <team-code id="77" global-id="3482"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Murray State"/>
+      <college-code id="154"/>
+      <team-name name="Racers" alias="Murray"/>
+      <team-city city="Murray State"/>
+      <team-code id="154" global-id="3559"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="McNeese State"/>
+     <college-code id="180"/>
+     <team-name name="Cowboys" alias="McNe"/>
+     <team-city city="McNeese State"/>
+     <team-code id="180" global-id="3585"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="21" votes="102" first-place="0"/>
+     <previous-rank rank="46"/>
+     <last-opponent location="away" team-score="27" opponent-score="21" overtime="false">
+      <college-name name="Middle Tennessee State"/>
+      <college-code id="152"/>
+      <team-name name="Blue Raiders" alias="MiddTn"/>
+      <team-city city="Middle Tennessee"/>
+      <team-code id="152" global-id="3557"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="McMurry"/>
+      <college-code id="368"/>
+      <team-name name="War Hawks" alias="MCMURR"/>
+      <team-city city="McMurry University"/>
+      <team-code id="368" global-id="3768"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Stephen F. Austin"/>
+     <college-code id="186"/>
+     <team-name name="Lumberjacks" alias="SFA"/>
+     <team-city city="Stephen F. Austin"/>
+     <team-code id="186" global-id="3591"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="21" votes="102" first-place="0"/>
+     <previous-rank rank="24"/>
+     <last-opponent location="home" team-score="49" opponent-score="14" overtime="false">
+      <college-name name="Southwestern Oklahoma"/>
+      <college-code id="1632"/>
+      <team-name name="Bulldogs" alias="SWOkla"/>
+      <team-city city="Southwestern Oklahoma State"/>
+      <team-code id="1814" global-id="4799"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Southern Methodist"/>
+      <college-code id="82"/>
+      <team-name name="Mustangs" alias="SMU"/>
+      <team-city city="Southern Methodist"/>
+      <team-code id="82" global-id="3487"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Harvard"/>
+     <college-code id="131"/>
+     <team-name name="Crimson" alias="Harv"/>
+     <team-city city="Harvard"/>
+     <team-code id="131" global-id="3536"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="23" votes="89" first-place="0"/>
+     <previous-rank rank="22"/>
+     <next-opponent location="home">
+      <college-name name="San Diego"/>
+      <college-code id="169"/>
+      <team-name name="Toreros" alias="SD"/>
+      <team-city city="San Diego"/>
+      <team-code id="169" global-id="3574"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Norfolk State"/>
+     <college-code id="233"/>
+     <team-name name="Spartans" alias="Nor"/>
+     <team-city city="Norfolk State"/>
+     <team-code id="233" global-id="3636"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="24" votes="82" first-place="0"/>
+     <previous-rank rank="23"/>
+     <last-opponent location="home" team-score="24" opponent-score="0" overtime="false">
+      <college-name name="Virginia State"/>
+      <college-code id="234"/>
+      <team-name name="Trojans" alias="VaSt"/>
+      <team-city city="Virginia State"/>
+      <team-code id="234" global-id="3637"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Liberty"/>
+      <college-code id="215"/>
+      <team-name name="Flames" alias="Lib"/>
+      <team-city city="Liberty"/>
+      <team-code id="215" global-id="3619"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Eastern Kentucky"/>
+     <college-code id="151"/>
+     <team-name name="Colonels" alias="EastKy"/>
+     <team-city city="Eastern Kentucky"/>
+     <team-code id="151" global-id="3556"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="25" votes="58" first-place="0"/>
+     <previous-rank rank="21"/>
+     <last-opponent location="away" team-score="6" opponent-score="48" overtime="false">
+      <college-name name="Purdue"/>
+      <college-code id="35"/>
+      <team-name name="Boilermakers" alias="Purdue"/>
+      <team-city city="Purdue"/>
+      <team-code id="35" global-id="3441"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Morehead State"/>
+      <college-code id="153"/>
+      <team-name name="Eagles" alias="Mor"/>
+      <team-city city="Morehead State"/>
+      <team-code id="153" global-id="3558"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Indiana State"/>
+     <college-code id="122"/>
+     <team-name name="Sycamores" alias="InSt"/>
+     <team-city city="Indiana State"/>
+     <team-code id="122" global-id="3527"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="26" votes="57" first-place="0"/>
+     <previous-rank rank="25"/>
+     <last-opponent location="away" team-score="17" opponent-score="24" overtime="false">
+      <college-name name="Indiana"/>
+      <college-code id="27"/>
+      <team-name name="Hoosiers" alias="Ind"/>
+      <team-city city="Indiana"/>
+      <team-code id="27" global-id="3433"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Quincy"/>
+      <college-code id="258"/>
+      <team-name name="Hawks" alias="QUINCY"/>
+      <team-city city="Quincy"/>
+      <team-code id="258" global-id="3661"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Liberty"/>
+     <college-code id="215"/>
+     <team-name name="Flames" alias="Lib"/>
+     <team-city city="Liberty"/>
+     <team-code id="215" global-id="3619"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="27" votes="39" first-place="0"/>
+     <previous-rank rank="27"/>
+     <last-opponent location="away" team-score="17" opponent-score="20" overtime="false">
+      <college-name name="Wake Forest"/>
+      <college-code id="9"/>
+      <team-name name="Demon Deacons" alias="Wake"/>
+      <team-city city="Wake Forest"/>
+      <team-code id="9" global-id="3415"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Norfolk State"/>
+      <college-code id="233"/>
+      <team-name name="Spartans" alias="Nor"/>
+      <team-city city="Norfolk State"/>
+      <team-code id="233" global-id="3636"/>
+      <team-rank rank="24"/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="South Carolina State"/>
+     <college-code id="149"/>
+     <team-name name="Bulldogs" alias="SCSt"/>
+     <team-city city="South Carolina State"/>
+     <team-code id="149" global-id="3554"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="28" votes="34" first-place="0"/>
+     <previous-rank rank="32"/>
+     <last-opponent location="away" team-score="33" opponent-score="6" overtime="false">
+      <college-name name="Georgia State"/>
+      <college-code id="690"/>
+      <team-name name="Panthers" alias="GaSt"/>
+      <team-city city="Georgia State"/>
+      <team-code id="2558" global-id="23171"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Bethune-Cookman"/>
+      <college-code id="143"/>
+      <team-name name="Wildcats" alias="B-C"/>
+      <team-city city="Bethune-Cookman"/>
+      <team-code id="143" global-id="3548"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Jacksonville State"/>
+     <college-code id="247"/>
+     <team-name name="Gamecocks" alias="JacSt"/>
+     <team-city city="Jacksonville State"/>
+     <team-code id="247" global-id="3650"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="29" votes="32" first-place="0"/>
+     <previous-rank rank="26"/>
+     <last-opponent location="away" team-score="24" opponent-score="49" overtime="false">
+      <college-name name="Arkansas"/>
+      <college-code id="74"/>
+      <team-name name="Razorbacks" alias="Ark"/>
+      <team-city city="Arkansas"/>
+      <team-code id="74" global-id="3479"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Chattanooga"/>
+      <college-code id="177"/>
+      <team-name name="Mocs" alias="Chat"/>
+      <team-city city="Chattanooga"/>
+      <team-code id="177" global-id="3582"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Tennessee-Martin"/>
+     <college-code id="156"/>
+     <team-name name="Skyhawks" alias="TN-Mar"/>
+     <team-city city="Tennessee-Martin"/>
+     <team-code id="156" global-id="3561"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="30" votes="25" first-place="0"/>
+     <previous-rank rank="0"/>
+     <last-opponent location="away" team-score="20" opponent-score="17" overtime="false">
+      <college-name name="Memphis"/>
+      <college-code id="101"/>
+      <team-name name="Tigers" alias="Mem"/>
+      <team-city city="Memphis"/>
+      <team-code id="101" global-id="3506"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Northern Illinois"/>
+      <college-code id="42"/>
+      <team-name name="Huskies" alias="NIU"/>
+      <team-city city="Northern Illinois"/>
+      <team-code id="42" global-id="3448"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Bethune-Cookman"/>
+     <college-code id="143"/>
+     <team-name name="Wildcats" alias="B-C"/>
+     <team-city city="Bethune-Cookman"/>
+     <team-code id="143" global-id="3548"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="31" votes="17" first-place="0"/>
+     <previous-rank rank="30"/>
+     <last-opponent location="home" team-score="38" opponent-score="28" overtime="false">
+      <college-name name="Alabama State"/>
+      <college-code id="187"/>
+      <team-name name="Hornets" alias="AlSt"/>
+      <team-city city="Alabama State"/>
+      <team-code id="187" global-id="3592"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="South Carolina State"/>
+      <college-code id="149"/>
+      <team-name name="Bulldogs" alias="SCSt"/>
+      <team-city city="South Carolina State"/>
+      <team-code id="149" global-id="3554"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Tennessee Tech"/>
+     <college-code id="158"/>
+     <team-name name="Golden Eagles" alias="TnTech"/>
+     <team-city city="Tennessee Tech"/>
+     <team-code id="158" global-id="3563"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="32" votes="16" first-place="0"/>
+     <previous-rank rank="31"/>
+     <last-opponent location="home" team-score="41" opponent-score="31" overtime="false">
+      <college-name name="Hampton"/>
+      <college-code id="229"/>
+      <team-name name="Pirates" alias="Hamp"/>
+      <team-city city="Hampton"/>
+      <team-code id="229" global-id="3633"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="North Greenville"/>
+      <college-code id="775"/>
+      <team-name name="Crusaders" alias="NGvill"/>
+      <team-city city="North Greenville"/>
+      <team-code id="2003" global-id="4939"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="William &amp; Mary"/>
+     <college-code id="200"/>
+     <team-name name="Tribe" alias="W&amp;M"/>
+     <team-city city="William &amp; Mary"/>
+     <team-code id="200" global-id="3605"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="33" votes="14" first-place="0"/>
+     <previous-rank rank="35"/>
+     <last-opponent location="away" team-score="6" opponent-score="7" overtime="false">
+      <college-name name="Maryland"/>
+      <college-code id="5"/>
+      <team-name name="Terrapins" alias="MD"/>
+      <team-city city="Maryland"/>
+      <team-code id="5" global-id="3411"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Lafayette"/>
+      <college-code id="163"/>
+      <team-name name="Leopards" alias="Laf"/>
+      <team-city city="Lafayette"/>
+      <team-code id="163" global-id="3568"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="North Dakota"/>
+     <college-code id="308"/>
+     <team-name name="Fighting Sioux" alias="NorDak"/>
+     <team-city city="North Dakota"/>
+     <team-code id="308" global-id="3708"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="34" votes="11" first-place="0"/>
+     <previous-rank rank="36"/>
+     <last-opponent location="home" team-score="66" opponent-score="0" overtime="false">
+      <college-name name="South Dakota Mines"/>
+      <college-code id="2054"/>
+      <team-name name="Hardrockers" alias="SDakMi"/>
+      <team-city city="South Dakota School of M&amp;T"/>
+      <team-code id="2563" global-id="23301"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Portland State"/>
+      <college-code id="257"/>
+      <team-name name="Vikings" alias="PorSt"/>
+      <team-city city="Portland State"/>
+      <team-code id="257" global-id="3660"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Cal Poly"/>
+     <college-code id="108"/>
+     <team-name name="Mustangs" alias="CalPly"/>
+     <team-city city="Cal Poly"/>
+     <team-code id="108" global-id="3513"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="35" votes="7" first-place="0"/>
+     <previous-rank rank="39"/>
+     <last-opponent location="home" team-score="41" opponent-score="14" overtime="false">
+      <college-name name="San Diego"/>
+      <college-code id="169"/>
+      <team-name name="Toreros" alias="SD"/>
+      <team-city city="San Diego"/>
+      <team-code id="169" global-id="3574"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Wyoming"/>
+      <college-code id="96"/>
+      <team-name name="Cowboys" alias="Wyo"/>
+      <team-city city="Wyoming"/>
+      <team-code id="96" global-id="3501"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Portland State"/>
+     <college-code id="257"/>
+     <team-name name="Vikings" alias="PorSt"/>
+     <team-city city="Portland State"/>
+     <team-code id="257" global-id="3660"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="35" votes="7" first-place="0"/>
+     <previous-rank rank="40"/>
+     <last-opponent location="home" team-score="38" opponent-score="20" overtime="false">
+      <college-name name="Carroll (MT)"/>
+      <college-code id="727"/>
+      <team-name name="Fighting Saints" alias="CARRMT"/>
+      <team-city city="Carroll (MT)"/>
+      <team-code id="2306" global-id="4953"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="North Dakota"/>
+      <college-code id="308"/>
+      <team-name name="Fighting Sioux" alias="NDAK"/>
+      <team-city city="North Dakota"/>
+      <team-code id="308" global-id="3708"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Albany"/>
+     <college-code id="546"/>
+     <team-name name="Great Danes" alias="Albany"/>
+     <team-city city="Albany"/>
+     <team-code id="546" global-id="3932"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="35" votes="7" first-place="0"/>
+     <previous-rank rank="37"/>
+     <last-opponent location="home" team-score="40" opponent-score="23" overtime="false">
+      <college-name name="Colgate"/>
+      <college-code id="160"/>
+      <team-name name="Raiders" alias="Colg"/>
+      <team-city city="Colgate"/>
+      <team-code id="160" global-id="3565"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Robert Morris"/>
+      <college-code id="217"/>
+      <team-name name="Colonials" alias="RMor"/>
+      <team-city city="Robert Morris"/>
+      <team-code id="217" global-id="3621"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Alabama A&amp;M"/>
+     <college-code id="356"/>
+     <team-name name="Bulldogs" alias="AlaA&amp;M"/>
+     <team-city city="Alabama A&amp;M"/>
+     <team-code id="356" global-id="3756"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="38" votes="6" first-place="0"/>
+     <previous-rank rank="42"/>
+     <last-opponent location="away" team-score="7" opponent-score="6" overtime="false">
+      <college-name name="Tuskegee"/>
+      <college-code id="364"/>
+      <team-name name="Golden Tigers" alias="Tusk"/>
+      <team-city city="Tuskegee"/>
+      <team-code id="364" global-id="3764"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Arkansas-Pine Bluff"/>
+      <college-code id="589"/>
+      <team-name name="Golden Lions" alias="Ark-PB"/>
+      <team-city city="Arkansas-Pine Bluff"/>
+      <team-code id="589" global-id="3970"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Cornell"/>
+     <college-code id="129"/>
+     <team-name name="Big Red" alias="Cor"/>
+     <team-city city="Cornell"/>
+     <team-code id="129" global-id="3534"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="39" votes="2" first-place="0"/>
+     <previous-rank rank="44"/>
+     <next-opponent location="away">
+      <college-name name="Fordham"/>
+      <college-code id="161"/>
+      <team-name name="Rams" alias="Ford"/>
+      <team-city city="Fordham"/>
+      <team-code id="161" global-id="3566"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Jackson State"/>
+     <college-code id="190"/>
+     <team-name name="Tigers" alias="JkSt"/>
+     <team-city city="Jackson State"/>
+     <team-code id="190" global-id="3595"/>
+     <wins number="0"/>
+     <losses number="1"/>
+     <rank rank="39" votes="2" first-place="0"/>
+     <previous-rank rank="29"/>
+     <last-opponent location="away" team-score="9" opponent-score="56" overtime="false">
+      <college-name name="Mississippi State"/>
+      <college-code id="78"/>
+      <team-name name="Bulldogs" alias="MissSt"/>
+      <team-city city="Mississippi State"/>
+      <team-code id="78" global-id="3483"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="away">
+      <college-name name="Tennessee State"/>
+      <college-code id="157"/>
+      <team-name name="Tigers" alias="TennSt"/>
+      <team-city city="Tennessee State"/>
+      <team-code id="157" global-id="3562"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Samford"/>
+     <college-code id="218"/>
+     <team-name name="Bulldogs" alias="Sam"/>
+     <team-city city="Samford"/>
+     <team-code id="218" global-id="3622"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="39" votes="2" first-place="0"/>
+     <previous-rank rank="0"/>
+     <last-opponent location="home" team-score="24" opponent-score="21" overtime="false">
+      <college-name name="Furman"/>
+      <college-code id="174"/>
+      <team-name name="Paladins" alias="Furman"/>
+      <team-city city="Furman"/>
+      <team-code id="174" global-id="3579"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="West Alabama"/>
+      <college-code id="610"/>
+      <team-name name="Tigers" alias="WestAL"/>
+      <team-city city="West Alabama"/>
+      <team-code id="610" global-id="3989"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Pennsylvania"/>
+     <college-code id="132"/>
+     <team-name name="Quakers" alias="Penn"/>
+     <team-city city="Pennsylvania"/>
+     <team-code id="132" global-id="3537"/>
+     <wins number="0"/>
+     <losses number="0"/>
+     <rank rank="42" votes="1" first-place="0"/>
+     <previous-rank rank="44"/>
+     <next-opponent location="away">
+      <college-name name="Lafayette"/>
+      <college-code id="163"/>
+      <team-name name="Leopards" alias="Laf"/>
+      <team-city city="Lafayette"/>
+      <team-code id="163" global-id="3568"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+    <cfb-team-rankings>
+     <college-name name="Tennessee State"/>
+     <college-code id="157"/>
+     <team-name name="Tigers" alias="TennSt"/>
+     <team-city city="Tennessee State"/>
+     <team-code id="157" global-id="3562"/>
+     <wins number="1"/>
+     <losses number="0"/>
+     <rank rank="42" votes="1" first-place="0"/>
+     <previous-rank rank="0"/>
+     <last-opponent location="home" team-score="17" opponent-score="14" overtime="false">
+      <college-name name="Florida A&amp;M"/>
+      <college-code id="145"/>
+      <team-name name="Rattlers" alias="FlaA&amp;M"/>
+      <team-city city="Florida A&amp;M"/>
+      <team-code id="145" global-id="3550"/>
+      <team-rank rank=""/>
+     </last-opponent>
+     <next-opponent location="home">
+      <college-name name="Jackson State"/>
+      <college-code id="190"/>
+      <team-name name="Tigers" alias="JkSt"/>
+      <team-city city="Jackson State"/>
+      <team-code id="190" global-id="3595"/>
+      <team-rank rank=""/>
+     </next-opponent>
+    </cfb-team-rankings>
+   </cfb-poll>
+  </cfb-polls>
+ </sports-rankings>
+</sports-statistics>

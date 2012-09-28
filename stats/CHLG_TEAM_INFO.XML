@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-teams>
+    <date year="2013" month="1" date="16" day="3"/>
+    <time hour="18" minute="54" second="21" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+    <version number="3"/>
+    <league global-id="58" name="UEFA Champions" alias="CHLG" display-name=""/>
+    <season year="2012" id="1" description="2012 UEFA Champions"/>
+    <ifb-soccer-teams>
+      <conference id="11" label="Group A">
+        <team-info global-id="6409" id="82" location="Paris SG" name="" alias="PSG" display-name="Paris SG" city="Paris" country-id="22" country="France" year-founded="1970"/>
+        <team-info global-id="7495" id="512" location="Dinamo Zagreb" name="" alias="DZ" display-name="Dinamo Zagreb" city="Zagreb" country-id="52" country="Croatia" year-founded=""/>
+        <team-info global-id="6450" id="1011" location="FC Porto" name="" alias="POR" display-name="FC Porto" city="Borisov" country-id="67" country="Portugal" year-founded="1893"/>
+        <team-info global-id="6454" id="1017" location="Dynamo Kiev" name="" alias="KIE" display-name="Dynamo Kiev" city="Kiev" country-id="84" country="Ukraine" year-founded=""/>
+      </conference>
+      <conference id="12" label="Group B">
+        <team-info global-id="6125" id="55" location="FC Schalke 04" name="" alias="SKE" display-name="FC Schalke 04" city="Gelsenkirchen" country-id="23" country="Germany" year-founded="1904"/>
+        <team-info global-id="7384" id="338" location="Montpellier" name="" alias="MPR" display-name="Montpellier" city="Montpellier" country-id="22" country="France" year-founded="1974"/>
+        <team-info global-id="6145" id="985" location="Arsenal" name="" alias="ARS" display-name="Arsenal" city="London" country-id="20" country="England" year-founded="1886"/>
+        <team-info global-id="6449" id="1010" location="Olympiacos" name="" alias="OLY" display-name="Olympiacos" city="Piraeus" country-id="24" country="Greece" year-founded="1925"/>
+      </conference>
+      <conference id="13" label="Group C">
+        <team-info global-id="6393" id="146" location="AC Milan" name="" alias="MIL" display-name="AC Milan" city="Milan" country-id="27" country="Italy" year-founded="1899"/>
+        <team-info global-id="7185" id="162" location="Málaga" name="" alias="MAG" display-name="Málaga" city="Malaga" country-id="39" country="Spain" year-founded="1948"/>
+        <team-info global-id="7452" id="520" location="Zenit St. Petersburg" name="" alias="ZSP" display-name="Zenit St. Petersburg" city="St. Petersburg" country-id="" country="" year-founded="1925"/>
+        <team-info global-id="6194" id="1006" location="Anderlecht" name="" alias="AND" display-name="Anderlecht" city="Anderlecht" country-id="59" country="Belgium" year-founded="1908"/>
+      </conference>
+      <conference id="14" label="Group D">
+        <team-info global-id="6158" id="33" location="Manchester City" name="" alias="MCY" display-name="Manchester City" city="" country-id="20" country="England" year-founded="1880"/>
+        <team-info global-id="6122" id="45" location="Borussia Dortmund" name="" alias="DOR" display-name="Borussia Dortmund" city="" country-id="23" country="Germany" year-founded="1909"/>
+        <team-info global-id="6430" id="327" location="Ajax" name="" alias="AJX" display-name="Ajax" city="Amsterdam" country-id="31" country="Netherlands" year-founded="1900"/>
+        <team-info global-id="6171" id="1013" location="Real Madrid" name="" alias="RMD" display-name="Real Madrid" city="Madrid" country-id="39" country="Spain" year-founded="1902"/>
+      </conference>
+      <conference id="15" label="Group E">
+        <team-info global-id="7149" id="143" location="Juventus" name="" alias="JUV" display-name="Juventus" city="Turin" country-id="27" country="Italy" year-founded="1897"/>
+        <team-info global-id="7536" id="875" location="Nordsjaelland" name="" alias="NJD" display-name="Nordsjaelland" city="Farum" country-id="18" country="Denmark" year-founded="1991"/>
+        <team-info global-id="6159" id="986" location="Chelsea" name="" alias="CHE" display-name="Chelsea" city="London" country-id="20" country="England" year-founded="1905"/>
+        <team-info global-id="6457" id="1021" location="Shakhtar Donetsk" name="" alias="DON" display-name="Shakhtar Donetsk" city="Donetsk" country-id="84" country="Ukraine" year-founded=""/>
+      </conference>
+      <conference id="16" label="Group F">
+        <team-info global-id="6169" id="171" location="Valencia" name="" alias="VAL" display-name="Valencia" city="Valencia" country-id="39" country="Spain" year-founded="1919"/>
+        <team-info global-id="6415" id="993" location="Lille" name="" alias="LIL" display-name="Lille" city="Villeneuve-d'Ascq" country-id="22" country="France" year-founded="1944"/>
+        <team-info global-id="6123" id="1007" location="Bayern München" name="" alias="MUN" display-name="Bayern München" city="Berlin" country-id="23" country="Germany" year-founded="1900"/>
+        <team-info global-id="10151" id="1535" location="BATE" name="" alias="BAT" display-name="BATE" city="Borisov" country-id="135" country="Belarus" year-founded=""/>
+      </conference>
+      <conference id="17" label="Group G">
+        <team-info global-id="6162" id="1005" location="Barcelona" name="" alias="BAR" display-name="Barcelona" city="Barcelona" country-id="39" country="Spain" year-founded="1899"/>
+        <team-info global-id="6207" id="1009" location="Celtic" name="" alias="CEL" display-name="Celtic" city="Glasgow" country-id="38" country="Scotland" year-founded="1888"/>
+        <team-info global-id="6453" id="1016" location="Benfica" name="" alias="BEN" display-name="Benfica" city="Lisbon" country-id="67" country="Portugal" year-founded="1904"/>
+        <team-info global-id="6458" id="1022" location="Spartak Moscow" name="" alias="SM" display-name="Spartak Moscow" city="Moscow" country-id="37" country="Russia" year-founded="1922"/>
+      </conference>
+      <conference id="18" label="Group H">
+        <team-info global-id="6308" id="384" location="Sporting Braga" name="" alias="SBR" display-name="Sporting Braga" city="Braga" country-id="67" country="Portugal" year-founded="1921"/>
+        <team-info global-id="6157" id="988" location="Manchester United" name="" alias="MAN" display-name="Manchester United" city="" country-id="20" country="England" year-founded="1878"/>
+        <team-info global-id="6455" id="1018" location="Galatasaray" name="" alias="GAL" display-name="Galatasaray" city="Istanbul" country-id="118" country="Turkey" year-founded="1905"/>
+        <team-info global-id="10149" id="1533" location="CFR Cluj" name="" alias="CLU" display-name="CFR Cluj" city="Cluj-Napoca" country-id="138" country="Romania" year-founded=""/>
+      </conference>
+      <conference id="" label="">
+        <team-info global-id="6129" id="102" location="Mönchengladbach" name="" alias="BM" display-name="Mönchengladbach" city="Monchengladbach" country-id="23" country="Germany" year-founded="1900"/>
+        <team-info global-id="6397" id="152" location="Udinese" name="" alias="UDN" display-name="Udinese" city="Udine" country-id="27" country="Italy" year-founded="1896"/>
+        <team-info global-id="6172" id="326" location="Atlético Madrid" name="" alias="ATL" display-name="Atlético Madrid" city="Madrid" country-id="39" country="Spain" year-founded="1903"/>
+        <team-info global-id="6431" id="360" location="Feyenoord" name="" alias="FEY" display-name="Feyenoord" city="Rotterdam" country-id="31" country="Netherlands" year-founded="1908"/>
+        <team-info global-id="6209" id="402" location="Motherwell" name="" alias="MWL" display-name="Motherwell" city="Motherwell" country-id="38" country="Scotland" year-founded="1886"/>
+        <team-info global-id="6181" id="424" location="Club Brugge" name="" alias="CB" display-name="Club Brugge" city="Brugge" country-id="" country="" year-founded="1891"/>
+        <team-info global-id="6447" id="429" location="FC Copenhagen" name="" alias="COP" display-name="FC Copenhagen" city="Copenhagen" country-id="18" country="Denmark" year-founded="1992"/>
+        <team-info global-id="7433" id="434" location="Helsingborgs IF" name="" alias="HEL" display-name="Helsingborgs IF" city="Helsingborg" country-id="40" country="Sweden" year-founded="1907"/>
+        <team-info global-id="6319" id="470" location="FC Basel" name="" alias="BSL" display-name="FC Basel" city="Basel" country-id="" country="" year-founded="1893"/>
+        <team-info global-id="7568" id="492" location="NK Maribor" name="" alias="NKM" display-name="NK Maribor" city="Maribor" country-id="119" country="Slovenia" year-founded=""/>
+        <team-info global-id="7531" id="867" location="Red Bull Salzburg" name="" alias="RBS" display-name="Red Bull Salzburg" city="Salzburg" country-id="" country="" year-founded="1933"/>
+        <team-info global-id="7444" id="967" location="Slask Wroclaw" name="" alias="WRO" display-name="Slask Wroclaw" city="Wroclaw" country-id="36" country="Poland" year-founded="1947"/>
+        <team-info global-id="6325" id="1069" location="Panathinaikos" name="" alias="PTK" display-name="Panathinaikos" city="Athens" country-id="24" country="Greece" year-founded="1908"/>
+        <team-info global-id="6332" id="1072" location="Partizan" name="" alias="PTZ" display-name="Partizan" city="Belgrade" country-id="203" country="Serbia" year-founded=""/>
+        <team-info global-id="6341" id="1078" location="Fenerbahce" name="" alias="FEN" display-name="Fenerbahce" city="Istanbul" country-id="118" country="Turkey" year-founded="1907"/>
+        <team-info global-id="6311" id="1080" location="Liberec" name="" alias="LBC" display-name="Liberec" city="Liberec" country-id="74" country="Czech Republic" year-founded="1958"/>
+        <team-info global-id="10178" id="1555" location="HJK Helsinki" name="" alias="HJK" display-name="HJK Helsinki" city="Helsinki" country-id="21" country="Finland" year-founded="1907"/>
+        <team-info global-id="10309" id="1632" location="Ironi Kiryat Shmona" name="" alias="IKS" display-name="Ironi Kiryat Shmona" city="Kiryat Shmona" country-id="82" country="Israel" year-founded="2000"/>
+        <team-info global-id="10342" id="1665" location="FK Ventspils" name="" alias="VTS" display-name="FK Ventspils" city="Ventspils" country-id="140" country="Latvia" year-founded="1997"/>
+        <team-info global-id="10367" id="1689" location="Vardar Skopje" name="" alias="VAR" display-name="Vardar Skopje" city="Skopje" country-id="153" country="Macedonia" year-founded="1947"/>
+        <team-info global-id="10398" id="1719" location="Molde FK" name="" alias="MLD" display-name="Molde FK" city="Molde" country-id="33" country="Norway" year-founded="1911"/>
+        <team-info global-id="10414" id="1735" location="Shamrock Rovers" name="" alias="SHM" display-name="Shamrock Rovers" city="" country-id="" country="" year-founded="1901"/>
+        <team-info global-id="10419" id="1740" location="MSK Zilina" name="" alias="ZLN" display-name="MSK Zilina" city="" country-id="74" country="Czech Republic" year-founded=""/>
+        <team-info global-id="10514" id="1785" location="Debrecen" name="" alias="DEB" display-name="Debrecen" city="" country-id="" country="" year-founded=""/>
+        <team-info global-id="20005" id="2059" location="Sheriff Tiraspol" name="" alias="STS" display-name="Sheriff Tiraspol" city="Donetsk" country-id="" country="" year-founded=""/>
+        <team-info global-id="20023" id="2065" location="FC Vaslui" name="" alias="VAS" display-name="FC Vaslui" city="Vaslui" country-id="138" country="Romania" year-founded=""/>
+        <team-info global-id="23427" id="2481" location="Linfield FC" name="" alias="LNF" display-name="Linfield FC" city="Belfast" country-id="114" country="Northern Ireland" year-founded=""/>
+        <team-info global-id="23428" id="2482" location="The New Saints" name="" alias="TNS" display-name="The New Saints" city="Oswestry" country-id="43" country="Wales" year-founded=""/>
+        <team-info global-id="23433" id="2487" location="FK Zeljeznicar" name="" alias="ZEL" display-name="FK Zeljeznicar" city="Sarajevo" country-id="144" country="Bosnia-Herzegovina" year-founded=""/>
+        <team-info global-id="23434" id="2488" location="FK Ekranas" name="" alias="EKR" display-name="FK Ekranas" city="Panevezys" country-id="117" country="Lithuania" year-founded=""/>
+        <team-info global-id="23436" id="2490" location="Tre Penne" name="" alias="STP" display-name="Tre Penne" city="San Marino" country-id="221" country="San Marino" year-founded=""/>
+        <team-info global-id="23437" id="2491" location="Valletta FC" name="" alias="VLT" display-name="Valletta FC" city="" country-id="" country="" year-founded=""/>
+        <team-info global-id="23439" id="2493" location="FK Buducnost Podgorica" name="" alias="BDP" display-name="FK Buducnost Podgorica" city="" country-id="" country="" year-founded=""/>
+        <team-info global-id="23461" id="2515" location="FC Zestafoni" name="" alias="ZTF" display-name="FC Zestafoni" city="" country-id="" country="" year-founded=""/>
+        <team-info global-id="23466" id="2520" location="KR Reykjavik" name="" alias="KR" display-name="KR Reykjavik" city="" country-id="" country="" year-founded=""/>
+        <team-info global-id="23475" id="2529" location="FC Flora" name="" alias="FLR" display-name="FC Flora" city="" country-id="" country="" year-founded=""/>
+        <team-info global-id="23478" id="2532" location="Shakhter Karagandy" name="" alias="SKG" display-name="Shakhter Karagandy" city="" country-id="" country="" year-founded=""/>
+        <team-info global-id="23480" id="2534" location="Ulisses" name="" alias="ULS" display-name="Ulisses" city="" country-id="" country="" year-founded=""/>
+        <team-info global-id="23488" id="2542" location="F91 Dudelange" name="" alias="DDL" display-name="F91 Dudelange" city="" country-id="" country="" year-founded=""/>
+        <team-info global-id="23493" id="2547" location="FC Lusitanos" name="" alias="FCL" display-name="FC Lusitanos" city="Andorra la Vella" country-id="150" country="Andorra" year-founded=""/>
+        <team-info global-id="23963" id="2730" location="Ludogorets" name="" alias="LDO" display-name="Ludogorets" city="Razgrad" country-id="77" country="Bulgaria" year-founded="1945"/>
+        <team-info global-id="23984" id="2751" location="Skenderbeu Korce" name="" alias="KOR" display-name="Skenderbeu Korce" city="Korce" country-id="204" country="Albania" year-founded=""/>
+        <team-info global-id="23985" id="2752" location="Neftchi Baku" name="" alias="NEF" display-name="Neftchi Baku" city="Baku" country-id="198" country="Azerbaijan" year-founded=""/>
+        <team-info global-id="24738" id="3068" location="B36 Torshavn" name="" alias="B36" display-name="B36 Torshavn" city="Torshavn" country-id="215" country="Faroe Islands" year-founded="1936"/>
+        <team-info global-id="24739" id="3069" location="AEL Limassol" name="" alias="AEL" display-name="AEL Limassol" city="Limassol" country-id="187" country="Cyprus" year-founded="1930"/>
+      </conference>
+    </ifb-soccer-teams>
+  </sports-teams>
+</sports-statistics>

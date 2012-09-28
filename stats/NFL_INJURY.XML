@@ -1,0 +1,2339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-injuries>
+    <football-nfl-injury-report>
+    <date year="2012" month="9" date="6" day="4"/>
+    <time hour="2" minute="14" second="22" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="1"/>
+    <season season="2012"/>
+      <football-nfl-injury>
+        <date year="2012" month="6" date="9" day="6"/>
+        <name first-name="Nick" last-name="Polk"/>
+        <team-name name="Chargers" alias="SD"/>
+        <team-city city="San Diego"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="24459" global-id="299084"/>
+        <player-position position="S"/>
+        <team-code id="24" global-id="357"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="6" date="12" day="2"/>
+        <name first-name="Brad" last-name="Herman"/>
+        <team-name name="Patriots" alias="NE"/>
+        <team-city city="New England"/>
+        <injury-info information="Achilles"/>
+        <player-code id="26393" global-id="464050"/>
+        <player-position position="TE"/>
+        <team-code id="17" global-id="348"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="6" date="13" day="3"/>
+        <name first-name="Connor" last-name="Dixon"/>
+        <team-name name="Steelers" alias="Pit"/>
+        <team-city city="Pittsburgh"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26221" global-id="336741"/>
+        <player-position position="WR"/>
+        <team-code id="23" global-id="356"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="6" date="13" day="3"/>
+        <name first-name="Martin" last-name="Rucker"/>
+        <team-name name="Chiefs" alias="KC"/>
+        <team-city city="Kansas City"/>
+        <injury-info information="torn right ACL"/>
+        <player-code id="8888" global-id="214859"/>
+        <player-position position="TE"/>
+        <team-code id="12" global-id="339"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="6" date="13" day="3"/>
+        <name first-name="Michael" last-name="McAdoo"/>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <injury-info information="Achilles"/>
+        <player-code id="25683" global-id="463690"/>
+        <player-position position="LB"/>
+        <team-code id="33" global-id="366"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="6" date="25" day="1"/>
+        <name first-name="Greg" last-name="Romeus"/>
+        <team-name name="Saints" alias="NO"/>
+        <team-city city="New Orleans"/>
+        <injury-info information="knee"/>
+        <player-code id="25013" global-id="322903"/>
+        <player-position position="DE"/>
+        <team-code id="18" global-id="350"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="7" date="26" day="4"/>
+        <name first-name="Chase" last-name="Minnifield"/>
+        <team-name name="Redskins" alias="Was"/>
+        <team-city city="Washington"/>
+        <injury-info information="right knee"/>
+        <player-code id="26286" global-id="399417"/>
+        <player-position position="CB"/>
+        <team-code id="28" global-id="363"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="7" date="30" day="1"/>
+        <name first-name="Kyle" last-name="McCarthy"/>
+        <team-name name="Chiefs" alias="KC"/>
+        <team-city city="Kansas City"/>
+        <injury-info information="knee"/>
+        <player-code id="24385" global-id="297065"/>
+        <player-position position="S"/>
+        <team-code id="12" global-id="339"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="7" date="30" day="1"/>
+        <name first-name="Reggie" last-name="Corner"/>
+        <team-name name="Jaguars" alias="Jac"/>
+        <team-city city="Jacksonville"/>
+        <injury-info information="knee"/>
+        <player-code id="8891" global-id="226707"/>
+        <player-position position="CB"/>
+        <team-code id="30" global-id="365"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="7" date="31" day="2"/>
+        <name first-name="Royce" last-name="Adams"/>
+        <team-name name="Jets" alias="NYJ"/>
+        <team-city city="New York"/>
+        <injury-info information="knee"/>
+        <player-code id="25692" global-id="332903"/>
+        <player-position position="CB"/>
+        <team-code id="20" global-id="352"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="7" date="31" day="2"/>
+        <name first-name="Nick" last-name="Taylor"/>
+        <team-name name="Vikings" alias="Min"/>
+        <team-city city="Minnesota"/>
+        <injury-info information="shoulder"/>
+        <player-code id="25705" global-id="416190"/>
+        <player-position position="CB"/>
+        <team-code id="16" global-id="347"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="2" day="4"/>
+        <name first-name="Michael" last-name="Cosgrove"/>
+        <team-name name="Lions" alias="Det"/>
+        <team-city city="Detroit"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26383" global-id="383421"/>
+        <player-position position="DT"/>
+        <team-code id="8" global-id="334"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="2" day="4"/>
+        <name first-name="Chris" last-name="Douglas"/>
+        <team-name name="Bills" alias="Buf"/>
+        <team-city city="Buffalo"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26124" global-id="517061"/>
+        <player-position position="RB"/>
+        <team-code id="2" global-id="324"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="2" day="4"/>
+        <name first-name="Ronald" last-name="Johnson"/>
+        <team-name name="Eagles" alias="Phi"/>
+        <team-city city="Philadelphia"/>
+        <injury-info information="left ankle"/>
+        <player-code id="24969" global-id="399314"/>
+        <player-position position="WR"/>
+        <team-code id="21" global-id="354"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="2" day="4"/>
+        <name first-name="Jamey" last-name="Richard"/>
+        <team-name name="Patriots" alias="NE"/>
+        <team-city city="New England"/>
+        <injury-info information="concussion"/>
+        <player-code id="9013" global-id="227035"/>
+        <player-position position="G"/>
+        <team-code id="17" global-id="348"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="3" day="5"/>
+        <name first-name="A.J." last-name="Edds"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="torn left ACL"/>
+        <player-code id="24094" global-id="332347"/>
+        <player-position position="LB"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="3" day="5"/>
+        <name first-name="Ben" last-name="Ijalana"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="knee"/>
+        <player-code id="24836" global-id="389951"/>
+        <player-position position="G"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="3" day="5"/>
+        <name first-name="D'Andre" last-name="Goodwin"/>
+        <team-name name="Broncos" alias="Den"/>
+        <team-city city="Denver"/>
+        <injury-info information="ankle"/>
+        <player-code id="25186" global-id="324221"/>
+        <player-position position="WR"/>
+        <team-code id="7" global-id="332"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="3" day="5"/>
+        <name first-name="Chris" last-name="Givens"/>
+        <team-name name="Saints" alias="NO"/>
+        <team-city city="New Orleans"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26033" global-id="406893"/>
+        <player-position position="WR"/>
+        <team-code id="18" global-id="350"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="4" day="6"/>
+        <name first-name="Terry" last-name="Carter"/>
+        <team-name name="Steelers" alias="Pit"/>
+        <team-city city="Pittsburgh"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26220" global-id="400720"/>
+        <player-position position="CB"/>
+        <team-code id="23" global-id="356"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="5" day="7"/>
+        <name first-name="Ronnie" last-name="Sneed"/>
+        <team-name name="Lions" alias="Det"/>
+        <team-city city="Detroit"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26401" global-id="399162"/>
+        <player-position position="LB"/>
+        <team-code id="8" global-id="334"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="7" day="2"/>
+        <name first-name="Greg" last-name="Childs"/>
+        <team-name name="Vikings" alias="Min"/>
+        <team-city city="Minnesota"/>
+        <injury-info information="knees"/>
+        <player-code id="25844" global-id="465630"/>
+        <player-position position="WR"/>
+        <team-code id="16" global-id="347"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="7" day="2"/>
+        <name first-name="Mario" last-name="Fannin"/>
+        <team-name name="Broncos" alias="Den"/>
+        <team-city city="Denver"/>
+        <injury-info information="knee"/>
+        <player-code id="25185" global-id="333957"/>
+        <player-position position="RB"/>
+        <team-code id="7" global-id="332"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="8" day="3"/>
+        <name first-name="Eugene" last-name="Amano"/>
+        <team-name name="Titans" alias="Ten"/>
+        <team-city city="Tennessee"/>
+        <injury-info information="triceps"/>
+        <player-code id="6998" global-id="246446"/>
+        <player-position position="G"/>
+        <team-code id="10" global-id="336"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="8" day="3"/>
+        <name first-name="Mike" last-name="McCabe"/>
+        <team-name name="Packers" alias="GB"/>
+        <team-city city="Green Bay"/>
+        <injury-info information="hip"/>
+        <player-code id="26431" global-id="385716"/>
+        <player-position position="T"/>
+        <team-code id="9" global-id="335"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="9" day="4"/>
+        <name first-name="Major" last-name="Wright"/>
+        <team-name name="Bears" alias="Chi"/>
+        <team-city city="Chicago"/>
+        <injury-info information="hamstring"/>
+        <player-code id="24050" global-id="396576"/>
+        <player-position position="S"/>
+        <team-code id="3" global-id="326"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="1" status="Day-to-Day"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="9" day="4"/>
+        <name first-name="Desmond" last-name="Bishop"/>
+        <team-name name="Packers" alias="GB"/>
+        <team-city city="Green Bay"/>
+        <injury-info information="right leg"/>
+        <player-code id="8446" global-id="216607"/>
+        <player-position position="LB"/>
+        <team-code id="9" global-id="335"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="1" status="Day-to-Day"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="9" day="4"/>
+        <name first-name="Keyaron" last-name="Fox"/>
+        <team-name name="Texans" alias="Hou"/>
+        <team-city city="Houston"/>
+        <injury-info information="knee"/>
+        <player-code id="6852" global-id="246143"/>
+        <player-position position="LB"/>
+        <team-code id="34" global-id="325"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="10" day="5"/>
+        <name first-name="Patrick" last-name="Doyle"/>
+        <team-name name="Chargers" alias="SD"/>
+        <team-city city="San Diego"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26550" global-id="404653"/>
+        <player-position position="TE"/>
+        <team-code id="24" global-id="357"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="11" day="6"/>
+        <name first-name="Bradie" last-name="Ewing"/>
+        <team-name name="Falcons" alias="Atl"/>
+        <team-city city="Atlanta"/>
+        <injury-info information="torn right ACL"/>
+        <player-code id="25867" global-id="462226"/>
+        <player-position position="RB"/>
+        <team-code id="1" global-id="323"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="11" day="6"/>
+        <name first-name="Alex" last-name="Watkins"/>
+        <team-name name="Titans" alias="Ten"/>
+        <team-city city="Tennessee"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26027" global-id="400143"/>
+        <player-position position="LB"/>
+        <team-code id="10" global-id="336"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="12" day="7"/>
+        <name first-name="A.J." last-name="Davis"/>
+        <team-name name="Saints" alias="NO"/>
+        <team-city city="New Orleans"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26028" global-id="400970"/>
+        <player-position position="CB"/>
+        <team-code id="18" global-id="350"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="12" day="7"/>
+        <name first-name="Eric" last-name="Lair"/>
+        <team-name name="Packers" alias="GB"/>
+        <team-city city="Green Bay"/>
+        <injury-info information="knee"/>
+        <player-code id="26430" global-id="464336"/>
+        <player-position position="TE"/>
+        <team-code id="9" global-id="335"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="12" day="7"/>
+        <name first-name="Taylor" last-name="Price"/>
+        <team-name name="Jaguars" alias="Jac"/>
+        <team-city city="Jacksonville"/>
+        <injury-info information="foot"/>
+        <player-code id="24065" global-id="336058"/>
+        <player-position position="WR"/>
+        <team-code id="30" global-id="365"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="12" day="7"/>
+        <name first-name="Andrew" last-name="Tiller"/>
+        <team-name name="Saints" alias="NO"/>
+        <team-city city="New Orleans"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="25889" global-id="501866"/>
+        <player-position position="G"/>
+        <team-code id="18" global-id="350"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="13" day="1"/>
+        <name first-name="Adam" last-name="Nissley"/>
+        <team-name name="Falcons" alias="Atl"/>
+        <team-city city="Atlanta"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26174" global-id="400337"/>
+        <player-position position="TE"/>
+        <team-code id="1" global-id="323"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="14" day="2"/>
+        <name first-name="Garrett" last-name="Chisolm"/>
+        <team-name name="49ers" alias="SF"/>
+        <team-city city="San Francisco"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="25332" global-id="518989"/>
+        <player-position position="G"/>
+        <team-code id="25" global-id="359"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="14" day="2"/>
+        <name first-name="Dane" last-name="Fletcher"/>
+        <team-name name="Patriots" alias="NE"/>
+        <team-city city="New England"/>
+        <injury-info information="torn ACL"/>
+        <player-code id="24293" global-id="302532"/>
+        <player-position position="LB"/>
+        <team-code id="17" global-id="348"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="15" day="3"/>
+        <name first-name="Chris" last-name="Kuper"/>
+        <team-name name="Broncos" alias="Den"/>
+        <team-city city="Denver"/>
+        <injury-info information="forearm"/>
+        <player-code id="7910" global-id="320288"/>
+        <player-position position="G"/>
+        <team-code id="7" global-id="332"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="1" status="Day-to-Day"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="15" day="3"/>
+        <name first-name="Darius" last-name="Hanks"/>
+        <team-name name="Redskins" alias="Was"/>
+        <team-city city="Washington"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26278" global-id="400128"/>
+        <player-position position="WR"/>
+        <team-code id="28" global-id="363"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="15" day="3"/>
+        <name first-name="Eddie" last-name="Williams"/>
+        <team-name name="Browns" alias="Cle"/>
+        <team-city city="Cleveland"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="9485" global-id="286607"/>
+        <player-position position="RB"/>
+        <team-code id="5" global-id="329"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="15" day="3"/>
+        <name first-name="Chris" last-name="Neild"/>
+        <team-name name="Redskins" alias="Was"/>
+        <team-city city="Washington"/>
+        <injury-info information="torn left ACL"/>
+        <player-code id="25040" global-id="339714"/>
+        <player-position position="NT"/>
+        <team-code id="28" global-id="363"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="16" day="4"/>
+        <name first-name="John" last-name="Clay"/>
+        <team-name name="Steelers" alias="Pit"/>
+        <team-city city="Pittsburgh"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="25052" global-id="399450"/>
+        <player-position position="RB"/>
+        <team-code id="23" global-id="356"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="16" day="4"/>
+        <name first-name="Drew" last-name="Coleman"/>
+        <team-name name="Lions" alias="Det"/>
+        <team-city city="Detroit"/>
+        <injury-info information="concussion"/>
+        <player-code id="7938" global-id="231285"/>
+        <player-position position="CB"/>
+        <team-code id="8" global-id="334"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="17" day="5"/>
+        <name first-name="Scott" last-name="Lutrus"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="torn ACL"/>
+        <player-code id="25124" global-id="334539"/>
+        <player-position position="LB"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="17" day="5"/>
+        <name first-name="Duke" last-name="Calhoun"/>
+        <team-name name="Raiders" alias="Oak"/>
+        <team-city city="Oakland"/>
+        <injury-info information="right knee"/>
+        <player-code id="24552" global-id="324039"/>
+        <player-position position="WR"/>
+        <team-code id="13" global-id="341"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="17" day="5"/>
+        <name first-name="Mario" last-name="Kurn"/>
+        <team-name name="Raiders" alias="Oak"/>
+        <team-city city="Oakland"/>
+        <injury-info information="right knee"/>
+        <player-code id="26424" global-id="465521"/>
+        <player-position position="LB"/>
+        <team-code id="13" global-id="341"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="20" day="1"/>
+        <name first-name="Will" last-name="Svitek"/>
+        <team-name name="Falcons" alias="Atl"/>
+        <team-city city="Atlanta"/>
+        <injury-info information="upper right arm"/>
+        <player-code id="7363" global-id="144742"/>
+        <player-position position="T"/>
+        <team-code id="1" global-id="323"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="1" status="Day-to-Day"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="20" day="1"/>
+        <name first-name="Chris" last-name="Chamberlain"/>
+        <team-name name="Saints" alias="NO"/>
+        <team-city city="New Orleans"/>
+        <injury-info information="torn left ACL"/>
+        <player-code id="9005" global-id="252851"/>
+        <player-position position="LB"/>
+        <team-code id="18" global-id="350"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="20" day="1"/>
+        <name first-name="Gerald" last-name="McRath"/>
+        <team-name name="Titans" alias="Ten"/>
+        <team-city city="Tennessee"/>
+        <injury-info information="torn left patella tendon"/>
+        <player-code id="9394" global-id="268387"/>
+        <player-position position="LB"/>
+        <team-code id="10" global-id="336"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="20" day="1"/>
+        <name first-name="Nate" last-name="Ness"/>
+        <team-name name="Panthers" alias="Car"/>
+        <team-city city="Carolina"/>
+        <injury-info information="concussion"/>
+        <player-code id="9722" global-id="338491"/>
+        <player-position position="CB"/>
+        <team-code id="29" global-id="364"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="21" day="2"/>
+        <name first-name="Nathan" last-name="Overbay"/>
+        <team-name name="Lions" alias="Det"/>
+        <team-city city="Detroit"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="24370" global-id="288503"/>
+        <player-position position="TE"/>
+        <team-code id="8" global-id="334"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="21" day="2"/>
+        <name first-name="Fenuki" last-name="Tupou"/>
+        <team-name name="Saints" alias="NO"/>
+        <team-city city="New Orleans"/>
+        <injury-info information="triceps"/>
+        <player-code id="9423" global-id="324263"/>
+        <player-position position="T"/>
+        <team-code id="18" global-id="350"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="21" day="2"/>
+        <name first-name="Dexter" last-name="Davis"/>
+        <team-name name="Seahawks" alias="Sea"/>
+        <team-city city="Seattle"/>
+        <injury-info information="hip"/>
+        <player-code id="24211" global-id="298936"/>
+        <player-position position="DE"/>
+        <team-code id="26" global-id="361"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="23" day="4"/>
+        <name first-name="Torell" last-name="Troup"/>
+        <team-name name="Bills" alias="Buf"/>
+        <team-city city="Buffalo"/>
+        <injury-info information="spinal fusion surgery"/>
+        <player-code id="24016" global-id="451007"/>
+        <player-position position="DT"/>
+        <team-code id="2" global-id="324"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="23" day="4"/>
+        <name first-name="Cris" last-name="Hill"/>
+        <team-name name="Bills" alias="Buf"/>
+        <team-city city="Buffalo"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26125" global-id="399568"/>
+        <player-position position="CB"/>
+        <team-code id="2" global-id="324"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="24" day="5"/>
+        <name first-name="Isaiah" last-name="Greenhouse"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="24446" global-id="303618"/>
+        <player-position position="LB"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="24" day="5"/>
+        <name first-name="Brandon" last-name="Ghee"/>
+        <team-name name="Bengals" alias="Cin"/>
+        <team-city city="Cincinnati"/>
+        <injury-info information="wrist"/>
+        <player-code id="24071" global-id="284812"/>
+        <player-position position="CB"/>
+        <team-code id="4" global-id="327"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="24" day="5"/>
+        <name first-name="Shaun" last-name="Prater"/>
+        <team-name name="Bengals" alias="Cin"/>
+        <team-city city="Cincinnati"/>
+        <injury-info information="knee"/>
+        <player-code id="25866" global-id="464044"/>
+        <player-position position="CB"/>
+        <team-code id="4" global-id="327"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="24" day="5"/>
+        <name first-name="Taveon" last-name="Rogers"/>
+        <team-name name="Bengals" alias="Cin"/>
+        <team-city city="Cincinnati"/>
+        <injury-info information="shoulder"/>
+        <player-code id="26246" global-id="556553"/>
+        <player-position position="CB"/>
+        <team-code id="4" global-id="327"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="24" day="5"/>
+        <name first-name="Robert" last-name="Sands"/>
+        <team-name name="Bengals" alias="Cin"/>
+        <team-city city="Cincinnati"/>
+        <injury-info information="chest"/>
+        <player-code id="24921" global-id="465096"/>
+        <player-position position="S"/>
+        <team-code id="4" global-id="327"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="24" day="5"/>
+        <name first-name="Travelle" last-name="Wharton"/>
+        <team-name name="Bengals" alias="Cin"/>
+        <team-city city="Cincinnati"/>
+        <injury-info information="torn right ACL"/>
+        <player-code id="6853" global-id="246144"/>
+        <player-position position="G"/>
+        <team-code id="4" global-id="327"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="24" day="5"/>
+        <name first-name="Levi" last-name="Brown"/>
+        <team-name name="Cardinals" alias="Ari"/>
+        <team-city city="Arizona"/>
+        <injury-info information="triceps"/>
+        <player-code id="8259" global-id="224831"/>
+        <player-position position="T"/>
+        <team-code id="22" global-id="355"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="25" day="6"/>
+        <name first-name="Davin" last-name="Joseph"/>
+        <team-name name="Buccaneers" alias="TB"/>
+        <team-city city="Tampa Bay"/>
+        <injury-info information="knee"/>
+        <player-code id="7772" global-id="214934"/>
+        <player-position position="G"/>
+        <team-code id="27" global-id="362"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="1" status="Day-to-Day"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="25" day="6"/>
+        <name first-name="David" last-name="DeCastro"/>
+        <team-name name="Steelers" alias="Pit"/>
+        <team-city city="Pittsburgh"/>
+        <injury-info information="knee"/>
+        <player-code id="25734" global-id="461155"/>
+        <player-position position="G"/>
+        <team-code id="23" global-id="356"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="1" status="Day-to-Day"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="25" day="6"/>
+        <name first-name="Will" last-name="Svitek"/>
+        <team-name name="Falcons" alias="Atl"/>
+        <team-city city="Atlanta"/>
+        <injury-info information="upper right arm"/>
+        <player-code id="7363" global-id="144742"/>
+        <player-position position="T"/>
+        <team-code id="1" global-id="323"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="26" day="7"/>
+        <name first-name="Brandon" last-name="Hardin"/>
+        <team-name name="Bears" alias="Chi"/>
+        <team-city city="Chicago"/>
+        <injury-info information="neck"/>
+        <player-code id="25789" global-id="399412"/>
+        <player-position position="S"/>
+        <team-code id="3" global-id="326"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="26" day="7"/>
+        <name first-name="Marc" last-name="Mariani"/>
+        <team-name name="Titans" alias="Ten"/>
+        <team-city city="Tennessee"/>
+        <injury-info information="fractured left tibia"/>
+        <player-code id="24198" global-id="325928"/>
+        <player-position position="WR"/>
+        <team-code id="10" global-id="336"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="26" day="7"/>
+        <name first-name="Randy" last-name="Bullock"/>
+        <team-name name="Texans" alias="Hou"/>
+        <team-city city="Houston"/>
+        <injury-info information="groin"/>
+        <player-code id="25871" global-id="469127"/>
+        <player-position position="K"/>
+        <team-code id="34" global-id="325"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Stevie" last-name="Baggs"/>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <injury-info information="leg"/>
+        <player-code id="7691" global-id="283160"/>
+        <player-position position="LB"/>
+        <team-code id="33" global-id="366"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Mike" last-name="Gibson"/>
+        <team-name name="Eagles" alias="Phi"/>
+        <team-city city="Philadelphia"/>
+        <injury-info information="hip"/>
+        <player-code id="8961" global-id="332537"/>
+        <player-position position="G"/>
+        <team-code id="21" global-id="354"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="George" last-name="Foster"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="6356" global-id="184522"/>
+        <player-position position="T"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Du'ane" last-name="Bennett"/>
+        <team-name name="Packers" alias="GB"/>
+        <team-city city="Green Bay"/>
+        <injury-info information="knee"/>
+        <player-code id="26412" global-id="406218"/>
+        <player-position position="RB"/>
+        <team-code id="9" global-id="335"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Jason" last-name="Hunter"/>
+        <team-name name="Broncos" alias="Den"/>
+        <team-city city="Denver"/>
+        <injury-info information="triceps"/>
+        <player-code id="8019" global-id="157622"/>
+        <player-position position="DE"/>
+        <team-code id="7" global-id="332"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="John" last-name="Estes"/>
+        <team-name name="Jaguars" alias="Jac"/>
+        <team-city city="Jacksonville"/>
+        <injury-info information="knee"/>
+        <player-code id="24475" global-id="323868"/>
+        <player-position position="C"/>
+        <team-code id="30" global-id="365"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Drew" last-name="Nowak"/>
+        <team-name name="Jaguars" alias="Jac"/>
+        <team-city city="Jacksonville"/>
+        <injury-info information="foot"/>
+        <player-code id="26090" global-id="467039"/>
+        <player-position position="G"/>
+        <team-code id="30" global-id="365"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Jason" last-name="Spitz"/>
+        <team-name name="Jaguars" alias="Jac"/>
+        <team-city city="Jacksonville"/>
+        <injury-info information="ankle"/>
+        <player-code id="7824" global-id="156446"/>
+        <player-position position="G"/>
+        <team-code id="30" global-id="365"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Matt" last-name="Veldman"/>
+        <team-name name="Jaguars" alias="Jac"/>
+        <team-city city="Jacksonville"/>
+        <injury-info information="knee"/>
+        <player-code id="26095" global-id="459301"/>
+        <player-position position="TE"/>
+        <team-code id="30" global-id="365"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Darryl" last-name="Blackstock"/>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <injury-info information="groin, ankle"/>
+        <player-code id="7271" global-id="215564"/>
+        <player-position position="LB"/>
+        <team-code id="33" global-id="366"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Emanuel" last-name="Cook"/>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <injury-info information="broken right leg"/>
+        <player-code id="9644" global-id="332838"/>
+        <player-position position="S"/>
+        <team-code id="33" global-id="366"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Ryan" last-name="McBean"/>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <injury-info information="broken left ankle"/>
+        <player-code id="8386" global-id="296991"/>
+        <player-position position="DT"/>
+        <team-code id="33" global-id="366"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Brandon" last-name="Mosley"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="ankle"/>
+        <player-code id="25841" global-id="545462"/>
+        <player-position position="G"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Brandon" last-name="Hogan"/>
+        <team-name name="Panthers" alias="Car"/>
+        <team-city city="Carolina"/>
+        <injury-info information="knee"/>
+        <player-code id="24885" global-id="403304"/>
+        <player-position position="CB"/>
+        <team-code id="29" global-id="364"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Kelcie" last-name="McCray"/>
+        <team-name name="Dolphins" alias="Mia"/>
+        <team-city city="Miami"/>
+        <injury-info information="foot"/>
+        <player-code id="26288" global-id="401179"/>
+        <player-position position="S"/>
+        <team-code id="15" global-id="345"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Jonathan" last-name="Scott"/>
+        <team-name name="Lions" alias="Det"/>
+        <team-city city="Detroit"/>
+        <injury-info information="right knee"/>
+        <player-code id="7890" global-id="161701"/>
+        <player-position position="T"/>
+        <team-code id="8" global-id="334"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Trevor" last-name="Laws"/>
+        <team-name name="Rams" alias="StL"/>
+        <team-city city="St. Louis"/>
+        <injury-info information="knee"/>
+        <player-code id="8824" global-id="230920"/>
+        <player-position position="DT"/>
+        <team-code id="14" global-id="343"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Bill" last-name="Nagy"/>
+        <team-name name="Lions" alias="Det"/>
+        <team-city city="Detroit"/>
+        <injury-info information="left ankle"/>
+        <player-code id="25039" global-id="332070"/>
+        <player-position position="G"/>
+        <team-code id="8" global-id="334"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Emmanuel" last-name="Acho"/>
+        <team-name name="Browns" alias="Cle"/>
+        <team-city city="Cleveland"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="25914" global-id="460347"/>
+        <player-position position="LB"/>
+        <team-code id="5" global-id="329"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Chris" last-name="Gocong"/>
+        <team-name name="Browns" alias="Cle"/>
+        <team-city city="Cleveland"/>
+        <injury-info information="torn right Achilles"/>
+        <player-code id="7820" global-id="162554"/>
+        <player-position position="LB"/>
+        <team-code id="5" global-id="329"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Brandon" last-name="McKinney"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="knee"/>
+        <player-code id="8149" global-id="160167"/>
+        <player-position position="NT"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Griff" last-name="Whalen"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="foot"/>
+        <player-code id="26218" global-id="461203"/>
+        <player-position position="WR"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Desmond" last-name="Bishop"/>
+        <team-name name="Packers" alias="GB"/>
+        <team-city city="Green Bay"/>
+        <injury-info information="hamstring"/>
+        <player-code id="8446" global-id="216607"/>
+        <player-position position="LB"/>
+        <team-code id="9" global-id="335"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Johnny" last-name="Jones"/>
+        <team-name name="Packers" alias="GB"/>
+        <team-city city="Green Bay"/>
+        <injury-info information="knee"/>
+        <player-code id="25335" global-id="407639"/>
+        <player-position position="DT"/>
+        <team-code id="9" global-id="335"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Will" last-name="Allen"/>
+        <team-name name="Patriots" alias="NE"/>
+        <team-city city="New England"/>
+        <injury-info information=""/>
+        <player-code id="5469" global-id="25588"/>
+        <player-position position="CB"/>
+        <team-code id="17" global-id="348"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Josh" last-name="Barrett"/>
+        <team-name name="Patriots" alias="NE"/>
+        <team-city city="New England"/>
+        <injury-info information=""/>
+        <player-code id="8997" global-id="213909"/>
+        <player-position position="S"/>
+        <team-code id="17" global-id="348"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Spencer" last-name="Larsen"/>
+        <team-name name="Patriots" alias="NE"/>
+        <team-city city="New England"/>
+        <injury-info information=""/>
+        <player-code id="8960" global-id="218867"/>
+        <player-position position="RB"/>
+        <team-code id="17" global-id="348"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Davin" last-name="Joseph"/>
+        <team-name name="Buccaneers" alias="TB"/>
+        <team-city city="Tampa Bay"/>
+        <injury-info information="torn right patellar tendon"/>
+        <player-code id="7772" global-id="214934"/>
+        <player-position position="G"/>
+        <team-code id="27" global-id="362"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Jameson" last-name="Konz"/>
+        <team-name name="Seahawks" alias="Sea"/>
+        <team-city city="Seattle"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="24220" global-id="287597"/>
+        <player-position position="LB"/>
+        <team-code id="26" global-id="361"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Cameron" last-name="Morrah"/>
+        <team-name name="Seahawks" alias="Sea"/>
+        <team-city city="Seattle"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="9512" global-id="324361"/>
+        <player-position position="TE"/>
+        <team-code id="26" global-id="361"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="27" day="1"/>
+        <name first-name="Ra'Shon" last-name="Harris"/>
+        <team-name name="Texans" alias="Hou"/>
+        <team-city city="Houston"/>
+        <injury-info information="triceps"/>
+        <player-code id="9469" global-id="266997"/>
+        <player-position position="NT"/>
+        <team-code id="34" global-id="325"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="28" day="2"/>
+        <name first-name="Josh" last-name="Baker"/>
+        <team-name name="Jets" alias="NYJ"/>
+        <team-city city="New York"/>
+        <injury-info information="torn right ACL"/>
+        <player-code id="25317" global-id="605210"/>
+        <player-position position="TE"/>
+        <team-code id="20" global-id="352"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="28" day="2"/>
+        <name first-name="Brock" last-name="Bolen"/>
+        <team-name name="Jaguars" alias="Jac"/>
+        <team-city city="Jacksonville"/>
+        <injury-info information="knee"/>
+        <player-code id="9635" global-id="247222"/>
+        <player-position position="RB"/>
+        <team-code id="30" global-id="365"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="28" day="2"/>
+        <name first-name="Marcus" last-name="Benard"/>
+        <team-name name="Browns" alias="Cle"/>
+        <team-city city="Cleveland"/>
+        <injury-info information="dislocated elbow"/>
+        <player-code id="9532" global-id="418358"/>
+        <player-position position="DE"/>
+        <team-code id="5" global-id="329"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="28" day="2"/>
+        <name first-name="Auston" last-name="English"/>
+        <team-name name="Browns" alias="Cle"/>
+        <team-city city="Cleveland"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="24340" global-id="304938"/>
+        <player-position position="DE"/>
+        <team-code id="5" global-id="329"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="28" day="2"/>
+        <name first-name="Antwuan" last-name="Reed"/>
+        <team-name name="Browns" alias="Cle"/>
+        <team-city city="Cleveland"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26374" global-id="464540"/>
+        <player-position position="CB"/>
+        <team-code id="5" global-id="329"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="28" day="2"/>
+        <name first-name="Caleb" last-name="McSurdy"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="Achilles"/>
+        <player-code id="25932" global-id="459834"/>
+        <player-position position="LB"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="29" day="3"/>
+        <name first-name="Rashawn" last-name="Jackson"/>
+        <team-name name="Raiders" alias="Oak"/>
+        <team-city city="Oakland"/>
+        <injury-info information="hip"/>
+        <player-code id="24341" global-id="316879"/>
+        <player-position position="RB"/>
+        <team-code id="13" global-id="341"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="29" day="3"/>
+        <name first-name="Ed" last-name="Wang"/>
+        <team-name name="Raiders" alias="Oak"/>
+        <team-city city="Oakland"/>
+        <injury-info information="shoulder"/>
+        <player-code id="24116" global-id="299096"/>
+        <player-position position="T"/>
+        <team-code id="13" global-id="341"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="29" day="3"/>
+        <name first-name="Zach" last-name="Hurd"/>
+        <team-name name="Raiders" alias="Oak"/>
+        <team-city city="Oakland"/>
+        <injury-info information="head"/>
+        <player-code id="25099" global-id="334528"/>
+        <player-position position="T"/>
+        <team-code id="13" global-id="341"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Terrence" last-name="Wheatley"/>
+        <team-name name="Titans" alias="Ten"/>
+        <team-city city="Tennessee"/>
+        <injury-info information="knee"/>
+        <player-code id="8839" global-id="214589"/>
+        <player-position position="CB"/>
+        <team-code id="10" global-id="336"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Matt" last-name="Balasavage"/>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <injury-info information="ankle"/>
+        <player-code id="26470" global-id="399203"/>
+        <player-position position="TE"/>
+        <team-code id="33" global-id="366"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Tory" last-name="Humphrey"/>
+        <team-name name="Raiders" alias="Oak"/>
+        <team-city city="Oakland"/>
+        <injury-info information="hamstring"/>
+        <player-code id="7598" global-id="158889"/>
+        <player-position position="TE"/>
+        <team-code id="13" global-id="341"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Rashad" last-name="Butler"/>
+        <team-name name="Texans" alias="Hou"/>
+        <team-city city="Houston"/>
+        <injury-info information="triceps"/>
+        <player-code id="7838" global-id="157363"/>
+        <player-position position="T"/>
+        <team-code id="34" global-id="325"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Sean" last-name="Spence"/>
+        <team-name name="Steelers" alias="Pit"/>
+        <team-city city="Pittsburgh"/>
+        <injury-info information="torn left ACL"/>
+        <player-code id="25796" global-id="447335"/>
+        <player-position position="LB"/>
+        <team-code id="23" global-id="356"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Javarris" last-name="James"/>
+        <team-name name="Cardinals" alias="Ari"/>
+        <team-city city="Arizona"/>
+        <injury-info information="knee"/>
+        <player-code id="24462" global-id="323397"/>
+        <player-position position="RB"/>
+        <team-code id="22" global-id="355"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Tony" last-name="Dye"/>
+        <team-name name="Bengals" alias="Cin"/>
+        <team-city city="Cincinnati"/>
+        <injury-info information="ankle"/>
+        <player-code id="26459" global-id="461680"/>
+        <player-position position="S"/>
+        <team-code id="4" global-id="327"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Jeremy" last-name="Beal"/>
+        <team-name name="Broncos" alias="Den"/>
+        <team-city city="Denver"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="25034" global-id="333283"/>
+        <player-position position="DE"/>
+        <team-code id="7" global-id="332"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Jabin" last-name="Sambrano"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26216" global-id="459850"/>
+        <player-position position="WR"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Korey" last-name="Lindsey"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="24994" global-id="394014"/>
+        <player-position position="CB"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Zebrie" last-name="Sanders"/>
+        <team-name name="Bills" alias="Buf"/>
+        <team-city city="Buffalo"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="25854" global-id="462040"/>
+        <player-position position="T"/>
+        <team-code id="2" global-id="324"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Sean" last-name="Cattouse"/>
+        <team-name name="Chargers" alias="SD"/>
+        <team-city city="San Diego"/>
+        <injury-info information=""/>
+        <player-code id="26187" global-id="401720"/>
+        <player-position position="S"/>
+        <team-code id="24" global-id="357"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Joe" last-name="Banyard"/>
+        <team-name name="Saints" alias="NO"/>
+        <team-city city="New Orleans"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26079" global-id="400140"/>
+        <player-position position="RB"/>
+        <team-code id="18" global-id="350"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Jose" last-name="Gumbs"/>
+        <team-name name="Saints" alias="NO"/>
+        <team-city city="New Orleans"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26034" global-id="472355"/>
+        <player-position position="S"/>
+        <team-code id="18" global-id="350"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Marquis" last-name="Johnson"/>
+        <team-name name="Saints" alias="NO"/>
+        <team-city city="New Orleans"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="24187" global-id="333929"/>
+        <player-position position="CB"/>
+        <team-code id="18" global-id="350"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Nick" last-name="Toon"/>
+        <team-name name="Saints" alias="NO"/>
+        <team-city city="New Orleans"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="25832" global-id="399420"/>
+        <player-position position="WR"/>
+        <team-code id="18" global-id="350"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Terrell" last-name="Thomas"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="right knee"/>
+        <player-code id="8840" global-id="214320"/>
+        <player-position position="CB"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Dave" last-name="Ball"/>
+        <team-name name="Titans" alias="Ten"/>
+        <team-city city="Tennessee"/>
+        <injury-info information="concussion"/>
+        <player-code id="6892" global-id="246340"/>
+        <player-position position="DE"/>
+        <team-code id="10" global-id="336"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Shaun" last-name="Rogers"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="blood clot"/>
+        <player-code id="5508" global-id="25627"/>
+        <player-position position="DT"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Leger" last-name="Douzable"/>
+        <team-name name="Titans" alias="Ten"/>
+        <team-city city="Tennessee"/>
+        <injury-info information="shoulder"/>
+        <player-code id="9110" global-id="248230"/>
+        <player-position position="DE"/>
+        <team-code id="10" global-id="336"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Ryan" last-name="Durand"/>
+        <team-name name="Titans" alias="Ten"/>
+        <team-city city="Tennessee"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="9503" global-id="271405"/>
+        <player-position position="G"/>
+        <team-code id="10" global-id="336"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Kevin" last-name="Malast"/>
+        <team-name name="Titans" alias="Ten"/>
+        <team-city city="Tennessee"/>
+        <injury-info information=""/>
+        <player-code id="9744" global-id="300590"/>
+        <player-position position="LB"/>
+        <team-code id="10" global-id="336"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Vic" last-name="So'oto"/>
+        <team-name name="Packers" alias="GB"/>
+        <team-city city="Green Bay"/>
+        <injury-info information="ankle"/>
+        <player-code id="25478" global-id="304053"/>
+        <player-position position="LB"/>
+        <team-code id="9" global-id="335"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Jeff" last-name="Demps"/>
+        <team-name name="Patriots" alias="NE"/>
+        <team-city city="New England"/>
+        <injury-info information="leg"/>
+        <player-code id="26591" global-id="463167"/>
+        <player-position position="RB"/>
+        <team-code id="17" global-id="348"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="DeMarcus" last-name="Love"/>
+        <team-name name="Vikings" alias="Min"/>
+        <team-city city="Minnesota"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="24955" global-id="333915"/>
+        <player-position position="T"/>
+        <team-code id="16" global-id="347"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Damien" last-name="Berry"/>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <injury-info information="neck, shoulder"/>
+        <player-code id="25355" global-id="398104"/>
+        <player-position position="RB"/>
+        <team-code id="33" global-id="366"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Justin" last-name="Boren"/>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <injury-info information="foot"/>
+        <player-code id="25356" global-id="323512"/>
+        <player-position position="G"/>
+        <team-code id="33" global-id="366"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Ricky" last-name="Brown"/>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <injury-info information="head"/>
+        <player-code id="8135" global-id="216201"/>
+        <player-position position="LB"/>
+        <team-code id="33" global-id="366"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Bruce" last-name="Figgins"/>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <injury-info information="shoulder"/>
+        <player-code id="26515" global-id="406205"/>
+        <player-position position="TE"/>
+        <team-code id="33" global-id="366"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Tommy" last-name="Streeter"/>
+        <team-name name="Ravens" alias="Bal"/>
+        <team-city city="Baltimore"/>
+        <injury-info information="foot"/>
+        <player-code id="25908" global-id="464668"/>
+        <player-position position="WR"/>
+        <team-code id="33" global-id="366"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="De'Quan" last-name="Menzie"/>
+        <team-name name="Chiefs" alias="KC"/>
+        <team-city city="Kansas City"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="25856" global-id="557172"/>
+        <player-position position="CB"/>
+        <team-code id="12" global-id="339"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Alex" last-name="Tanney"/>
+        <team-name name="Chiefs" alias="KC"/>
+        <team-city city="Kansas City"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26547" global-id="616337"/>
+        <player-position position="QB"/>
+        <team-code id="12" global-id="339"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Matt" last-name="McCoy"/>
+        <team-name name="Seahawks" alias="Sea"/>
+        <team-city city="Seattle"/>
+        <injury-info information="knee"/>
+        <player-code id="7239" global-id="156395"/>
+        <player-position position="LB"/>
+        <team-code id="26" global-id="361"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Marquette" last-name="King"/>
+        <team-name name="Raiders" alias="Oak"/>
+        <team-city city="Oakland"/>
+        <injury-info information="toe"/>
+        <player-code id="26422" global-id="527640"/>
+        <player-position position="P"/>
+        <team-code id="13" global-id="341"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Brandon" last-name="Underwood"/>
+        <team-name name="Raiders" alias="Oak"/>
+        <team-city city="Oakland"/>
+        <injury-info information="hip, groin"/>
+        <player-code id="9451" global-id="246839"/>
+        <player-position position="S"/>
+        <team-code id="13" global-id="341"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="8" date="31" day="5"/>
+        <name first-name="Will" last-name="Rackley"/>
+        <team-name name="Jaguars" alias="Jac"/>
+        <team-city city="Jacksonville"/>
+        <injury-info information="ankle"/>
+        <player-code id="24863" global-id="463794"/>
+        <player-position position="G"/>
+        <team-code id="30" global-id="365"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="1" day="6"/>
+        <name first-name="Prince" last-name="Amukamara"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="ankle"/>
+        <player-code id="24806" global-id="406346"/>
+        <player-position position="CB"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="1" status="Day-to-Day"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="1" day="6"/>
+        <name first-name="Jerrell" last-name="Jackson"/>
+        <team-name name="Texans" alias="Hou"/>
+        <team-city city="Houston"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26292" global-id="463399"/>
+        <player-position position="WR"/>
+        <team-code id="34" global-id="325"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="1" day="6"/>
+        <name first-name="Tauren" last-name="Poole"/>
+        <team-name name="Panthers" alias="Car"/>
+        <team-city city="Carolina"/>
+        <injury-info information="ribs"/>
+        <player-code id="26103" global-id="449463"/>
+        <player-position position="RB"/>
+        <team-code id="29" global-id="364"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="1" day="6"/>
+        <name first-name="Lee" last-name="Ziemba"/>
+        <team-name name="Panthers" alias="Car"/>
+        <team-city city="Carolina"/>
+        <injury-info information="knee"/>
+        <player-code id="25031" global-id="401816"/>
+        <player-position position="T"/>
+        <team-code id="29" global-id="364"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="1" day="6"/>
+        <name first-name="James" last-name="Aiono"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26204" global-id="383503"/>
+        <player-position position="DE"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="1" day="6"/>
+        <name first-name="Deji" last-name="Karim"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="24156" global-id="405962"/>
+        <player-position position="RB"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="1" day="6"/>
+        <name first-name="Brandon" last-name="King"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="24469" global-id="296510"/>
+        <player-position position="CB"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="1" day="6"/>
+        <name first-name="Mike" last-name="Newton"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="24466" global-id="287654"/>
+        <player-position position="S"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="1" day="6"/>
+        <name first-name="Vai" last-name="Taua"/>
+        <team-name name="Seahawks" alias="Sea"/>
+        <team-city city="Seattle"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="25396" global-id="332569"/>
+        <player-position position="RB"/>
+        <team-code id="26" global-id="361"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="1" day="6"/>
+        <name first-name="Desmond" last-name="Wynn"/>
+        <team-name name="Buccaneers" alias="TB"/>
+        <team-city city="Tampa Bay"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="26056" global-id="403257"/>
+        <player-position position="G"/>
+        <team-code id="27" global-id="362"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="3" day="1"/>
+        <name first-name="Zach" last-name="Miller"/>
+        <team-name name="Jaguars" alias="Jac"/>
+        <team-city city="Jacksonville"/>
+        <injury-info information="calf"/>
+        <player-code id="9444" global-id="245993"/>
+        <player-position position="TE"/>
+        <team-code id="30" global-id="365"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="3" day="1"/>
+        <name first-name="Tristan" last-name="Davis"/>
+        <team-name name="Redskins" alias="Was"/>
+        <team-city city="Washington"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="9624" global-id="263102"/>
+        <player-position position="RB"/>
+        <team-code id="28" global-id="363"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="3" day="1"/>
+        <name first-name="Dorson" last-name="Boyce"/>
+        <team-name name="Redskins" alias="Was"/>
+        <team-city city="Washington"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="25102" global-id="513531"/>
+        <player-position position="RB"/>
+        <team-code id="28" global-id="363"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="3" day="1"/>
+        <name first-name="Shann" last-name="Schillinger"/>
+        <team-name name="Falcons" alias="Atl"/>
+        <team-city city="Atlanta"/>
+        <injury-info information="foot"/>
+        <player-code id="24147" global-id="294183"/>
+        <player-position position="S"/>
+        <team-code id="1" global-id="323"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="3" day="1"/>
+        <name first-name="Tyler" last-name="Grisham"/>
+        <team-name name="Broncos" alias="Den"/>
+        <team-city city="Denver"/>
+        <injury-info information="knee"/>
+        <player-code id="9672" global-id="297294"/>
+        <player-position position="WR"/>
+        <team-code id="7" global-id="332"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="3" day="1"/>
+        <name first-name="Tim" last-name="Fugger"/>
+        <team-name name="Colts" alias="Ind"/>
+        <team-city city="Indianapolis"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="25924" global-id="398191"/>
+        <player-position position="LB"/>
+        <team-code id="11" global-id="338"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="3" day="1"/>
+        <name first-name="Jeremy" last-name="Bridges"/>
+        <team-name name="Cardinals" alias="Ari"/>
+        <team-city city="Arizona"/>
+        <injury-info information="thumb"/>
+        <player-code id="6521" global-id="184710"/>
+        <player-position position="T"/>
+        <team-code id="22" global-id="355"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="3" day="1"/>
+        <name first-name="Parys" last-name="Haralson"/>
+        <team-name name="49ers" alias="SF"/>
+        <team-city city="San Francisco"/>
+        <injury-info information="undisclosed"/>
+        <player-code id="7889" global-id="217301"/>
+        <player-position position="LB"/>
+        <team-code id="25" global-id="359"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="4" day="2"/>
+        <name first-name="Brett" last-name="Brackett"/>
+        <team-name name="Jaguars" alias="Jac"/>
+        <team-city city="Jacksonville"/>
+        <injury-info information="knee"/>
+        <player-code id="25331" global-id="380690"/>
+        <player-position position="TE"/>
+        <team-code id="30" global-id="365"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="4" day="2"/>
+        <name first-name="Ron" last-name="Brooks"/>
+        <team-name name="Bills" alias="Buf"/>
+        <team-city city="Buffalo"/>
+        <injury-info information="foot surgery"/>
+        <player-code id="25834" global-id="381630"/>
+        <player-position position="CB"/>
+        <team-code id="2" global-id="324"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="11" status="Injured-Reserve (DFR)"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="4" day="2"/>
+        <name first-name="Kyle" last-name="Cook"/>
+        <team-name name="Bengals" alias="Cin"/>
+        <team-city city="Cincinnati"/>
+        <injury-info information="foot"/>
+        <player-code id="8628" global-id="215896"/>
+        <player-position position="C"/>
+        <team-code id="4" global-id="327"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="11" status="Injured-Reserve (DFR)"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="4" day="2"/>
+        <name first-name="Vincent" last-name="Brown"/>
+        <team-name name="Chargers" alias="SD"/>
+        <team-city city="San Diego"/>
+        <injury-info information="broken left ankle"/>
+        <player-code id="24869" global-id="402074"/>
+        <player-position position="WR"/>
+        <team-code id="24" global-id="357"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="11" status="Injured-Reserve (DFR)"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="4" day="2"/>
+        <name first-name="Artis" last-name="Hicks"/>
+        <team-name name="Dolphins" alias="Mia"/>
+        <team-city city="Miami"/>
+        <injury-info information="neck"/>
+        <player-code id="6235" global-id="171662"/>
+        <player-position position="G"/>
+        <team-code id="15" global-id="345"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="2" status="IR"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Prince" last-name="Amukamara"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="ankle"/>
+        <player-code id="24806" global-id="406346"/>
+        <player-position position="CB"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="6" status="Out"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Marvin" last-name="Austin"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="back"/>
+        <player-code id="24839" global-id="400026"/>
+        <player-position position="DT"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="6" status="Out"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="James" last-name="Brewer"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="back"/>
+        <player-code id="24904" global-id="333436"/>
+        <player-position position="T"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="6" status="Out"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Will" last-name="Beatty"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="back"/>
+        <player-code id="9324" global-id="267327"/>
+        <player-position position="T"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="4" status="Questionable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Michael" last-name="Boley"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="hamstring"/>
+        <player-code id="7336" global-id="140538"/>
+        <player-position position="LB"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="4" status="Questionable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Jayron" last-name="Hosley"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="toe"/>
+        <player-code id="25804" global-id="507520"/>
+        <player-position position="CB"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="4" status="Questionable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Mathias" last-name="Kiwanuka"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="groin"/>
+        <player-code id="7781" global-id="162682"/>
+        <player-position position="LB"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="4" status="Questionable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Hakeem" last-name="Nicks"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="foot"/>
+        <player-code id="9293" global-id="323361"/>
+        <player-position position="WR"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="4" status="Questionable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Da'Rel" last-name="Scott"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="knee"/>
+        <player-code id="25008" global-id="335274"/>
+        <player-position position="RB"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="4" status="Questionable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Adrian" last-name="Tracy"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="hamstring"/>
+        <player-code id="24160" global-id="325658"/>
+        <player-position position="DE"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="4" status="Questionable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Ahmad" last-name="Bradshaw"/>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <injury-info information="hand"/>
+        <player-code id="8504" global-id="267892"/>
+        <player-position position="RB"/>
+        <team-code id="19" global-id="351"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="3" status="Probable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Matt" last-name="Johnson"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="hamstring"/>
+        <player-code id="25845" global-id="386113"/>
+        <player-position position="S"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="6" status="Out"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Jay" last-name="Ratliff"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="ankle"/>
+        <player-code id="7400" global-id="141051"/>
+        <player-position position="NT"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="6" status="Out"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Danny" last-name="McCray"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="neck"/>
+        <player-code id="24605" global-id="323228"/>
+        <player-position position="S"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="5" status="Doubtful"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Jason" last-name="Witten"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="abdomen"/>
+        <player-code id="6405" global-id="184571"/>
+        <player-position position="TE"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="5" status="Doubtful"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Andre" last-name="Holmes"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="knee"/>
+        <player-code id="25234" global-id="557954"/>
+        <player-position position="WR"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="4" status="Questionable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Mike" last-name="Jenkins"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="shoulder"/>
+        <player-code id="8802" global-id="227790"/>
+        <player-position position="CB"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="4" status="Questionable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Kyle" last-name="Wilber"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="thumb"/>
+        <player-code id="25823" global-id="397413"/>
+        <player-position position="LB"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="4" status="Questionable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Miles" last-name="Austin"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="hamstring"/>
+        <player-code id="8021" global-id="222199"/>
+        <player-position position="WR"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="3" status="Probable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Dez" last-name="Bryant"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="knee"/>
+        <player-code id="23999" global-id="397499"/>
+        <player-position position="WR"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="3" status="Probable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Dan" last-name="Connor"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="hip"/>
+        <player-code id="8851" global-id="246776"/>
+        <player-position position="LB"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="3" status="Probable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Phil" last-name="Costa"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="back"/>
+        <player-code id="24595" global-id="284913"/>
+        <player-position position="C"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="3" status="Probable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="DeMarco" last-name="Murray"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="wrist"/>
+        <player-code id="24858" global-id="333272"/>
+        <player-position position="RB"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="3" status="Probable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Phillip" last-name="Tanner"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="hand"/>
+        <player-code id="25444" global-id="324781"/>
+        <player-position position="RB"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="3" status="Probable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="DeMarcus" last-name="Ware"/>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <injury-info information="hamstring"/>
+        <player-code id="7187" global-id="161722"/>
+        <player-position position="LB"/>
+        <team-code id="6" global-id="331"/>
+        <game-for-status  year="2012" month="9" date="5" day="3" week="1"/>
+        <status id="3" status="Probable"/>
+      </football-nfl-injury>
+      <football-nfl-injury>
+        <date year="2012" month="9" date="5" day="3"/>
+        <name first-name="Visanthe" last-name="Shiancoe"/>
+        <team-name name="Patriots" alias="NE"/>
+        <team-city city="New England"/>
+        <injury-info information="leg"/>
+        <player-code id="6427" global-id="184593"/>
+        <player-position position="TE"/>
+        <team-code id="17" global-id="348"/>
+        <game-for-status year="" month="" date="" day="" week=""/>
+        <status id="11" status="Injured-Reserve (DFR)"/>
+      </football-nfl-injury>
+    </football-nfl-injury-report>
+  </sports-injuries>
+</sports-statistics>

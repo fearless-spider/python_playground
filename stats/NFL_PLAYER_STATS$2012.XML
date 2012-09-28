@@ -1,0 +1,3935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-rankings>
+    <date year="2012" month="9" date="6" day="4"/>
+    <time hour="2" minute="14" second="23" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="3"/>
+    <season season="2012"/>
+    <nfl-player-stats>
+      <name first-name="Alex" last-name="Albright"/>
+      <player-code id="25426" global-id="331910"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="55"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="1"/>
+          <special-teams-assists assists="1"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Miles" last-name="Austin"/>
+      <player-code id="8021" global-id="222199"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="1" position="WR"/>
+      <player-number number="19"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="1" missed-FG-return="0"/>
+          <points points="6"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="true"/>
+          <receptions receptions="4"/>
+          <yards yards="73" yards-per-reception="18.25" yards-per-game="73.0"/>
+          <first-downs first-downs="2" percentage="50.0"/>
+          <touchdowns touchdowns="1" percentage="25.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="1"/>
+          <long long="34" touchdown="true"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="4" percent-caught="100.0" percent-first-down="50.0"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="David" last-name="Baas"/>
+      <player-code id="7209" global-id="143689"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="4" position="C"/>
+      <player-number number="64"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Dan" last-name="Bailey"/>
+      <player-code id="25427" global-id="333899"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="22" position="K"/>
+      <player-number number="5"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="6"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-kicking>
+          <leader-kicking-qualification qualification="true"/>
+          <extra-points made="3" attempted="3" percentage="100.0"/>
+          <field-goals made="1" attempted="1" percentage="100.0"/>
+          <field-goals-0-19 made="0" attempted="0"/>
+          <field-goals-20-29 made="0" attempted="0"/>
+          <field-goals-30-39 made="1" attempted="1"/>
+          <field-goals-40-49 made="0" attempted="0"/>
+          <field-goals-50-plus made="0" attempted="0"/>
+          <kickoffs number="5" touchbacks="0" returns="5" return-yards="100" avg-start="19.2"/>
+          <onside-kickoffs attempted="0" successful="0"/>
+          <kickoff-yards yards="329" average="65.8"/>
+          <long-field-goal yards="33"/>
+          <kicking-points points="6"/>
+          <field-goal-averages attempt="33.0" made="33.0" miss="-"/>
+        </nfl-player-stats-kicking>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Ramses" last-name="Barden"/>
+      <player-code id="9349" global-id="288568"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="1" position="WR"/>
+      <player-number number="13"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Cole" last-name="Beasley"/>
+      <player-code id="26060" global-id="460830"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="1" position="WR"/>
+      <player-number number="11"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Will" last-name="Beatty"/>
+      <player-code id="9324" global-id="267327"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="95" position="T"/>
+      <player-number number="65"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Martellus" last-name="Bennett"/>
+      <player-code id="8838" global-id="302238"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="7" position="TE"/>
+      <player-number number="85"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="1" missed-FG-return="0"/>
+          <points points="6"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="true"/>
+          <receptions receptions="4"/>
+          <yards yards="40" yards-per-reception="10.00" yards-per-game="40.0"/>
+          <first-downs first-downs="2" percentage="50.0"/>
+          <touchdowns touchdowns="1" percentage="25.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="12" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="6" percent-caught="66.7" percent-first-down="33.3"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Mackenzy" last-name="Bernadeau"/>
+      <player-code id="9027" global-id="399682"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="91" position="G"/>
+      <player-number number="73"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Rocky" last-name="Bernard"/>
+      <player-code id="6032" global-id="81125"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="32" position="DT"/>
+      <player-number number="95"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="2"/>
+          <assists assists="1"/>
+          <total-tackles tackles="3"/>
+          <sacks sacks="1.0" yards="8.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Chase" last-name="Blackburn"/>
+      <player-code id="7470" global-id="156069"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="93"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="5"/>
+          <assists assists="1"/>
+          <total-tackles tackles="6"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Michael" last-name="Boley"/>
+      <player-code id="7336" global-id="140538"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="59"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="1"/>
+          <assists assists="0"/>
+          <total-tackles tackles="1"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="1" yards="51" touchdowns="0"/>
+          <interception-long yards="51" touchdown="false"/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="1"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Kevin" last-name="Boothe"/>
+      <player-code id="7925" global-id="164902"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="91" position="G"/>
+      <player-number number="77"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Ahmad" last-name="Bradshaw"/>
+      <player-code id="8504" global-id="267892"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="9" position="RB"/>
+      <player-number number="44"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="1" missed-FG-return="0"/>
+          <points points="6"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-rushing>
+          <leader-rushing-qualification qualification="true"/>
+          <attempts attempts="17"/>
+          <yards yards="78" yards-per-attempt="4.59" yards-per-game="78.0"/>
+          <first-downs first-downs="3" percentage="17.6"/>
+          <touchdowns touchdowns="1" percentage="5.9"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="2"/>
+          <long long="33" touchdown="false"/>
+          <rushing-yards-lost-to-penalties yards="0"/>
+          <stuffed stuffs="2" yards="3" percentage="11.8"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-rushing>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="true"/>
+          <receptions receptions="2"/>
+          <yards yards="15" yards-per-reception="7.50" yards-per-game="15.0"/>
+          <first-downs first-downs="1" percentage="50.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="9" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="2" percent-caught="100.0" percent-first-down="50.0"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Josh" last-name="Brent"/>
+      <player-code id="24744" global-id="399863"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="12" position="NT"/>
+      <player-number number="92"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="0"/>
+          <assists assists="2"/>
+          <total-tackles tackles="2"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.5" yards="0.5"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Andre" last-name="Brown"/>
+      <player-code id="9393" global-id="262573"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="9" position="RB"/>
+      <player-number number="35"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-kickoff-returning>
+          <leader-kickoff-returning-qualification qualification="true"/>
+          <returns returns="2" yards="29" average="14.5"/>
+          <long yards="22" touchdown="false"/>
+          <touchdowns touchdowns="0"/>
+          <fair-catches fair-catches="0"/>
+          <fumbles fumbles="0" lost="0"/>
+        </nfl-player-stats-kickoff-returning>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Stevie" last-name="Brown"/>
+      <player-code id="24227" global-id="335662"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="36" position="S"/>
+      <player-number number="27"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="2"/>
+          <special-teams-assists assists="0"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Dez" last-name="Bryant"/>
+      <player-code id="23999" global-id="397499"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="1" position="WR"/>
+      <player-number number="88"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="true"/>
+          <receptions receptions="4"/>
+          <yards yards="85" yards-per-reception="21.25" yards-per-game="85.0"/>
+          <first-downs first-downs="3" percentage="75.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="1"/>
+          <long long="38" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="5" percent-caught="80.0" percent-first-down="60.0"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+        <nfl-player-stats-punt-returning>
+          <leader-punt-returning-qualification qualification="true"/>
+          <returns returns="2" yards="0" average="0.0"/>
+          <long yards="1" touchdown="false"/>
+          <touchdowns touchdowns="0"/>
+          <fair-catches fair-catches="0"/>
+          <fumbles fumbles="0" lost="0"/>
+        </nfl-player-stats-punt-returning>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Mario" last-name="Butler"/>
+      <player-code id="25429" global-id="398653"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="29" position="CB"/>
+      <player-number number="31"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Victor" last-name="Butler"/>
+      <player-code id="9374" global-id="301640"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="57"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Brandon" last-name="Carr"/>
+      <player-code id="8906" global-id="399716"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="29" position="CB"/>
+      <player-number number="39"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="1"/>
+          <assists assists="0"/>
+          <total-tackles tackles="1"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="1"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Bruce" last-name="Carter"/>
+      <player-code id="24827" global-id="323334"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="54"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="4"/>
+          <assists assists="1"/>
+          <total-tackles tackles="5"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Barry" last-name="Church"/>
+      <player-code id="24603" global-id="324487"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="36" position="S"/>
+      <player-number number="42"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="0"/>
+          <assists assists="1"/>
+          <total-tackles tackles="1"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="1" yards="6" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="1"/>
+          <special-teams-assists assists="0"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Morris" last-name="Claiborne"/>
+      <player-code id="25716" global-id="498964"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="29" position="CB"/>
+      <player-number number="24"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="4"/>
+          <assists assists="0"/>
+          <total-tackles tackles="4"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Michael" last-name="Coe"/>
+      <player-code id="8427" global-id="216905"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="29" position="CB"/>
+      <player-number number="37"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="3"/>
+          <assists assists="2"/>
+          <total-tackles tackles="5"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="1"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Kenyon" last-name="Coleman"/>
+      <player-code id="6033" global-id="81126"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="32" position="DT"/>
+      <player-number number="99"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="1"/>
+          <assists assists="0"/>
+          <total-tackles tackles="1"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Dan" last-name="Connor"/>
+      <player-code id="8851" global-id="246776"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="52"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Ryan" last-name="Cook"/>
+      <player-code id="7800" global-id="217699"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="4" position="C"/>
+      <player-number number="63"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Jim" last-name="Cordle"/>
+      <player-code id="24555" global-id="296895"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="4" position="C"/>
+      <player-number number="63"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Phil" last-name="Costa"/>
+      <player-code id="24595" global-id="284913"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="4" position="C"/>
+      <player-number number="67"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Tyrone" last-name="Crawford"/>
+      <player-code id="25791" global-id="541682"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="32" position="DT"/>
+      <player-number number="70"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Victor" last-name="Cruz"/>
+      <player-code id="24553" global-id="248251"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="1" position="WR"/>
+      <player-number number="80"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="true"/>
+          <receptions receptions="6"/>
+          <yards yards="58" yards-per-reception="9.67" yards-per-game="58.0"/>
+          <first-downs first-downs="3" percentage="50.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="1"/>
+          <long long="26" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="11" percent-caught="54.5" percent-first-down="27.3"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Zak" last-name="DeOssie"/>
+      <player-code id="8370" global-id="232667"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="51"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="1"/>
+          <special-teams-assists assists="0"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="David" last-name="Diehl"/>
+      <player-code id="6496" global-id="184685"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="95" position="T"/>
+      <player-number number="66"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Derrick" last-name="Dockery"/>
+      <player-code id="6417" global-id="184583"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="91" position="G"/>
+      <player-number number="76"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Doug" last-name="Free"/>
+      <player-code id="8376" global-id="219967"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="95" position="T"/>
+      <player-number number="68"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="James" last-name="Hanna"/>
+      <player-code id="25896" global-id="447735"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="7" position="TE"/>
+      <player-number number="84"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="false"/>
+          <receptions receptions="1"/>
+          <yards yards="10" yards-per-reception="10.00" yards-per-game="10.0"/>
+          <first-downs first-downs="1" percentage="100.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="10" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="1" percent-caught="100.0" percent-first-down="100.0"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="1"/>
+          <special-teams-assists assists="0"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Dwayne" last-name="Harris"/>
+      <player-code id="24963" global-id="324534"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="1" position="WR"/>
+      <player-number number="17"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-punt-returning>
+          <leader-punt-returning-qualification qualification="false"/>
+          <returns returns="1" yards="3" average="3.0"/>
+          <long yards="3" touchdown="false"/>
+          <touchdowns touchdowns="0"/>
+          <fair-catches fair-catches="0"/>
+          <fumbles fumbles="0" lost="0"/>
+        </nfl-player-stats-punt-returning>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Jason" last-name="Hatcher"/>
+      <player-code id="7841" global-id="228692"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="32" position="DT"/>
+      <player-number number="97"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="4"/>
+          <assists assists="1"/>
+          <total-tackles tackles="5"/>
+          <sacks sacks="1.0" yards="5.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Mark" last-name="Herzlich"/>
+      <player-code id="25509" global-id="331928"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="58"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Will" last-name="Hill"/>
+      <player-code id="26478" global-id="463209"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="36" position="S"/>
+      <player-number number="31"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="1"/>
+          <special-teams-assists assists="0"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Domenik" last-name="Hixon"/>
+      <player-code id="7879" global-id="218188"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="1" position="WR"/>
+      <player-number number="87"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="true"/>
+          <receptions receptions="3"/>
+          <yards yards="55" yards-per-reception="18.33" yards-per-game="55.0"/>
+          <first-downs first-downs="2" percentage="66.7"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="1"/>
+          <long long="39" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="5" percent-caught="60.0" percent-first-down="40.0"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+        <nfl-player-stats-punt-returning>
+          <leader-punt-returning-qualification qualification="false"/>
+          <returns returns="1" yards="5" average="5.0"/>
+          <long yards="5" touchdown="false"/>
+          <touchdowns touchdowns="0"/>
+          <fair-catches fair-catches="1"/>
+          <fumbles fumbles="0" lost="0"/>
+        </nfl-player-stats-punt-returning>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Andre" last-name="Holmes"/>
+      <player-code id="25234" global-id="557954"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="1" position="WR"/>
+      <player-number number="15"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="1"/>
+          <special-teams-assists assists="0"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Jayron" last-name="Hosley"/>
+      <player-code id="25804" global-id="507520"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="29" position="CB"/>
+      <player-number number="28"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="0"/>
+          <assists assists="1"/>
+          <total-tackles tackles="1"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Henry" last-name="Hynoski"/>
+      <player-code id="25505" global-id="397940"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="9" position="RB"/>
+      <player-number number="45"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="false"/>
+          <receptions receptions="1"/>
+          <yards yards="1" yards-per-reception="1.00" yards-per-game="1.0"/>
+          <first-downs first-downs="0" percentage="0.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="1" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="1" percent-caught="100.0" percent-first-down="0.0"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Chris" last-name="Jones"/>
+      <player-code id="25431" global-id="404804"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="23" position="P"/>
+      <player-number number="6"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-punting>
+          <leader-punting-qualification qualification="false"/>
+          <punts punts="2" yards="108" average="54.0" net-average="51.5"/>
+          <long yards="60"/>
+          <inside-20 punts="1"/>
+          <inside-10 punts="0"/>
+          <blocked punts="0"/>
+          <touchbacks touchbacks="0"/>
+          <fair-catches fair-catches="1"/>
+          <punt-returns returns="1"/>
+          <punt-return-yards yards="5"/>
+        </nfl-player-stats-punting>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Felix" last-name="Jones"/>
+      <player-code id="8799" global-id="288072"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="9" position="RB"/>
+      <player-number number="28"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="false"/>
+          <receptions receptions="0"/>
+          <yards yards="0" yards-per-reception="-" yards-per-game="0.0"/>
+          <first-downs first-downs="0" percentage="-"/>
+          <touchdowns touchdowns="0" percentage="-"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="" touchdown=""/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="2" percent-caught="0.0" percent-first-down="0.0"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+        <nfl-player-stats-kickoff-returning>
+          <leader-kickoff-returning-qualification qualification="true"/>
+          <returns returns="3" yards="61" average="20.3"/>
+          <long yards="25" touchdown="false"/>
+          <touchdowns touchdowns="0"/>
+          <fair-catches fair-catches="0"/>
+          <fumbles fumbles="0" lost="0"/>
+        </nfl-player-stats-kickoff-returning>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Linval" last-name="Joseph"/>
+      <player-code id="24021" global-id="402468"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="32" position="DT"/>
+      <player-number number="97"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="2"/>
+          <assists assists="0"/>
+          <total-tackles tackles="2"/>
+          <sacks sacks="1.0" yards="9.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Mathias" last-name="Kiwanuka"/>
+      <player-code id="7781" global-id="162682"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="94"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="1"/>
+          <assists assists="0"/>
+          <total-tackles tackles="1"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Markus" last-name="Kuhn"/>
+      <player-code id="25949" global-id="401521"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="32" position="DT"/>
+      <player-number number="78"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="0"/>
+          <assists assists="1"/>
+          <total-tackles tackles="1"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="L.P." last-name="Ladouceur"/>
+      <player-code id="7512" global-id="150215"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="31" position="DE"/>
+      <player-number number="91"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Sean" last-name="Lee"/>
+      <player-code id="24030" global-id="316771"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="50"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="10"/>
+          <assists assists="2"/>
+          <total-tackles tackles="12"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="1"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Sean" last-name="Lissemore"/>
+      <player-code id="24209" global-id="288466"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="31" position="DE"/>
+      <player-number number="95"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="1"/>
+          <assists assists="1"/>
+          <total-tackles tackles="2"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Nate" last-name="Livings"/>
+      <player-code id="8077" global-id="145128"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="91" position="G"/>
+      <player-number number="71"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Sean" last-name="Locklear"/>
+      <player-code id="6843" global-id="246134"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="95" position="T"/>
+      <player-number number="75"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Eli" last-name="Manning"/>
+      <player-code id="6760" global-id="246051"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="8" position="QB"/>
+      <player-number number="10"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-passing>
+          <leader-passing-qualification qualification="true"/>
+          <attempts attempts="32"/>
+          <completions completions="21" percentage="65.6"/>
+          <yards yards="213" yards-per-attempt="6.66" yards-per-game="213.0"/>
+          <first-downs first-downs="11" percentage="34.4"/>
+          <touchdowns touchdowns="1" percentage="3.1"/>
+          <interceptions interceptions="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <qb-rating rating="94.9"/>
+          <big-plays plays="2"/>
+          <long long="39" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <sacked sacked="3" yards="26" percentage="8.6"/>
+          <passing-yards-lost-to-penalties yards="0"/>
+          <yard-300-games games="0"/>
+          <incompletions total="11" dropped="0" bad-throw="0" defensed="0" hit-at-line="0" intercepted="0" other="11"/>
+        </nfl-player-stats-passing>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="DeMarco" last-name="Murray"/>
+      <player-code id="24858" global-id="333272"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="9" position="RB"/>
+      <player-number number="29"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-rushing>
+          <leader-rushing-qualification qualification="true"/>
+          <attempts attempts="20"/>
+          <yards yards="131" yards-per-attempt="6.55" yards-per-game="131.0"/>
+          <first-downs first-downs="4" percentage="20.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="2"/>
+          <long long="48" touchdown="false"/>
+          <rushing-yards-lost-to-penalties yards="1"/>
+          <stuffed stuffs="2" yards="4" percentage="10.0"/>
+          <yard-100-games games="1"/>
+        </nfl-player-stats-rushing>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="true"/>
+          <receptions receptions="2"/>
+          <yards yards="9" yards-per-reception="4.50" yards-per-game="9.0"/>
+          <first-downs first-downs="0" percentage="0.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="9" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="2" percent-caught="100.0" percent-first-down="0.0"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Hakeem" last-name="Nicks"/>
+      <player-code id="9293" global-id="323361"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="1" position="WR"/>
+      <player-number number="88"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="true"/>
+          <receptions receptions="4"/>
+          <yards yards="38" yards-per-reception="9.50" yards-per-game="38.0"/>
+          <first-downs first-downs="3" percentage="75.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="12" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="6" percent-caught="66.7" percent-first-down="50.0"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Kevin" last-name="Ogletree"/>
+      <player-code id="9534" global-id="306291"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="1" position="WR"/>
+      <player-number number="85"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="2" missed-FG-return="0"/>
+          <points points="12"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="true"/>
+          <receptions receptions="8"/>
+          <yards yards="114" yards-per-reception="14.25" yards-per-game="114.0"/>
+          <first-downs first-downs="5" percentage="62.5"/>
+          <touchdowns touchdowns="2" percentage="25.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="1"/>
+          <long long="40" touchdown="true"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="16"/>
+          <targets targets="11" percent-caught="72.7" percent-first-down="45.5"/>
+          <drops drops="0"/>
+          <yard-100-games games="1"/>
+        </nfl-player-stats-receiving>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Jermey" last-name="Parnell"/>
+      <player-code id="9604" global-id="450780"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="95" position="T"/>
+      <player-number number="78"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Bear" last-name="Pascoe"/>
+      <player-code id="9448" global-id="267127"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="7" position="TE"/>
+      <player-number number="86"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="false"/>
+          <receptions receptions="1"/>
+          <yards yards="6" yards-per-reception="6.00" yards-per-game="6.0"/>
+          <first-downs first-downs="0" percentage="0.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="6" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="1" percent-caught="100.0" percent-first-down="0.0"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Spencer" last-name="Paysinger"/>
+      <player-code id="25508" global-id="335048"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="52"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="0"/>
+          <special-teams-assists assists="1"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="John" last-name="Phillips"/>
+      <player-code id="9472" global-id="323332"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="7" position="TE"/>
+      <player-number number="89"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="false"/>
+          <receptions receptions="1"/>
+          <yards yards="6" yards-per-reception="6.00" yards-per-game="6.0"/>
+          <first-downs first-downs="0" percentage="0.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="6" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="1" percent-caught="100.0" percent-first-down="0.0"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Kenny" last-name="Phillips"/>
+      <player-code id="8808" global-id="300738"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="36" position="S"/>
+      <player-number number="21"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="3"/>
+          <assists assists="1"/>
+          <total-tackles tackles="4"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Jason" last-name="Pierre-Paul"/>
+      <player-code id="23990" global-id="504295"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="31" position="DE"/>
+      <player-number number="90"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="3"/>
+          <assists assists="1"/>
+          <total-tackles tackles="4"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="1.0" yards="3.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Rueben" last-name="Randle"/>
+      <player-code id="25773" global-id="498977"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="1" position="WR"/>
+      <player-number number="82"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Keith" last-name="Rivers"/>
+      <player-code id="8786" global-id="266764"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="55"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="5"/>
+          <assists assists="2"/>
+          <total-tackles tackles="7"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="1.0" yards="1.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Adrien" last-name="Robinson"/>
+      <player-code id="25837" global-id="382275"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="7" position="TE"/>
+      <player-number number="81"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Antrel" last-name="Rolle"/>
+      <player-code id="7184" global-id="157322"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="36" position="S"/>
+      <player-number number="26"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="9"/>
+          <assists assists="0"/>
+          <total-tackles tackles="9"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Tony" last-name="Romo"/>
+      <player-code id="6624" global-id="234210"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="8" position="QB"/>
+      <player-number number="9"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-passing>
+          <leader-passing-qualification qualification="true"/>
+          <attempts attempts="29"/>
+          <completions completions="22" percentage="75.9"/>
+          <yards yards="307" yards-per-attempt="10.59" yards-per-game="307.0"/>
+          <first-downs first-downs="12" percentage="41.4"/>
+          <touchdowns touchdowns="3" percentage="10.3"/>
+          <interceptions interceptions="1" percentage="3.4"/>
+          <fumbles fumbles="0" lost="0"/>
+          <qb-rating rating="129.5"/>
+          <big-plays plays="3"/>
+          <long long="40" touchdown="true"/>
+          <yards-after-catch yards="0"/>
+          <sacked sacked="2" yards="17" percentage="6.5"/>
+          <passing-yards-lost-to-penalties yards="16"/>
+          <yard-300-games games="1"/>
+          <incompletions total="7" dropped="0" bad-throw="0" defensed="0" hit-at-line="0" intercepted="1" other="6"/>
+        </nfl-player-stats-passing>
+        <nfl-player-stats-rushing>
+          <leader-rushing-qualification qualification="false"/>
+          <attempts attempts="5"/>
+          <yards yards="12" yards-per-attempt="2.40" yards-per-game="12.0"/>
+          <first-downs first-downs="1" percentage="20.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="9" touchdown="false"/>
+          <rushing-yards-lost-to-penalties yards="0"/>
+          <stuffed stuffs="0" yards="0" percentage="0.0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-rushing>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Orlando" last-name="Scandrick"/>
+      <player-code id="8909" global-id="300477"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="29" position="CB"/>
+      <player-number number="32"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="2"/>
+          <assists assists="0"/>
+          <total-tackles tackles="2"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="1"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Gerald" last-name="Sensabaugh"/>
+      <player-code id="7333" global-id="158556"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="36" position="S"/>
+      <player-number number="43"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="2"/>
+          <assists assists="0"/>
+          <total-tackles tackles="2"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="1"/>
+          <special-teams-assists assists="0"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Mana" last-name="Silva"/>
+      <player-code id="25371" global-id="339465"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="36" position="S"/>
+      <player-number number="36"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="1"/>
+          <assists assists="0"/>
+          <total-tackles tackles="1"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="1"/>
+          <special-teams-assists assists="0"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Tyron" last-name="Smith"/>
+      <player-code id="24796" global-id="459327"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="95" position="T"/>
+      <player-number number="77"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="0"/>
+          <special-teams-assists assists="0"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="1"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Chris" last-name="Snee"/>
+      <player-code id="6793" global-id="246084"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="91" position="G"/>
+      <player-number number="76"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="0"/>
+          <special-teams-assists assists="0"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="1"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Marcus" last-name="Spears"/>
+      <player-code id="7196" global-id="158523"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="31" position="DE"/>
+      <player-number number="96"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="2"/>
+          <assists assists="0"/>
+          <total-tackles tackles="2"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.5" yards="0.5"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Anthony" last-name="Spencer"/>
+      <player-code id="8280" global-id="215971"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="93"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="3"/>
+          <assists assists="4"/>
+          <total-tackles tackles="7"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="1.0" yards="2.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Phillip" last-name="Tanner"/>
+      <player-code id="25444" global-id="324781"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="9" position="RB"/>
+      <player-number number="34"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Adrian" last-name="Tracy"/>
+      <player-code id="24160" global-id="325658"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="31" position="DE"/>
+      <player-number number="98"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Justin" last-name="Tryon"/>
+      <player-code id="8904" global-id="322944"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="29" position="CB"/>
+      <player-number number="30"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="2"/>
+          <assists assists="1"/>
+          <total-tackles tackles="3"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Justin" last-name="Tuck"/>
+      <player-code id="7250" global-id="163838"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="31" position="DE"/>
+      <player-number number="91"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="1"/>
+          <assists assists="3"/>
+          <total-tackles tackles="4"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Lawrence" last-name="Tynes"/>
+      <player-code id="7022" global-id="249884"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="22" position="K"/>
+      <player-number number="9"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="5"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-kicking>
+          <leader-kicking-qualification qualification="true"/>
+          <extra-points made="2" attempted="2" percentage="100.0"/>
+          <field-goals made="1" attempted="1" percentage="100.0"/>
+          <field-goals-0-19 made="0" attempted="0"/>
+          <field-goals-20-29 made="1" attempted="1"/>
+          <field-goals-30-39 made="0" attempted="0"/>
+          <field-goals-40-49 made="0" attempted="0"/>
+          <field-goals-50-plus made="0" attempted="0"/>
+          <kickoffs number="4" touchbacks="1" returns="3" return-yards="61" avg-start="21.5"/>
+          <onside-kickoffs attempted="0" successful="0"/>
+          <kickoff-yards yards="263" average="65.8"/>
+          <long-field-goal yards="22"/>
+          <kicking-points points="5"/>
+          <field-goal-averages attempt="22.0" made="22.0" miss="-"/>
+        </nfl-player-stats-kicking>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Osi" last-name="Umenyiora"/>
+      <player-code id="6392" global-id="184558"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="31" position="DE"/>
+      <player-number number="72"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="1"/>
+          <assists assists="0"/>
+          <total-tackles tackles="1"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Lawrence" last-name="Vickers"/>
+      <player-code id="7929" global-id="214551"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="9" position="RB"/>
+      <player-number number="47"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-rushing>
+          <leader-rushing-qualification qualification="false"/>
+          <attempts attempts="1"/>
+          <yards yards="0" yards-per-attempt="0.00" yards-per-game="0.0"/>
+          <first-downs first-downs="0" percentage="0.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="0" touchdown="false"/>
+          <rushing-yards-lost-to-penalties yards="0"/>
+          <stuffed stuffs="0" yards="0" percentage="0.0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-rushing>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="0"/>
+          <special-teams-assists assists="1"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="DeMarcus" last-name="Ware"/>
+      <player-code id="7187" global-id="161722"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="94"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="5"/>
+          <assists assists="0"/>
+          <total-tackles tackles="5"/>
+          <sacks sacks="2.0" yards="21.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Steve" last-name="Weatherford"/>
+      <player-code id="8050" global-id="156624"/>
+      <has-stats offense="false" defense="false"/>
+      <player-position id="23" position="P"/>
+      <player-number number="5"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-punting>
+          <leader-punting-qualification qualification="true"/>
+          <punts punts="4" yards="201" average="50.3" net-average="44.5"/>
+          <long yards="56"/>
+          <inside-20 punts="1"/>
+          <inside-10 punts="0"/>
+          <blocked punts="0"/>
+          <touchbacks touchbacks="1"/>
+          <fair-catches fair-catches="0"/>
+          <punt-returns returns="3"/>
+          <punt-return-yards yards="3"/>
+        </nfl-player-stats-punting>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Corey" last-name="Webster"/>
+      <player-code id="7219" global-id="145017"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="29" position="CB"/>
+      <player-number number="23"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="2"/>
+          <assists assists="0"/>
+          <total-tackles tackles="2"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="1"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Jacquian" last-name="Williams"/>
+      <player-code id="24989" global-id="511903"/>
+      <has-stats offense="false" defense="true"/>
+      <player-position id="30" position="LB"/>
+      <player-number number="57"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-defense>
+          <tackles tackles="3"/>
+          <assists assists="2"/>
+          <total-tackles tackles="5"/>
+          <sacks sacks="0.0" yards="0.0"/>
+          <safeties safeties="0"/>
+          <interceptions interceptions="0" yards="0" touchdowns="0"/>
+          <interception-long yards="" touchdown=""/>
+          <fumbles forced="0"/>
+          <fumble-recoveries recoveries="0" yards="0" touchdowns="0"/>
+          <stuffed stuffs="0.0" yards="0.0"/>
+          <passes-defensed passes="0"/>
+          <hurries hurries="0"/>
+        </nfl-player-stats-defense>
+        <nfl-player-stats-miscellaneous>
+          <special-teams-tackles tackles="1"/>
+          <special-teams-assists assists="0"/>
+          <special-teams-forced-fumbles forced-fumbles="0"/>
+          <misc-tackles tackles="0"/>
+          <misc-assists assists="0"/>
+          <misc-forced-fumbles forced-fumbles="0"/>
+          <blocked-kicks blocks="0"/>
+          <misc-touchdowns touchdowns="0"/>
+          <blocked-field-goal-touchdowns touchdowns="0"/>
+          <blocked-punt-touchdowns touchdowns="0"/>
+        </nfl-player-stats-miscellaneous>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="David" last-name="Wilson"/>
+      <player-code id="25742" global-id="507532"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="9" position="RB"/>
+      <player-number number="22"/>
+      <year year="2012"/>
+      <team-name name="Giants" alias="NYG"/>
+      <team-city city="New York"/>
+      <team-code id="19" global-id="351"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Giants" alias="NYG"/>
+        <team-city city="New York"/>
+        <team-code id="19" global-id="351"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="0"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="1" lost="1" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-rushing>
+          <leader-rushing-qualification qualification="false"/>
+          <attempts attempts="2"/>
+          <yards yards="4" yards-per-attempt="2.00" yards-per-game="4.0"/>
+          <first-downs first-downs="0" percentage="0.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="1" lost="1"/>
+          <big-plays plays="0"/>
+          <long long="3" touchdown="false"/>
+          <rushing-yards-lost-to-penalties yards="0"/>
+          <stuffed stuffs="0" yards="0" percentage="0.0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-rushing>
+        <nfl-player-stats-kickoff-returning>
+          <leader-kickoff-returning-qualification qualification="true"/>
+          <returns returns="3" yards="71" average="23.7"/>
+          <long yards="32" touchdown="false"/>
+          <touchdowns touchdowns="0"/>
+          <fair-catches fair-catches="0"/>
+          <fumbles fumbles="0" lost="0"/>
+        </nfl-player-stats-kickoff-returning>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+    <nfl-player-stats>
+      <name first-name="Jason" last-name="Witten"/>
+      <player-code id="6405" global-id="184571"/>
+      <has-stats offense="true" defense="false"/>
+      <player-position id="7" position="TE"/>
+      <player-number number="82"/>
+      <year year="2012"/>
+      <team-name name="Cowboys" alias="Dal"/>
+      <team-city city="Dallas"/>
+      <team-code id="6" global-id="331"/>
+      <conference name="NFC" id="2"/>
+      <player-status status="true"/>
+      <injured injured="false" text=""/>
+      <suspended suspended="false"/>
+      <physically-unable unable="false"/>
+      <practice-squad squad="false"/>
+      <non-football-injury reserve="false"/>
+      <nfl-player-stats-team>
+        <team-name name="Cowboys" alias="Dal"/>
+        <team-city city="Dallas"/>
+        <team-code id="6" global-id="331"/>
+        <conference name="NFC" id="2"/>
+        <nfl-player-stats-overall>
+          <games games="1"/>
+          <games-started games-started="1"/>
+          <touchdowns touchdowns="0" missed-FG-return="0"/>
+          <points points="0"/>
+          <two-point-points points="0" passes="0"/>
+          <fumbles fumbles="0" lost="0" own-recovered="0" own-yards="0" touchdowns="0"/>
+        </nfl-player-stats-overall>
+        <nfl-player-stats-receiving>
+          <leader-receiving-qualification qualification="true"/>
+          <receptions receptions="2"/>
+          <yards yards="10" yards-per-reception="5.00" yards-per-game="10.0"/>
+          <first-downs first-downs="1" percentage="50.0"/>
+          <touchdowns touchdowns="0" percentage="0.0"/>
+          <fumbles fumbles="0" lost="0"/>
+          <big-plays plays="0"/>
+          <long long="7" touchdown="false"/>
+          <yards-after-catch yards="0"/>
+          <receiving-yards-lost-to-penalties yards="0"/>
+          <targets targets="3" percent-caught="66.7" percent-first-down="33.3"/>
+          <drops drops="0"/>
+          <yard-100-games games="0"/>
+        </nfl-player-stats-receiving>
+      </nfl-player-stats-team>
+    </nfl-player-stats>
+  </sports-rankings>
+</sports-statistics>

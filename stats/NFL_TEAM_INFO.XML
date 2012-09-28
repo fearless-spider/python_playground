@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<nfl>
+  <date year="2012" month="9" date="6" day="4"/>
+  <time hour="2" minute="14" second="36" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+  <version number="1"/>
+  <season season="2012"/>
+    <conference id="3" label="AFC">
+      <division id="1" label="Eastern Division">
+        <team id="2" global-id="324"  city="Buffalo" name="Bills"  alias="Buf" />
+        <team id="15" global-id="345"  city="Miami" name="Dolphins"  alias="Mia" />
+        <team id="17" global-id="348"  city="New England" name="Patriots"  alias="NE" />
+        <team id="20" global-id="352"  city="New York" name="Jets"  alias="NYJ" />
+      </division>
+      <division id="3" label="Western Division">
+        <team id="7" global-id="332"  city="Denver" name="Broncos"  alias="Den" />
+        <team id="12" global-id="339"  city="Kansas City" name="Chiefs"  alias="KC" />
+        <team id="13" global-id="341"  city="Oakland" name="Raiders"  alias="Oak" />
+        <team id="24" global-id="357"  city="San Diego" name="Chargers"  alias="SD" />
+      </division>
+      <division id="4" label="Northern Division">
+        <team id="4" global-id="327"  city="Cincinnati" name="Bengals"  alias="Cin" />
+        <team id="5" global-id="329"  city="Cleveland" name="Browns"  alias="Cle" />
+        <team id="23" global-id="356"  city="Pittsburgh" name="Steelers"  alias="Pit" />
+        <team id="33" global-id="366"  city="Baltimore" name="Ravens"  alias="Bal" />
+      </division>
+      <division id="5" label="Southern Division">
+        <team id="34" global-id="325"  city="Houston" name="Texans"  alias="Hou" />
+        <team id="10" global-id="336"  city="Tennessee" name="Titans"  alias="Ten" />
+        <team id="11" global-id="338"  city="Indianapolis" name="Colts"  alias="Ind" />
+        <team id="30" global-id="365"  city="Jacksonville" name="Jaguars"  alias="Jac" />
+    </division>
+  </conference>
+  <conference id="4" label="NFC">
+    <division id="1" label="Eastern Division">
+      <team id="6" global-id="331"  city="Dallas" name="Cowboys"  alias="Dal" />
+      <team id="19" global-id="351"  city="New York" name="Giants"  alias="NYG" />
+      <team id="21" global-id="354"  city="Philadelphia" name="Eagles"  alias="Phi" />
+      <team id="28" global-id="363"  city="Washington" name="Redskins"  alias="Was" />
+    </division>
+    <division id="3" label="Western Division">
+      <team id="14" global-id="343"  city="St. Louis" name="Rams"  alias="StL" />
+      <team id="22" global-id="355"  city="Arizona" name="Cardinals"  alias="Ari" />
+      <team id="25" global-id="359"  city="San Francisco" name="49ers"  alias="SF" />
+      <team id="26" global-id="361"  city="Seattle" name="Seahawks"  alias="Sea" />
+    </division>
+    <division id="4" label="Northern Division">
+      <team id="3" global-id="326"  city="Chicago" name="Bears"  alias="Chi" />
+      <team id="8" global-id="334"  city="Detroit" name="Lions"  alias="Det" />
+      <team id="9" global-id="335"  city="Green Bay" name="Packers"  alias="GB" />
+      <team id="16" global-id="347"  city="Minnesota" name="Vikings"  alias="Min" />
+    </division>
+    <division id="5" label="Southern Division">
+      <team id="1" global-id="323"  city="Atlanta" name="Falcons"  alias="Atl" />
+      <team id="18" global-id="350"  city="New Orleans" name="Saints"  alias="NO" />
+      <team id="27" global-id="362"  city="Tampa Bay" name="Buccaneers"  alias="TB" />
+      <team id="29" global-id="364"  city="Carolina" name="Panthers"  alias="Car" />
+  </division>
+</conference>
+<all-star-teams>
+    <team id="31" global-id="478" city="AFC" name="Americans" alias="AFC"/>
+    <team id="32" global-id="479" city="NFC" name="Nationals" alias="NFC"/>
+</all-star-teams>
+</nfl>
