@@ -50,7 +50,7 @@ if __name__ == "__main__":
                     activity_exists(c, twitt[7])[0] == 0:
                 print parent
                 sql = "(10000000,'groups','twitter_update','" + replace_nonascii(
-                    twitt[4] + " posted an update in the team <a href=\"http://sportstreet.com/groups/" + parent[
+                    twitt[4] + " posted an update in the team <a href=\"/groups/" + parent[
                         0] + "/" + gslug + "/\">" + gname + "</a>:") + "','" + replace_nonascii(twitt[3]) + "','" + \
                       twitt[4] + "','" + str(twitt[5]) + "','" + str(item_id) + "','" + str(
                     twitt[7] or '') + "','" + str(twitt[8] or '') + "')"
