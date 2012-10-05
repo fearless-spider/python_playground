@@ -1,6 +1,6 @@
-# ./bhnet.py -l -p 9999 -c
-# ./bhnet.py -t localhost -p 9999
-# echo -ne "GET / HTTP/1.1\r\nHost: www.google.com\r\n\r\n" | ./bhnet.py -t www.google.com -p 80
+# ./netcat.py -l -p 9999 -c
+# ./netcat.py -t localhost -p 9999
+# echo -ne "GET / HTTP/1.1\r\nHost: www.google.com\r\n\r\n" | ./netcat.py -t www.google.com -p 80
 
 import sys
 import socket
