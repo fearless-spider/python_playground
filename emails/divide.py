@@ -1,8 +1,8 @@
 import os
 
 
-def split(filehandler, delimiter=',', row_limit=5000,
-          output_name_template='unique_%s.csv', output_path='.', keep_headers=True):
+def split(filehandler, delimiter=',', row_limit=1200,
+          output_name_template='wp-version-under-5.5_%s.csv', output_path='.', keep_headers=True):
     import csv
     reader = csv.reader(filehandler, delimiter=delimiter)
     current_piece = 1
@@ -30,4 +30,4 @@ def split(filehandler, delimiter=',', row_limit=5000,
 
 
 if __name__ == '__main__':
-    split(open('unique.csv', 'r'))
+    split(open('wp-version-under-5.5.csv', 'rU'))
