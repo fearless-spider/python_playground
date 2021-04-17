@@ -29,5 +29,5 @@ for i in pal_gen:
     print(i)
     digits = len(str(i))
     if digits == 5:
-        pal_gen.throw(ValueError("We dont like large polindromes"))
+        pal_gen.close()
     pal_gen.send(10 ** (digits))
