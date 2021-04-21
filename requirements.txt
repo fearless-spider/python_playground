@@ -2,3 +2,4 @@ BeautifulSoup
 feedparser
 MySQLdb
 paramiko
+dearpygui
