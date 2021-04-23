@@ -29,3 +29,12 @@ def sanitized_sqrt(numbers):
     return list(cleaned_iter)
 
 print(sanitized_sqrt([25, 9, 81, -16, 0]))
+
+
+import functools
+import operator
+import os
+import os.path
+
+files = os.listdir(os.path.expanduser("~"))
+total = functools.reduce(operator.add, map(os.path.getsize, files))
