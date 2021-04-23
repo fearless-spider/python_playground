@@ -13,3 +13,8 @@ squered = map(square, numbers)
 
 print(squered)
 print(list(squered))
+
+squered = map(lambda num: num ** 2, numbers)
+
+print(squered)
+print(list(squered))
