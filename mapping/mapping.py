@@ -19,6 +19,12 @@ squered = map(lambda num: num ** 2, numbers)
 print(squered)
 print(list(squered))
 
+squered = [square(x) for x in numbers]
+print(squered)
+
+squered = (squered(x) for x in numbers)
+print(squered)
+
 import math
 
 def is_positive(num):
