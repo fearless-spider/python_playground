@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 GetDeviceAngle - 0xD7
 GetCurFanPumpSpeed - 0xD8
@@ -46,61 +47,75 @@ Bytes [8] and [9] appear to be the fan and pump duty percentages, respectively. 
 
 Additionally, if you're going to start setting pump curve, you should be checking the model + firmware and clamping the rpm where necessary? Gigabyte seems to set the lower boundary at 750rpm, and the upper at 2800 or 3200 depending on firmware version. (There are also some model checks involved, but they are against what looks like OEM versions of the cooler with different usb PID.)
 """
+import time
+
+import psutil
 import usb.core
 import usb.util
-import psutil
-import time
+
+
 def get_cpu_temp():
     t = psutil.sensors_temperatures()
-    for x in ['coretemp']:
+    for x in ["coretemp"]:
         if x in t:
             return int(t[x][0].current)
     print("Warning: Unable to get CPU temperature!")
-    return 0 
+    return 0
+
+
 def makecpuupdatestr():
-  #change to your number of core 
-  ncore=24
-  #change to your number of threads
-  nthread=32
-  #change to your cpu Ghz
-  ghz=5.5
-  
-  cputemp="{:02x}".format(get_cpu_temp())
-  ncorestr="{:02x}".format(ncore)
-  nthreadstr="{:02x}".format(nthread)
-  ghz1="{:02x}".format(int(ghz))
-  ghz2="{:02x}".format(int( (ghz-int(ghz))*10) )
-  print(ghz1)
-  print(ghz2)
-  data="99e000"+cputemp+"18"+ghz1+ghz2+ncorestr+nthreadstr
-  print(data)
-  data+="0"*(6144*2-len(data))
-  barray=bytes.fromhex(data)
-#  print(len(barray))
-  return barray
+    # change to your number of core
+    ncore = 10
+    # change to your number of threads
+    nthread = 20
+    # change to your cpu Ghz
+    ghz = 5.3
+
+    cputemp = "{:02x}".format(get_cpu_temp())
+    ncorestr = "{:02x}".format(ncore)
+    nthreadstr = "{:02x}".format(nthread)
+    ghz1 = "{:02x}".format(int(ghz))
+    ghz2 = "{:02x}".format(int((ghz - int(ghz)) * 10))
+    print(ghz1)
+    print(ghz2)
+    data = "99e000" + cputemp + "18" + ghz1 + ghz2 + ncorestr + nthreadstr
+    print(data)
+    data += "0" * (6144 * 2 - len(data))
+    barray = bytes.fromhex(data)
+    return barray
+
+
 def readhexdump(filename):
-  f=open(filename,"r")
-  data=f.read()
-  barray=bytes.fromhex(data)
-  return barray
+    f = open(filename, "r")
+    data = f.read()
+    barray = bytes.fromhex(data)
+    return barray
+
+
 # find our device
-dev = usb.core.find(idVendor=0x1044, idProduct=0x7a4d)
+dev = usb.core.find(idVendor=0x1044, idProduct=0x7A4D)
 
 # was it found?
 if dev is None:
-    raise ValueError('Device not found')
-bdata=makecpuupdatestr()
-endpoint = dev[0][(0,0)][0]
-endpoint2 = dev[0][(0,0)][1]
-interface=0
+    raise ValueError("Device not found")
+
+bdata = makecpuupdatestr()
+endpoint = dev[0][(0, 0)][0]
+endpoint2 = dev[0][(0, 0)][1]
+interface = 0
+print(dev)
 if dev.is_kernel_driver_active(interface) is True:
-  # tell the kernel to detach
-  dev.detach_kernel_driver(interface)
-  usb.util.claim_interface(dev, interface)
-while(True):
- try:
-     bdata=makecpuupdatestr()
-     dev.write(endpoint2,bdata)
- except usb.core.USBError as e:
-        print(e)
- time.sleep(2)
+    # tell the kernel to detach
+    print(dev[0])
+    dev.detach_kernel_driver(interface)
+    usb.util.claim_interface(dev, interface)
+    while True:
+        try:
+            bdata = makecpuupdatestr()
+            dev.write(endpoint2, bdata)
+        except usb.core.USBError as e:
+            print(e)
+        time.sleep(2)
+else:
+    print("Not active")
+    dev.attach_kernel_driver(interface)
