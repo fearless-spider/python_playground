@@ -1,5 +1,8 @@
-BeautifulSoup
+bs4
 feedparser
 MySQLdb
 paramiko
 dearpygui
+elasticsearch
+pandas
+numpy
