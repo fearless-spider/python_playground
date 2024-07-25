@@ -6,3 +6,8 @@ dearpygui
 elasticsearch
 pandas
 numpy
+google-cloud
+python-dotenv
+google-cloud-storage
+google-cloud-bigquery
+scrapegraphai
